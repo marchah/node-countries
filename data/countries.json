@@ -383,7 +383,7 @@
       {
         "short": "CC",
         "name": "Cocos Islands",
-        "alt": [
+        "alias": [
           "Keeling Islands"
         ]
       },
@@ -882,14 +882,14 @@
       {
         "short": "HAI",
         "name": "Henegouwen",
-        "alt": [
+        "alias": [
           "Hainaut"
         ]
       },
       {
         "short": "LIE",
         "name": "Luik",
-        "alt": [
+        "alias": [
           "Liège"
         ]
       },
@@ -1842,7 +1842,7 @@
       {
         "short": "NL",
         "name": "Newfoundland and Labrador",
-        "alt": [
+        "alias": [
           "Newfoundland",
           "Labrador"
         ]
@@ -5917,28 +5917,28 @@
       {
         "name": "Aguascalientes",
         "short": "AG",
-        "alt": [
+        "alias": [
           "AGS"
         ]
       },
       {
         "name": "Baja California",
         "short": "BC",
-        "alt": [
+        "alias": [
           "BCN"
         ]
       },
       {
         "name": "Baja California Sur",
         "short": "BS",
-        "alt": [
+        "alias": [
           "BCS"
         ]
       },
       {
         "name": "Campeche",
         "short": "CM",
-        "alt": [
+        "alias": [
           "Camp",
           "CAM"
         ]
@@ -5946,7 +5946,7 @@
       {
         "name": "Chiapas",
         "short": "CS",
-        "alt": [
+        "alias": [
           "Chis",
           "CHP"
         ]
@@ -5954,7 +5954,7 @@
       {
         "name": "Chihuahua",
         "short": "CH",
-        "alt": [
+        "alias": [
           "Chih",
           "CHH"
         ]
@@ -5962,7 +5962,7 @@
       {
         "name": "Coahuila",
         "short": "MX",
-        "alt": [
+        "alias": [
           "Coah",
           "COA"
         ]
@@ -5970,21 +5970,21 @@
       {
         "name": "Colima",
         "short": "CL",
-        "alt": [
+        "alias": [
           "COL"
         ]
       },
       {
         "name": "Federal District",
         "short": "DF",
-        "alt": [
+        "alias": [
           "DIF"
         ]
       },
       {
         "name": "Durango",
         "short": "DG",
-        "alt": [
+        "alias": [
           "Dgo",
           "DUR"
         ]
@@ -5992,7 +5992,7 @@
       {
         "name": "Guanajuato",
         "short": "GT",
-        "alt": [
+        "alias": [
           "Gto",
           "GUA"
         ]
@@ -6000,7 +6000,7 @@
       {
         "name": "Guerrero",
         "short": "GR",
-        "alt": [
+        "alias": [
           "Gro",
           "GRO"
         ]
@@ -6008,7 +6008,7 @@
       {
         "name": "Hidalgo",
         "short": "HG",
-        "alt": [
+        "alias": [
           "Hgo",
           "HID"
         ]
@@ -6016,7 +6016,7 @@
       {
         "name": "Jalisco",
         "short": "JA",
-        "alt": [
+        "alias": [
           "Jal",
           "JAL"
         ]
@@ -6024,7 +6024,7 @@
       {
         "name": "Mexico",
         "short": "ME",
-        "alt": [
+        "alias": [
           "Edomex",
           "MEX"
         ]
@@ -6032,7 +6032,7 @@
       {
         "name": "Michoacán",
         "short": "MI",
-        "alt": [
+        "alias": [
           "Mich",
           "MIC"
         ]
@@ -6040,7 +6040,7 @@
       {
         "name": "Morelos",
         "short": "MO",
-        "alt": [
+        "alias": [
           "Mor",
           "MOR"
         ]
@@ -6048,7 +6048,7 @@
       {
         "name": "Nayarit",
         "short": "NA",
-        "alt": [
+        "alias": [
           "Nay",
           "NAY"
         ]
@@ -6056,14 +6056,14 @@
       {
         "name": "Nuevo León",
         "short": "NL",
-        "alt": [
+        "alias": [
           "NLE"
         ]
       },
       {
         "name": "Oaxaca",
         "short": "OA",
-        "alt": [
+        "alias": [
           "Oax",
           "OAX"
         ]
@@ -6071,7 +6071,7 @@
       {
         "name": "Puebla",
         "short": "PU",
-        "alt": [
+        "alias": [
           "Pue",
           "PUE"
         ]
@@ -6079,7 +6079,7 @@
       {
         "name": "Querétaro",
         "short": "QE",
-        "alt": [
+        "alias": [
           "Qro",
           "QUE"
         ]
@@ -6087,7 +6087,7 @@
       {
         "name": "Quintana Roo",
         "short": "QR",
-        "alt": [
+        "alias": [
           "Q Roo",
           "ROO"
         ]
@@ -6095,35 +6095,35 @@
       {
         "name": "San Luis Potosí",
         "short": "SL",
-        "alt": [
+        "alias": [
           "SLP"
         ]
       },
       {
         "name": "Sinaloa",
         "short": "SI",
-        "alt": [
+        "alias": [
           "SIN"
         ]
       },
       {
         "name": "Sonora",
         "short": "SO",
-        "alt": [
+        "alias": [
           "SON"
         ]
       },
       {
         "name": "Tabasco",
         "short": "TB",
-        "alt": [
+        "alias": [
           "TAB"
         ]
       },
       {
         "name": "Tamaulipas",
         "short": "TM",
-        "alt": [
+        "alias": [
           "Tamps",
           "TAM"
         ]
@@ -6131,7 +6131,7 @@
       {
         "name": "Tlaxcala",
         "short": "TL",
-        "alt": [
+        "alias": [
           "Tlax",
           "TLA"
         ]
@@ -6139,21 +6139,21 @@
       {
         "name": "Veracruz",
         "short": "VE",
-        "alt": [
+        "alias": [
           "VER"
         ]
       },
       {
         "name": "Yucatán",
         "short": "YU",
-        "alt": [
+        "alias": [
           "YUC"
         ]
       },
       {
         "name": "Zacatecas",
         "short": "ZA",
-        "alt": [
+        "alias": [
           "ZAC"
         ]
       }
@@ -7160,7 +7160,7 @@
         "region": "Loreto"
       },
       {
-        "name": "Alto Amazonas",
+        "name": "aliaso Amazonas",
         "region": "Loreto"
       },
       {
