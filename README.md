@@ -11,6 +11,39 @@ $ npm install node-countries
 
 ## Documentation
 
+This module currently has states and provinces for:
+
+* united states (US)
+* united kingdom (GB)
+* canada (CA)
+* mexico (MX)
+* australia (AU)
+* china (CN)
+* germany (DE)
+* belgium (BE)
+* netherlands (NL)
+* denmark (DK)
+* Turkey (TR)
+* Indonesia (ID)
+* Jordan (JO)
+* India (IN)
+* Cambodia (KH)
+* Ethiopia (ET)
+* Peru (PE)
+* Cuba (CU)
+* Argentina (AR)
+* Chile (CL)
+* Bolivia (BO)
+* Spain (ES)
+* Bangladesh (BD)
+* Pakistan (PK)
+* Nigeria (NG)
+* Japan (JP)
+* austria (AT)
+* brazil (BR)
+* Philippines (PH)
+* Vietnam (VN)
+
 ### Data
 
 #### `JSON`
