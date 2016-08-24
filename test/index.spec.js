@@ -21,11 +21,13 @@ const Andorra = {
 const California = {
   short: 'CA',
   name: 'California',
+  alias: null,
 };
 
 const Nagasaki = {
   name: '長崎県',
   english: 'Nagasaki',
+  alias: null,
 };
 
 describe('Unit Testing ->', () => {
