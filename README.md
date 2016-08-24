@@ -122,9 +122,9 @@ Also you have the possibility to find province information by name
 
 Return the matched province object, else undefined (alias: `findProvinceByName`)
 
-##### getProvinceByEnglishName(englishName, [isCaseSensitive])
+##### getProvinceByNameAndAlias(englishName, [isCaseSensitive])
 
-Return the matched province object, else undefined (alias: `findProvinceByEnglishName`)
+Return the matched province object, else undefined (alias: `findProvinceByNameAndAlias`)
 
 
 ## Methods
