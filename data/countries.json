@@ -585,387 +585,451 @@
     "provinces": [
       {
         "name": "বরগুনা",
-        "english": "Barguna",
         "region": "Barisal",
-        "alias": null
+        "alias": [
+          "Barguna"
+        ]
       },
       {
         "name": "বরিশাল",
-        "english": "Barisal",
         "region": "Barisal",
-        "alias": null
+        "alias": [
+          "Barisal"
+        ]
       },
       {
         "name": "ভোলা",
-        "english": "Bhola",
         "region": "Barisal",
-        "alias": null
+        "alias": [
+          "Bhola"
+        ]
       },
       {
         "name": "ঝালকাঠি",
-        "english": "Jhalokati",
         "region": "Barisal",
-        "alias": null
+        "alias": [
+          "Jhalokati"
+        ]
       },
       {
         "name": "পটুয়াখালী",
-        "english": "Patuakhali",
         "region": "Barisal",
-        "alias": null
+        "alias": [
+          "Patuakhali"
+        ]
       },
       {
         "name": "পিরোজপুর",
-        "english": "Pirojpur",
         "region": "Barisal",
-        "alias": null
+        "alias": [
+          "Pirojpur"
+        ]
       },
       {
         "name": "বান্দরবান",
-        "english": "Bandarban",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Bandarban"
+        ]
       },
       {
         "name": "ব্রাহ্মণবাড়ীয়া",
-        "english": "Brahmanbaria",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Brahmanbaria"
+        ]
       },
       {
         "name": "চাঁদপুর",
-        "english": "Chandpur",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Chandpur"
+        ]
       },
       {
         "name": "চট্টগ্রাম",
-        "english": "Chittagong",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Chittagong"
+        ]
       },
       {
         "name": "কুমিল্লা",
-        "english": "Comilla",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Comilla"
+        ]
       },
       {
         "name": "কক্সবাজার",
-        "english": "Cox's Bazar",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Cox's Bazar"
+        ]
       },
       {
         "name": "ফেনী",
-        "english": "Feni",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Feni"
+        ]
       },
       {
         "name": "খাগড়াছড়ি",
-        "english": "Khagrachhari",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Khagrachhari"
+        ]
       },
       {
         "name": "লক্ষীপুর",
-        "english": "Lakshmipur",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Lakshmipur"
+        ]
       },
       {
         "name": "নোয়াখালী",
-        "english": "Noakhali",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Noakhali"
+        ]
       },
       {
         "name": "রাঙ্গামাটি",
-        "english": "Rangamati",
         "region": "Chittagong",
-        "alias": null
+        "alias": [
+          "Rangamati"
+        ]
       },
       {
         "name": "ঢাকা",
-        "english": "Dhaka",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Dhaka"
+        ]
       },
       {
         "name": "ফরিদপুর",
-        "english": "Faridpur",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Faridpur"
+        ]
       },
       {
         "name": "গাজীপুর",
-        "english": "Gazipur",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Gazipur"
+        ]
       },
       {
         "name": "গোপালগঞ্জ",
-        "english": "Gopalganj",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Gopalganj"
+        ]
       },
       {
         "name": "জামালপুর",
-        "english": "Jamalpur",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Jamalpur"
+        ]
       },
       {
         "name": "কিশোরগঞ্জ",
-        "english": "Kishoreganj",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Kishoreganj"
+        ]
       },
       {
         "name": "মাদারীপুর",
-        "english": "Madaripur",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Madaripur"
+        ]
       },
       {
         "name": "মানিকগঞ্জ",
-        "english": "Manikganj",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Manikganj"
+        ]
       },
       {
         "name": "মুন্সীগঞ্জ",
-        "english": "Munshiganj",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Munshiganj"
+        ]
       },
       {
         "name": "ময়মনসিংহ",
-        "english": "Mymensingh",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Mymensingh"
+        ]
       },
       {
         "name": "নারায়ণগঞ্জ",
-        "english": "Narayanganj",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Narayanganj"
+        ]
       },
       {
         "name": "নরসিংদী",
-        "english": "Narsingdi",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Narsingdi"
+        ]
       },
       {
         "name": "নেত্রকোনা",
-        "english": "Netrakona",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Netrakona"
+        ]
       },
       {
         "name": "রাজবাড়ী",
-        "english": "Rajbari",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Rajbari"
+        ]
       },
       {
         "name": "শরীয়তপুর",
-        "english": "Shariatpur",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Shariatpur"
+        ]
       },
       {
         "name": "শেরপুর",
-        "english": "Sherpur",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Sherpur"
+        ]
       },
       {
         "name": "টাঙ্গাইল",
-        "english": "Tangail",
         "region": "Dhaka",
-        "alias": null
+        "alias": [
+          "Tangail"
+        ]
       },
       {
         "name": "বাগেরহাট",
-        "english": "Bagerhat",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Bagerhat"
+        ]
       },
       {
         "name": "চুয়াডাঙ্গা",
-        "english": "Chuadanga",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Chuadanga"
+        ]
       },
       {
         "name": "যশোর",
-        "english": "Jessore",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Jessore"
+        ]
       },
       {
         "name": "ঝিনাইদহ",
-        "english": "Jhenaidah",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Jhenaidah"
+        ]
       },
       {
         "name": "খুলনা",
-        "english": "Khulna",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Khulna"
+        ]
       },
       {
         "name": "কুষ্টিয়া",
-        "english": "Kushtia",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Kushtia"
+        ]
       },
       {
         "name": "মাগুরা",
-        "english": "Magura",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Magura"
+        ]
       },
       {
         "name": "মেহেরপুর",
-        "english": "Meherpur",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Meherpur"
+        ]
       },
       {
         "name": "নড়াইল",
-        "english": "Narail",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Narail"
+        ]
       },
       {
         "name": "সাতক্ষিরা",
-        "english": "Satkhira",
         "region": "Khulna",
-        "alias": null
+        "alias": [
+          "Satkhira"
+        ]
       },
       {
         "name": "বগুড়া",
-        "english": "Bogra",
         "region": "Rajshahi",
-        "alias": null
+        "alias": [
+          "Bogra"
+        ]
       },
       {
         "name": "জয়পুরহাট",
-        "english": "Joypurhat",
         "region": "Rajshahi",
-        "alias": null
+        "alias": [
+          "Joypurhat"
+        ]
       },
       {
         "name": "নওগাঁ",
-        "english": "Naogaon",
         "region": "Rajshahi",
-        "alias": null
+        "alias": [
+          "Naogaon"
+        ]
       },
       {
         "name": "নাটোর",
-        "english": "Natore",
         "region": "Rajshahi",
-        "alias": null
+        "alias": [
+          "Natore"
+        ]
       },
       {
         "name": "নওয়াবগঞ্জ",
-        "english": "Chapainawabganj",
         "region": "Rajshahi",
-        "alias": null
+        "alias": [
+          "Chapainawabganj"
+        ]
       },
       {
         "name": "পাবনা",
-        "english": "Pabna",
         "region": "Rajshahi",
-        "alias": null
+        "alias": [
+          "Pabna"
+        ]
       },
       {
         "name": "রাজশাহী",
-        "english": "Rajshahi",
         "region": "Rajshahi",
-        "alias": null
+        "alias": [
+          "Rajshahi"
+        ]
       },
       {
         "name": "সিরাজগঞ্জ",
-        "english": "Sirajganj",
         "region": "Rajshahi",
-        "alias": null
+        "alias": [
+          "Sirajganj"
+        ]
       },
       {
         "name": "দিনাজপুর",
-        "english": "Dinajpur",
         "region": "Rangpur",
-        "alias": null
+        "alias": [
+          "Dinajpur"
+        ]
       },
       {
         "name": "গাইবান্ধা",
-        "english": "Gaibandha",
         "region": "Rangpur",
-        "alias": null
+        "alias": [
+          "Gaibandha"
+        ]
       },
       {
         "name": "কুড়িগ্রাম",
-        "english": "Kurigram",
         "region": "Rangpur",
-        "alias": null
+        "alias": [
+          "Kurigram"
+        ]
       },
       {
         "name": "লালমনিরহাট",
-        "english": "Lalmonirhat",
         "region": "Rangpur",
-        "alias": null
+        "alias": [
+          "Lalmonirhat"
+        ]
       },
       {
         "name": "নীলফামারী",
-        "english": "Nilphamari",
         "region": "Rangpur",
-        "alias": null
+        "alias": [
+          "Nilphamari"
+        ]
       },
       {
         "name": "পঞ্চগড়",
-        "english": "Panchagarh",
         "region": "Rangpur",
-        "alias": null
+        "alias": [
+          "Panchagarh"
+        ]
       },
       {
         "name": "রংপুর",
-        "english": "Rangpur",
         "region": "Rangpur",
-        "alias": null
+        "alias": [
+          "Rangpur"
+        ]
       },
       {
         "name": "ঠাকুরগাঁ",
-        "english": "Thakurgaon",
         "region": "Rangpur",
-        "alias": null
+        "alias": [
+          "Thakurgaon"
+        ]
       },
       {
         "name": "হবিগঞ্জ",
-        "english": "Habiganj",
         "region": "Sylhet",
-        "alias": null
+        "alias": [
+          "Habiganj"
+        ]
       },
       {
         "name": "মৌলভীবাজার",
-        "english": "Moulvibazar",
         "region": "Sylhet",
-        "alias": null
+        "alias": [
+          "Moulvibazar"
+        ]
       },
       {
         "name": "সুনামগঞ্জ",
-        "english": "Sunamganj",
         "region": "Sylhet",
-        "alias": null
+        "alias": [
+          "Sunamganj"
+        ]
       },
       {
         "name": "সিলেট",
-        "english": "Sylhet",
         "region": "Sylhet",
-        "alias": null
+        "alias": [
+          "Sylhet"
+        ]
       }
     ]
   },
@@ -5507,238 +5571,285 @@
     "provinces": [
       {
         "name": "愛知県",
-        "english": "Aichi",
-        "alias": null
+        "alias": [
+          "Aichi"
+        ]
       },
       {
         "name": "秋田県",
-        "english": "Akita",
-        "alias": null
+        "alias": [
+          "Akita"
+        ]
       },
       {
         "name": "青森県",
-        "english": "Aomori",
-        "alias": null
+        "alias": [
+          "Aomori"
+        ]
       },
       {
         "name": "千葉県",
-        "english": "Chiba",
-        "alias": null
+        "alias": [
+          "Chiba"
+        ]
       },
       {
         "name": "愛媛県",
-        "english": "Ehime",
-        "alias": null
+        "alias": [
+          "Ehime"
+        ]
       },
       {
         "name": "福井県",
-        "english": "Fukui",
-        "alias": null
+        "alias": [
+          "Fukui"
+        ]
       },
       {
         "name": "福岡県",
-        "english": "Fukuoka",
-        "alias": null
+        "alias": [
+          "Fukuoka"
+        ]
       },
       {
         "name": "福島県",
-        "english": "Fukushima",
-        "alias": null
+        "alias": [
+          "Fukushima"
+        ]
       },
       {
         "name": "岐阜県",
-        "english": "Gifu",
-        "alias": null
+        "alias": [
+          "Gifu"
+        ]
       },
       {
         "name": "群馬県",
-        "english": "Gunma",
-        "alias": null
+        "alias": [
+          "Gunma"
+        ]
       },
       {
         "name": "広島県",
-        "english": "Hiroshima",
-        "alias": null
+        "alias": [
+          "Hiroshima"
+        ]
       },
       {
         "name": "北海道",
-        "english": "Hokkaidō",
-        "alias": null
+        "alias": [
+          "Hokkaidō"
+        ]
       },
       {
         "name": "兵庫県",
-        "english": "Hyōgo",
-        "alias": null
+        "alias": [
+          "Hyōgo"
+        ]
       },
       {
         "name": "茨城県",
-        "english": "Ibaraki",
-        "alias": null
+        "alias": [
+          "Ibaraki"
+        ]
       },
       {
         "name": "石川県",
-        "english": "Ishikawa",
-        "alias": null
+        "alias": [
+          "Ishikawa"
+        ]
       },
       {
         "name": "岩手県",
-        "english": "Iwate",
-        "alias": null
+        "alias": [
+          "Iwate"
+        ]
       },
       {
         "name": "香川県",
-        "english": "Kagawa",
-        "alias": null
+        "alias": [
+          "Kagawa"
+        ]
       },
       {
         "name": "鹿児島県",
-        "english": "Kagoshima",
-        "alias": null
+        "alias": [
+          "Kagoshima"
+        ]
       },
       {
         "name": "神奈川県",
-        "english": "Kanagawa",
-        "alias": null
+        "alias": [
+          "Kanagawa"
+        ]
       },
       {
         "name": "高知県",
-        "english": "Kōchi",
-        "alias": null
+        "alias": [
+          "Kōchi"
+        ]
       },
       {
         "name": "熊本県",
-        "english": "Kumamoto",
-        "alias": null
+        "alias": [
+          "Kumamoto"
+        ]
       },
       {
         "name": "京都府",
-        "english": "Kyōto",
-        "alias": null
+        "alias": [
+          "Kyōto"
+        ]
       },
       {
         "name": "三重県",
-        "english": "Mie",
-        "alias": null
+        "alias": [
+          "Mie"
+        ]
       },
       {
         "name": "宮城県",
-        "english": "Miyagi",
-        "alias": null
+        "alias": [
+          "Miyagi"
+        ]
       },
       {
         "name": "宮崎県",
-        "english": "Miyazaki",
-        "alias": null
+        "alias": [
+          "Miyazaki"
+        ]
       },
       {
         "name": "長野県",
-        "english": "Nagano",
-        "alias": null
+        "alias": [
+          "Nagano"
+        ]
       },
       {
         "name": "長崎県",
-        "english": "Nagasaki",
-        "alias": null
+        "alias": [
+          "Nagasaki"
+        ]
       },
       {
         "name": "奈良県",
-        "english": "Nara",
-        "alias": null
+        "alias": [
+          "Nara"
+        ]
       },
       {
         "name": "新潟県",
-        "english": "Niigata",
-        "alias": null
+        "alias": [
+          "Niigata"
+        ]
       },
       {
         "name": "大分県",
-        "english": "Ōita",
-        "alias": null
+        "alias": [
+          "Ōita"
+        ]
       },
       {
         "name": "岡山県",
-        "english": "Okayama",
-        "alias": null
+        "alias": [
+          "Okayama"
+        ]
       },
       {
         "name": "沖縄県",
-        "english": "Okinawa",
-        "alias": null
+        "alias": [
+          "Okinawa"
+        ]
       },
       {
         "name": "大阪府",
-        "english": "Ōsaka",
-        "alias": null
+        "alias": [
+          "Ōsaka"
+        ]
       },
       {
         "name": "佐賀県",
-        "english": "Saga",
-        "alias": null
+        "alias": [
+          "Saga"
+        ]
       },
       {
         "name": "埼玉県",
-        "english": "Saitama",
-        "alias": null
+        "alias": [
+          "Saitama"
+        ]
       },
       {
         "name": "滋賀県",
-        "english": "Shiga",
-        "alias": null
+        "alias": [
+          "Shiga"
+        ]
       },
       {
         "name": "島根県",
-        "english": "Shimane",
-        "alias": null
+        "alias": [
+          "Shimane"
+        ]
       },
       {
         "name": "静岡県",
-        "english": "Shizuoka",
-        "alias": null
+        "alias": [
+          "Shizuoka"
+        ]
       },
       {
         "name": "栃木県",
-        "english": "Tochigi",
-        "alias": null
+        "alias": [
+          "Tochigi"
+        ]
       },
       {
         "name": "徳島県",
-        "english": "Tokushima",
-        "alias": null
+        "alias": [
+          "Tokushima"
+        ]
       },
       {
         "name": "東京都",
-        "english": "Tōkyō",
-        "alias": null
+        "alias": [
+          "Tōkyō"
+        ]
       },
       {
         "name": "鳥取県",
-        "english": "Tottori",
-        "alias": null
+        "alias": [
+          "Tottori"
+        ]
       },
       {
         "name": "富山県",
-        "english": "Toyama",
-        "alias": null
+        "alias": [
+          "Toyama"
+        ]
       },
       {
         "name": "和歌山県",
-        "english": "Wakayama",
-        "alias": null
+        "alias": [
+          "Wakayama"
+        ]
       },
       {
         "name": "山形県",
-        "english": "Yamagata",
-        "alias": null
+        "alias": [
+          "Yamagata"
+        ]
       },
       {
         "name": "山口県",
-        "english": "Yamaguchi",
-        "alias": null
+        "alias": [
+          "Yamaguchi"
+        ]
       },
       {
         "name": "山梨県",
-        "english": "Yamanashi",
-        "alias": null
+        "alias": [
+          "Yamanashi"
+        ]
       }
     ]
   },
@@ -5806,128 +5917,153 @@
     "provinces": [
       {
         "name": "ភ្នំពេញ",
-        "english": "Phnom Penh Municipality",
-        "alias": null
+        "alias": [
+          "Phnom Penh Municipality"
+        ]
       },
       {
         "name": "បន្ទាយមានជ័យ",
-        "english": "Banteay Meanchey",
-        "alias": null
+        "alias": [
+          "Banteay Meanchey"
+        ]
       },
       {
         "name": "បាត់ដំបង",
-        "english": "Battambang",
-        "alias": null
+        "alias": [
+          "Battambang"
+        ]
       },
       {
         "name": "កំពង់ចាម",
-        "english": "Kampong Cham",
-        "alias": null
+        "alias": [
+          "Kampong Cham"
+        ]
       },
       {
         "name": "កំពង់ឆ្នាំង",
-        "english": "Kampong Chhnang",
-        "alias": null
+        "alias": [
+          "Kampong Chhnang"
+        ]
       },
       {
         "name": "កំពង់ស្ពឺ",
-        "english": "Kampong Speu",
-        "alias": null
+        "alias": [
+          "Kampong Speu"
+        ]
       },
       {
         "name": "កំពង់ធំ",
-        "english": "Kampong Thom",
-        "alias": null
+        "alias": [
+          "Kampong Thom"
+        ]
       },
       {
         "name": "កំពត",
-        "english": "Kampot",
-        "alias": null
+        "alias": [
+          "Kampot"
+        ]
       },
       {
         "name": "កណ្តាល",
-        "english": "Kandal",
-        "alias": null
+        "alias": [
+          "Kandal"
+        ]
       },
       {
         "name": "កោះកុង",
-        "english": "Koh Kong",
-        "alias": null
+        "alias": [
+          "Koh Kong"
+        ]
       },
       {
         "name": "កែប",
-        "english": "Kep",
-        "alias": null
+        "alias": [
+          "Kep"
+        ]
       },
       {
         "name": "ក្រចេះ",
-        "english": "Kratié",
-        "alias": null
+        "alias": [
+          "Kratié"
+        ]
       },
       {
         "name": "មណ្ឌលគីរី",
-        "english": "Mondulkiri",
-        "alias": null
+        "alias": [
+          "Mondulkiri"
+        ]
       },
       {
         "name": "ឧត្តរមានជ័យ",
-        "english": "Oddar Meanchey",
-        "alias": null
+        "alias": [
+          "Oddar Meanchey"
+        ]
       },
       {
         "name": "បៃលិន",
-        "english": "Pailin",
-        "alias": null
+        "alias": [
+          "Pailin"
+        ]
       },
       {
         "name": "ព្រះសីហនុ",
-        "english": "Preah Sihanouk",
-        "alias": null
+        "alias": [
+          "Preah Sihanouk"
+        ]
       },
       {
         "name": "ព្រះវិហារ",
-        "english": "Preah Vihear",
-        "alias": null
+        "alias": [
+          "Preah Vihear"
+        ]
       },
       {
         "name": "ពោធិ៍សាត់",
-        "english": "Pursat",
-        "alias": null
+        "alias": [
+          "Pursat"
+        ]
       },
       {
         "name": "ព្រៃវែង",
-        "english": "Prey Veng",
-        "alias": null
+        "alias": [
+          "Prey Veng"
+        ]
       },
       {
         "name": "រតនគីរី",
-        "english": "Ratanakiri",
-        "alias": null
+        "alias": [
+          "Ratanakiri"
+        ]
       },
       {
         "name": "សៀមរាប",
-        "english": "Siem Reap",
-        "alias": null
+        "alias": [
+          "Siem Reap"
+        ]
       },
       {
         "name": "ស្ទឹងត្រែង",
-        "english": "Stung Treng",
-        "alias": null
+        "alias": [
+          "Stung Treng"
+        ]
       },
       {
         "name": "ស្វាយរៀង",
-        "english": "Svay Rieng",
-        "alias": null
+        "alias": [
+          "Svay Rieng"
+        ]
       },
       {
         "name": "តាកែវ",
-        "english": "Takéo",
-        "alias": null
+        "alias": [
+          "Takéo"
+        ]
       },
       {
         "name": "ត្បូងឃ្មុំ",
-        "english": "Tbong Khmum",
-        "alias": null
+        "alias": [
+          "Tbong Khmum"
+        ]
       }
     ]
   },
