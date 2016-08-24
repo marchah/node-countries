@@ -1,0 +1,29 @@
+{
+  "extends": [
+    "airbnb/base"
+  ],
+
+  // Node.js global variables and Node.js-specific rules
+  "env": {
+    "node": true
+  },
+
+  "globals": {
+  },
+
+  "rules": {
+    // opt out of `node --use_strict` as some dependencies may not be in strict mode
+    "strict": "off",
+
+    // opt out of `prefer-rest-params` until node 6
+    "prefer-rest-params": "off",
+
+    "brace-style": ["error", "stroustrup"],
+
+    "no-param-reassign": ["error", { "props": false }],
+
+    "new-cap": ["error", { "capIsNewExceptions": ["REF"] }],
+
+    "no-use-before-define": ["error", { "functions": false }]
+  }
+}

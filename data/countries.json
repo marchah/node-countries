@@ -1,0 +1,10351 @@
+[
+  {
+    "alpha2": "AC",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+247"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "SHP",
+    "languages": [
+      "eng"
+    ],
+    "name": "Ascension Island",
+    "status": "reserved",
+    "provinces": null
+  },
+  {
+    "alpha2": "AD",
+    "alpha3": "AND",
+    "countryCallingCodes": [
+      "+376"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "AND",
+    "languages": [
+      "cat"
+    ],
+    "name": "Andorra",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AE",
+    "alpha3": "ARE",
+    "countryCallingCodes": [
+      "+971"
+    ],
+    "currencies": [
+      "AED"
+    ],
+    "ioc": "UAE",
+    "languages": [
+      "ara"
+    ],
+    "name": "United Arab Emirates",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AF",
+    "alpha3": "AFG",
+    "countryCallingCodes": [
+      "+93"
+    ],
+    "currencies": [
+      "AFN"
+    ],
+    "ioc": "AFG",
+    "languages": [
+      "pus"
+    ],
+    "name": "Afghanistan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AG",
+    "alpha3": "ATG",
+    "countryCallingCodes": [
+      "+1 268"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "ioc": "ANT",
+    "languages": [
+      "eng"
+    ],
+    "name": "Antigua And Barbuda",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AI",
+    "alpha3": "AIA",
+    "countryCallingCodes": [
+      "+1 264"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Anguilla",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AI",
+    "alpha3": "AFI",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "French Afar and Issas",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "AL",
+    "alpha3": "ALB",
+    "countryCallingCodes": [
+      "+355"
+    ],
+    "currencies": [
+      "ALL"
+    ],
+    "ioc": "ALB",
+    "languages": [
+      "sqi"
+    ],
+    "name": "Albania",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AM",
+    "alpha3": "ARM",
+    "countryCallingCodes": [
+      "+374"
+    ],
+    "currencies": [
+      "AMD"
+    ],
+    "ioc": "ARM",
+    "languages": [
+      "hye",
+      "rus"
+    ],
+    "name": "Armenia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AN",
+    "alpha3": "ANT",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Netherlands Antilles",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "AO",
+    "alpha3": "AGO",
+    "countryCallingCodes": [
+      "+244"
+    ],
+    "currencies": [
+      "AOA"
+    ],
+    "ioc": "ANG",
+    "languages": [
+      "por"
+    ],
+    "name": "Angola",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AQ",
+    "alpha3": "ATA",
+    "countryCallingCodes": [
+      "+672"
+    ],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Antarctica",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AR",
+    "alpha3": "ARG",
+    "countryCallingCodes": [
+      "+54"
+    ],
+    "currencies": [
+      "ARS"
+    ],
+    "ioc": "ARG",
+    "languages": [
+      "spa"
+    ],
+    "name": "Argentina",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Ciudad Autónoma de Buenos Aires"
+      },
+      {
+        "name": "Buenos Aires"
+      },
+      {
+        "name": "Catamarca"
+      },
+      {
+        "name": "Chaco"
+      },
+      {
+        "name": "Chubut"
+      },
+      {
+        "name": "Córdoba"
+      },
+      {
+        "name": "Corrientes"
+      },
+      {
+        "name": "Entre Ríos"
+      },
+      {
+        "name": "Formosa"
+      },
+      {
+        "name": "Jujuy"
+      },
+      {
+        "name": "La Pampa"
+      },
+      {
+        "name": "La Rioja"
+      },
+      {
+        "name": "Mendoza"
+      },
+      {
+        "name": "Misiones"
+      },
+      {
+        "name": "Neuquén"
+      },
+      {
+        "name": "Río Negro"
+      },
+      {
+        "name": "Salta"
+      },
+      {
+        "name": "San Juan"
+      },
+      {
+        "name": "San Luis"
+      },
+      {
+        "name": "Santa Cruz"
+      },
+      {
+        "name": "Santa Fe"
+      },
+      {
+        "name": "Santiago del Estero"
+      },
+      {
+        "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      },
+      {
+        "name": "Tucumán"
+      }
+    ]
+  },
+  {
+    "alpha2": "AS",
+    "alpha3": "ASM",
+    "countryCallingCodes": [
+      "+1 684"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "ASA",
+    "languages": [
+      "eng",
+      "smo"
+    ],
+    "name": "American Samoa",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AT",
+    "alpha3": "AUT",
+    "countryCallingCodes": [
+      "+43"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "AUT",
+    "languages": [
+      "deu"
+    ],
+    "name": "Austria",
+    "status": "assigned",
+    "provinces": [
+      {
+        "short": "B",
+        "name": "Burgenland"
+      },
+      {
+        "short": "K",
+        "name": "Kärnten"
+      },
+      {
+        "short": "NÖ",
+        "name": "Niederösterreich"
+      },
+      {
+        "short": "OÖ",
+        "name": "Oberösterreich"
+      },
+      {
+        "short": "S",
+        "name": "Salzburg"
+      },
+      {
+        "short": "ST",
+        "name": "Steiermark"
+      },
+      {
+        "short": "T",
+        "name": "Tirol"
+      },
+      {
+        "short": "V",
+        "name": "Vorarlberg"
+      },
+      {
+        "short": "W",
+        "name": "Wien"
+      }
+    ]
+  },
+  {
+    "alpha2": "AU",
+    "alpha3": "AUS",
+    "countryCallingCodes": [
+      "+61"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "ioc": "AUS",
+    "languages": [
+      "eng"
+    ],
+    "name": "Australia",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Ashmore and Cartier Islands"
+      },
+      {
+        "name": "Australian Antarctic Territory"
+      },
+      {
+        "short": "ACT",
+        "name": "Australian Capital Territory"
+      },
+      {
+        "short": "CX",
+        "name": "Christmas Island"
+      },
+      {
+        "short": "CC",
+        "name": "Cocos Islands",
+        "alt": [
+          "Keeling Islands"
+        ]
+      },
+      {
+        "name": "Coral Sea Islands"
+      },
+      {
+        "short": "HM",
+        "name": "Heard Island and McDonald Islands"
+      },
+      {
+        "short": "JBT",
+        "name": "Jervis Bay Territory"
+      },
+      {
+        "short": "NSW",
+        "name": "New South Wales"
+      },
+      {
+        "short": "NF",
+        "name": "Norfolk Island"
+      },
+      {
+        "short": "NT",
+        "name": "Northern Territory"
+      },
+      {
+        "short": "QLD",
+        "name": "Queensland"
+      },
+      {
+        "short": "SA",
+        "name": "South Australia"
+      },
+      {
+        "short": "TAS",
+        "name": "Tasmania"
+      },
+      {
+        "short": "VIC",
+        "name": "Victoria"
+      },
+      {
+        "short": "WA",
+        "name": "Western Australia"
+      }
+    ]
+  },
+  {
+    "alpha2": "AW",
+    "alpha3": "ABW",
+    "countryCallingCodes": [
+      "+297"
+    ],
+    "currencies": [
+      "AWG"
+    ],
+    "ioc": "ARU",
+    "languages": [
+      "nld"
+    ],
+    "name": "Aruba",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AX",
+    "alpha3": "ALA",
+    "countryCallingCodes": [
+      "+358"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "swe"
+    ],
+    "name": "Åland Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "AZ",
+    "alpha3": "AZE",
+    "countryCallingCodes": [
+      "+994"
+    ],
+    "currencies": [
+      "AZN"
+    ],
+    "ioc": "AZE",
+    "languages": [
+      "aze"
+    ],
+    "name": "Azerbaijan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BA",
+    "alpha3": "BIH",
+    "countryCallingCodes": [
+      "+387"
+    ],
+    "currencies": [
+      "BAM"
+    ],
+    "ioc": "BIH",
+    "languages": [
+      "bos",
+      "cre",
+      "srp"
+    ],
+    "name": "Bosnia & Herzegovina",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BB",
+    "alpha3": "BRB",
+    "countryCallingCodes": [
+      "+1 246"
+    ],
+    "currencies": [
+      "BBD"
+    ],
+    "ioc": "BAR",
+    "languages": [
+      "eng"
+    ],
+    "name": "Barbados",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BD",
+    "alpha3": "BGD",
+    "countryCallingCodes": [
+      "+880"
+    ],
+    "currencies": [
+      "BDT"
+    ],
+    "ioc": "BAN",
+    "languages": [
+      "ben"
+    ],
+    "name": "Bangladesh",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "বরগুনা",
+        "english": "Barguna",
+        "region": "Barisal"
+      },
+      {
+        "name": "বরিশাল",
+        "english": "Barisal",
+        "region": "Barisal"
+      },
+      {
+        "name": "ভোলা",
+        "english": "Bhola",
+        "region": "Barisal"
+      },
+      {
+        "name": "ঝালকাঠি",
+        "english": "Jhalokati",
+        "region": "Barisal"
+      },
+      {
+        "name": "পটুয়াখালী",
+        "english": "Patuakhali",
+        "region": "Barisal"
+      },
+      {
+        "name": "পিরোজপুর",
+        "english": "Pirojpur",
+        "region": "Barisal"
+      },
+      {
+        "name": "বান্দরবান",
+        "english": "Bandarban",
+        "region": "Chittagong"
+      },
+      {
+        "name": "ব্রাহ্মণবাড়ীয়া",
+        "english": "Brahmanbaria",
+        "region": "Chittagong"
+      },
+      {
+        "name": "চাঁদপুর",
+        "english": "Chandpur",
+        "region": "Chittagong"
+      },
+      {
+        "name": "চট্টগ্রাম",
+        "english": "Chittagong",
+        "region": "Chittagong"
+      },
+      {
+        "name": "কুমিল্লা",
+        "english": "Comilla",
+        "region": "Chittagong"
+      },
+      {
+        "name": "কক্সবাজার",
+        "english": "Cox's Bazar",
+        "region": "Chittagong"
+      },
+      {
+        "name": "ফেনী",
+        "english": "Feni",
+        "region": "Chittagong"
+      },
+      {
+        "name": "খাগড়াছড়ি",
+        "english": "Khagrachhari",
+        "region": "Chittagong"
+      },
+      {
+        "name": "লক্ষীপুর",
+        "english": "Lakshmipur",
+        "region": "Chittagong"
+      },
+      {
+        "name": "নোয়াখালী",
+        "english": "Noakhali",
+        "region": "Chittagong"
+      },
+      {
+        "name": "রাঙ্গামাটি",
+        "english": "Rangamati",
+        "region": "Chittagong"
+      },
+      {
+        "name": "ঢাকা",
+        "english": "Dhaka",
+        "region": "Dhaka"
+      },
+      {
+        "name": "ফরিদপুর",
+        "english": "Faridpur",
+        "region": "Dhaka"
+      },
+      {
+        "name": "গাজীপুর",
+        "english": "Gazipur",
+        "region": "Dhaka"
+      },
+      {
+        "name": "গোপালগঞ্জ",
+        "english": "Gopalganj",
+        "region": "Dhaka"
+      },
+      {
+        "name": "জামালপুর",
+        "english": "Jamalpur",
+        "region": "Dhaka"
+      },
+      {
+        "name": "কিশোরগঞ্জ",
+        "english": "Kishoreganj",
+        "region": "Dhaka"
+      },
+      {
+        "name": "মাদারীপুর",
+        "english": "Madaripur",
+        "region": "Dhaka"
+      },
+      {
+        "name": "মানিকগঞ্জ",
+        "english": "Manikganj",
+        "region": "Dhaka"
+      },
+      {
+        "name": "মুন্সীগঞ্জ",
+        "english": "Munshiganj",
+        "region": "Dhaka"
+      },
+      {
+        "name": "ময়মনসিংহ",
+        "english": "Mymensingh",
+        "region": "Dhaka"
+      },
+      {
+        "name": "নারায়ণগঞ্জ",
+        "english": "Narayanganj",
+        "region": "Dhaka"
+      },
+      {
+        "name": "নরসিংদী",
+        "english": "Narsingdi",
+        "region": "Dhaka"
+      },
+      {
+        "name": "নেত্রকোনা",
+        "english": "Netrakona",
+        "region": "Dhaka"
+      },
+      {
+        "name": "রাজবাড়ী",
+        "english": "Rajbari",
+        "region": "Dhaka"
+      },
+      {
+        "name": "শরীয়তপুর",
+        "english": "Shariatpur",
+        "region": "Dhaka"
+      },
+      {
+        "name": "শেরপুর",
+        "english": "Sherpur",
+        "region": "Dhaka"
+      },
+      {
+        "name": "টাঙ্গাইল",
+        "english": "Tangail",
+        "region": "Dhaka"
+      },
+      {
+        "name": "বাগেরহাট",
+        "english": "Bagerhat",
+        "region": "Khulna"
+      },
+      {
+        "name": "চুয়াডাঙ্গা",
+        "english": "Chuadanga",
+        "region": "Khulna"
+      },
+      {
+        "name": "যশোর",
+        "english": "Jessore",
+        "region": "Khulna"
+      },
+      {
+        "name": "ঝিনাইদহ",
+        "english": "Jhenaidah",
+        "region": "Khulna"
+      },
+      {
+        "name": "খুলনা",
+        "english": "Khulna",
+        "region": "Khulna"
+      },
+      {
+        "name": "কুষ্টিয়া",
+        "english": "Kushtia",
+        "region": "Khulna"
+      },
+      {
+        "name": "মাগুরা",
+        "english": "Magura",
+        "region": "Khulna"
+      },
+      {
+        "name": "মেহেরপুর",
+        "english": "Meherpur",
+        "region": "Khulna"
+      },
+      {
+        "name": "নড়াইল",
+        "english": "Narail",
+        "region": "Khulna"
+      },
+      {
+        "name": "সাতক্ষিরা",
+        "english": "Satkhira",
+        "region": "Khulna"
+      },
+      {
+        "name": "বগুড়া",
+        "english": "Bogra",
+        "region": "Rajshahi"
+      },
+      {
+        "name": "জয়পুরহাট",
+        "english": "Joypurhat",
+        "region": "Rajshahi"
+      },
+      {
+        "name": "নওগাঁ",
+        "english": "Naogaon",
+        "region": "Rajshahi"
+      },
+      {
+        "name": "নাটোর",
+        "english": "Natore",
+        "region": "Rajshahi"
+      },
+      {
+        "name": "নওয়াবগঞ্জ",
+        "english": "Chapainawabganj",
+        "region": "Rajshahi"
+      },
+      {
+        "name": "পাবনা",
+        "english": "Pabna",
+        "region": "Rajshahi"
+      },
+      {
+        "name": "রাজশাহী",
+        "english": "Rajshahi",
+        "region": "Rajshahi"
+      },
+      {
+        "name": "সিরাজগঞ্জ",
+        "english": "Sirajganj",
+        "region": "Rajshahi"
+      },
+      {
+        "name": "দিনাজপুর",
+        "english": "Dinajpur",
+        "region": "Rangpur"
+      },
+      {
+        "name": "গাইবান্ধা",
+        "english": "Gaibandha",
+        "region": "Rangpur"
+      },
+      {
+        "name": "কুড়িগ্রাম",
+        "english": "Kurigram",
+        "region": "Rangpur"
+      },
+      {
+        "name": "লালমনিরহাট",
+        "english": "Lalmonirhat",
+        "region": "Rangpur"
+      },
+      {
+        "name": "নীলফামারী",
+        "english": "Nilphamari",
+        "region": "Rangpur"
+      },
+      {
+        "name": "পঞ্চগড়",
+        "english": "Panchagarh",
+        "region": "Rangpur"
+      },
+      {
+        "name": "রংপুর",
+        "english": "Rangpur",
+        "region": "Rangpur"
+      },
+      {
+        "name": "ঠাকুরগাঁ",
+        "english": "Thakurgaon",
+        "region": "Rangpur"
+      },
+      {
+        "name": "হবিগঞ্জ",
+        "english": "Habiganj",
+        "region": "Sylhet"
+      },
+      {
+        "name": "মৌলভীবাজার",
+        "english": "Moulvibazar",
+        "region": "Sylhet"
+      },
+      {
+        "name": "সুনামগঞ্জ",
+        "english": "Sunamganj",
+        "region": "Sylhet"
+      },
+      {
+        "name": "সিলেট",
+        "english": "Sylhet",
+        "region": "Sylhet"
+      }
+    ]
+  },
+  {
+    "alpha2": "BE",
+    "alpha3": "BEL",
+    "countryCallingCodes": [
+      "+32"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "BEL",
+    "languages": [
+      "nld",
+      "fra",
+      "deu"
+    ],
+    "name": "Belgium",
+    "status": "assigned",
+    "provinces": [
+      {
+        "short": "ANT",
+        "name": "Antwerpen"
+      },
+      {
+        "short": "HAI",
+        "name": "Henegouwen",
+        "alt": [
+          "Hainaut"
+        ]
+      },
+      {
+        "short": "LIE",
+        "name": "Luik",
+        "alt": [
+          "Liège"
+        ]
+      },
+      {
+        "short": "LIM",
+        "name": "Limburg"
+      },
+      {
+        "short": "LUX",
+        "name": "Luxemburg"
+      },
+      {
+        "short": "NAM",
+        "name": "Namen"
+      },
+      {
+        "short": "OVL",
+        "name": "Oost-Vlaanderen"
+      },
+      {
+        "short": "VBR",
+        "name": "Vlaams-Brabant"
+      },
+      {
+        "short": "WBR",
+        "name": "Waals-Brabant"
+      },
+      {
+        "short": "WVL",
+        "name": "West-Vlaanderen"
+      }
+    ]
+  },
+  {
+    "alpha2": "BF",
+    "alpha3": "BFA",
+    "countryCallingCodes": [
+      "+226"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "ioc": "BUR",
+    "languages": [
+      "fra"
+    ],
+    "name": "Burkina Faso",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BG",
+    "alpha3": "BGR",
+    "countryCallingCodes": [
+      "+359"
+    ],
+    "currencies": [
+      "BGN"
+    ],
+    "ioc": "BUL",
+    "languages": [
+      "bul"
+    ],
+    "name": "Bulgaria",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BH",
+    "alpha3": "BHR",
+    "countryCallingCodes": [
+      "+973"
+    ],
+    "currencies": [
+      "BHD"
+    ],
+    "ioc": "BRN",
+    "languages": [
+      "ara"
+    ],
+    "name": "Bahrain",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BI",
+    "alpha3": "BDI",
+    "countryCallingCodes": [
+      "+257"
+    ],
+    "currencies": [
+      "BIF"
+    ],
+    "ioc": "BDI",
+    "languages": [
+      "fra"
+    ],
+    "name": "Burundi",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BJ",
+    "alpha3": "BEN",
+    "countryCallingCodes": [
+      "+229"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "ioc": "BEN",
+    "languages": [
+      "fra"
+    ],
+    "name": "Benin",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BL",
+    "alpha3": "BLM",
+    "countryCallingCodes": [
+      "+590"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "Saint Barthélemy",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BM",
+    "alpha3": "BMU",
+    "countryCallingCodes": [
+      "+1 441"
+    ],
+    "currencies": [
+      "BMD"
+    ],
+    "ioc": "BER",
+    "languages": [
+      "eng"
+    ],
+    "name": "Bermuda",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BN",
+    "alpha3": "BRN",
+    "countryCallingCodes": [
+      "+673"
+    ],
+    "currencies": [
+      "BND"
+    ],
+    "ioc": "BRU",
+    "languages": [
+      "msa",
+      "eng"
+    ],
+    "name": "Brunei Darussalam",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BO",
+    "alpha3": "BOL",
+    "countryCallingCodes": [
+      "+591"
+    ],
+    "currencies": [
+      "BOB",
+      "BOV"
+    ],
+    "ioc": "BOL",
+    "languages": [
+      "spa",
+      "aym",
+      "que"
+    ],
+    "name": "Bolivia, Plurinational State Of",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Cercado",
+        "region": "Beni"
+      },
+      {
+        "name": "Iténez",
+        "region": "Beni"
+      },
+      {
+        "name": "José Ballivián",
+        "region": "Beni"
+      },
+      {
+        "name": "Mamoré",
+        "region": "Beni"
+      },
+      {
+        "name": "Marbán",
+        "region": "Beni"
+      },
+      {
+        "name": "Moxos",
+        "region": "Beni"
+      },
+      {
+        "name": "Vaca Díez",
+        "region": "Beni"
+      },
+      {
+        "name": "Yacuma",
+        "region": "Beni"
+      },
+      {
+        "name": "Azurduy",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Belisario Boeto",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Hernando Siles",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Jaime Zudáñez",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Luis Calvo",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Nor Cinti",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Oropeza",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Sud Cinti",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Tomina",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Yamparáez",
+        "region": "Chuquisaca"
+      },
+      {
+        "name": "Arani",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Arque",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Ayopaya",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Capinota",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Carrasco",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Cercado",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Chapare",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Esteban Arce",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Germán Jordán",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Mizque",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Campero",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Punata",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Quillacollo",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Bolívar",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Tapacarí",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Tiraque",
+        "region": "Cochabamba"
+      },
+      {
+        "name": "Abel Iturralde",
+        "region": "La Paz"
+      },
+      {
+        "name": "Aroma",
+        "region": "La Paz"
+      },
+      {
+        "name": "Bautista Saavedra",
+        "region": "La Paz"
+      },
+      {
+        "name": "Caranavi",
+        "region": "La Paz"
+      },
+      {
+        "name": "Eliodoro Camacho",
+        "region": "La Paz"
+      },
+      {
+        "name": "Franz Tamayo",
+        "region": "La Paz"
+      },
+      {
+        "name": "Gualberto Villarroel",
+        "region": "La Paz"
+      },
+      {
+        "name": "Ingavi",
+        "region": "La Paz"
+      },
+      {
+        "name": "Inquisivi",
+        "region": "La Paz"
+      },
+      {
+        "name": "José Manuel Pando",
+        "region": "La Paz"
+      },
+      {
+        "name": "Larecaja",
+        "region": "La Paz"
+      },
+      {
+        "name": "Loayza",
+        "region": "La Paz"
+      },
+      {
+        "name": "Los Andes",
+        "region": "La Paz"
+      },
+      {
+        "name": "Manco Kapac",
+        "region": "La Paz"
+      },
+      {
+        "name": "Muñecas",
+        "region": "La Paz"
+      },
+      {
+        "name": "Nor Yungas",
+        "region": "La Paz"
+      },
+      {
+        "name": "Omasuyos",
+        "region": "La Paz"
+      },
+      {
+        "name": "Pacajes",
+        "region": "La Paz"
+      },
+      {
+        "name": "Murillo",
+        "region": "La Paz"
+      },
+      {
+        "name": "Sud Yungas",
+        "region": "La Paz"
+      },
+      {
+        "name": "Atahuallpa",
+        "region": "Oruro"
+      },
+      {
+        "name": "Carangas",
+        "region": "Oruro"
+      },
+      {
+        "name": "Cercado",
+        "region": "Oruro"
+      },
+      {
+        "name": "Eduardo Avaroa",
+        "region": "Oruro"
+      },
+      {
+        "name": "Ladislao Cabrera",
+        "region": "Oruro"
+      },
+      {
+        "name": "Litoral",
+        "region": "Oruro"
+      },
+      {
+        "name": "Nor Carangas",
+        "region": "Oruro"
+      },
+      {
+        "name": "Pantaléon Dalence",
+        "region": "Oruro"
+      },
+      {
+        "name": "Poopó",
+        "region": "Oruro"
+      },
+      {
+        "name": "Puerto de Mejillones",
+        "region": "Oruro"
+      },
+      {
+        "name": "Sajama",
+        "region": "Oruro"
+      },
+      {
+        "name": "San Pedro de Totora",
+        "region": "Oruro"
+      },
+      {
+        "name": "Saucarí",
+        "region": "Oruro"
+      },
+      {
+        "name": "Sebastián Pagador",
+        "region": "Oruro"
+      },
+      {
+        "name": "Sud Carangas",
+        "region": "Oruro"
+      },
+      {
+        "name": "Tomas Barrón",
+        "region": "Oruro"
+      },
+      {
+        "name": "Abuná",
+        "region": "Pando"
+      },
+      {
+        "name": "Federico Román",
+        "region": "Pando"
+      },
+      {
+        "name": "Madre de Dios",
+        "region": "Pando"
+      },
+      {
+        "name": "Manuripi",
+        "region": "Pando"
+      },
+      {
+        "name": "Nicolás Suárez",
+        "region": "Pando"
+      },
+      {
+        "name": "Alonso de Ibáñez",
+        "region": "Potosí"
+      },
+      {
+        "name": "Antonio Quijarro",
+        "region": "Potosí"
+      },
+      {
+        "name": "Bernardino Bilbao",
+        "region": "Potosí"
+      },
+      {
+        "name": "Charcas",
+        "region": "Potosí"
+      },
+      {
+        "name": "Chayanta",
+        "region": "Potosí"
+      },
+      {
+        "name": "Cornelio Saavedra",
+        "region": "Potosí"
+      },
+      {
+        "name": "Daniel Campos",
+        "region": "Potosí"
+      },
+      {
+        "name": "Enrique Baldivieso",
+        "region": "Potosí"
+      },
+      {
+        "name": "José María Linares",
+        "region": "Potosí"
+      },
+      {
+        "name": "Modesto Omiste",
+        "region": "Potosí"
+      },
+      {
+        "name": "Nor Chichas",
+        "region": "Potosí"
+      },
+      {
+        "name": "Nor Lípez",
+        "region": "Potosí"
+      },
+      {
+        "name": "Rafael Bustillo",
+        "region": "Potosí"
+      },
+      {
+        "name": "Sur Chichas",
+        "region": "Potosí"
+      },
+      {
+        "name": "Sur Lípez",
+        "region": "Potosí"
+      },
+      {
+        "name": "Tomás Frías",
+        "region": "Potosí"
+      },
+      {
+        "name": "Andrés Ibáñez",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Ángel Sandoval",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Chiquitos",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Cordillera",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Florida",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Germán Busch",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Guarayos",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Ichilo",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Ignacio Warnes",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "José Miguel de Velasco",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Manuel María Caballero",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Ñuflo de Chávez",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Obispo Santistevan",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Sara",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Vallegrande",
+        "region": "Santa Cruz"
+      },
+      {
+        "name": "Aniceto Arce",
+        "region": "Tarija"
+      },
+      {
+        "name": "Burnet O'Connor",
+        "region": "Tarija"
+      },
+      {
+        "name": "Cercado",
+        "region": "Tarija"
+      },
+      {
+        "name": "Eustaquio Méndez",
+        "region": "Tarija"
+      },
+      {
+        "name": "Gran Chaco",
+        "region": "Tarija"
+      },
+      {
+        "name": "José María Avilés",
+        "region": "Tarija"
+      }
+    ]
+  },
+  {
+    "alpha2": "BQ",
+    "alpha3": "BES",
+    "countryCallingCodes": [
+      "+599"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "",
+    "languages": [
+      "nld"
+    ],
+    "name": "Bonaire, Saint Eustatius And Saba",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BQ",
+    "alpha3": "ATB",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "British Antarctic Territory",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "BR",
+    "alpha3": "BRA",
+    "countryCallingCodes": [
+      "+55"
+    ],
+    "currencies": [
+      "BRL"
+    ],
+    "ioc": "BRA",
+    "languages": [
+      "por"
+    ],
+    "name": "Brazil",
+    "status": "assigned",
+    "provinces": [
+      {
+        "short": "AC",
+        "name": "Acre"
+      },
+      {
+        "short": "AL",
+        "name": "Alagoas"
+      },
+      {
+        "short": "AP",
+        "name": "Amapá"
+      },
+      {
+        "short": "AM",
+        "name": "Amazonas"
+      },
+      {
+        "short": "BA",
+        "name": "Bahia"
+      },
+      {
+        "short": "CE",
+        "name": "Ceará"
+      },
+      {
+        "short": "DF",
+        "name": "Distrito Federal"
+      },
+      {
+        "short": "ES",
+        "name": "Espírito Santo"
+      },
+      {
+        "short": "GO",
+        "name": "Goiás"
+      },
+      {
+        "short": "MA",
+        "name": "Maranhão"
+      },
+      {
+        "short": "MT",
+        "name": "Mato Grosso"
+      },
+      {
+        "short": "MS",
+        "name": "Mato Grosso do Sul"
+      },
+      {
+        "short": "MG",
+        "name": "Minas Gerais"
+      },
+      {
+        "short": "PA",
+        "name": "Pará"
+      },
+      {
+        "short": "PB",
+        "name": "Paraíba"
+      },
+      {
+        "short": "PR",
+        "name": "Paraná"
+      },
+      {
+        "short": "PE",
+        "name": "Pernambuco"
+      },
+      {
+        "short": "PI",
+        "name": "Piauí"
+      },
+      {
+        "short": "RJ",
+        "name": "Rio de Janeiro"
+      },
+      {
+        "short": "RN",
+        "name": "Rio Grande do Norte"
+      },
+      {
+        "short": "RS",
+        "name": "Rio Grande do Sul"
+      },
+      {
+        "short": "RO",
+        "name": "Rondônia"
+      },
+      {
+        "short": "RR",
+        "name": "Roraima"
+      },
+      {
+        "short": "SC",
+        "name": "Santa Catarina"
+      },
+      {
+        "short": "SP",
+        "name": "São Paulo"
+      },
+      {
+        "short": "SE",
+        "name": "Sergipe"
+      },
+      {
+        "short": "TO",
+        "name": "Tocantins"
+      }
+    ]
+  },
+  {
+    "alpha2": "BS",
+    "alpha3": "BHS",
+    "countryCallingCodes": [
+      "+1 242"
+    ],
+    "currencies": [
+      "BSD"
+    ],
+    "ioc": "BAH",
+    "languages": [
+      "eng"
+    ],
+    "name": "Bahamas",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BT",
+    "alpha3": "BTN",
+    "countryCallingCodes": [
+      "+975"
+    ],
+    "currencies": [
+      "INR",
+      "BTN"
+    ],
+    "ioc": "BHU",
+    "languages": [
+      "dzo"
+    ],
+    "name": "Bhutan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BU",
+    "alpha3": "BUR",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Burma",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "BV",
+    "alpha3": "BVT",
+    "countryCallingCodes": [],
+    "currencies": [
+      "NOK"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Bouvet Island",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BW",
+    "alpha3": "BWA",
+    "countryCallingCodes": [
+      "+267"
+    ],
+    "currencies": [
+      "BWP"
+    ],
+    "ioc": "BOT",
+    "languages": [
+      "eng",
+      "tsn"
+    ],
+    "name": "Botswana",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BY",
+    "alpha3": "BLR",
+    "countryCallingCodes": [
+      "+375"
+    ],
+    "currencies": [
+      "BYR"
+    ],
+    "ioc": "BLR",
+    "languages": [
+      "bel",
+      "rus"
+    ],
+    "name": "Belarus",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "BY",
+    "alpha3": "BYS",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Byelorussian SSR",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "BZ",
+    "alpha3": "BLZ",
+    "countryCallingCodes": [
+      "+501"
+    ],
+    "currencies": [
+      "BZD"
+    ],
+    "ioc": "BIZ",
+    "languages": [
+      "eng"
+    ],
+    "name": "Belize",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CA",
+    "alpha3": "CAN",
+    "countryCallingCodes": [
+      "+1"
+    ],
+    "currencies": [
+      "CAD"
+    ],
+    "ioc": "CAN",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "name": "Canada",
+    "status": "assigned",
+    "provinces": [
+      {
+        "short": "AB",
+        "name": "Alberta"
+      },
+      {
+        "short": "BC",
+        "name": "British Columbia"
+      },
+      {
+        "short": "MB",
+        "name": "Manitoba"
+      },
+      {
+        "short": "NB",
+        "name": "New Brunswick"
+      },
+      {
+        "short": "NL",
+        "name": "Newfoundland and Labrador",
+        "alt": [
+          "Newfoundland",
+          "Labrador"
+        ]
+      },
+      {
+        "short": "NS",
+        "name": "Nova Scotia"
+      },
+      {
+        "short": "NU",
+        "name": "Nunavut"
+      },
+      {
+        "short": "NT",
+        "name": "Northwest Territories"
+      },
+      {
+        "short": "ON",
+        "name": "Ontario"
+      },
+      {
+        "short": "PE",
+        "name": "Prince Edward Island"
+      },
+      {
+        "short": "QC",
+        "name": "Quebec"
+      },
+      {
+        "short": "SK",
+        "name": "Saskatchewan"
+      },
+      {
+        "short": "YT",
+        "name": "Yukon"
+      }
+    ]
+  },
+  {
+    "alpha2": "CC",
+    "alpha3": "CCK",
+    "countryCallingCodes": [
+      "+61"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Cocos (Keeling) Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CD",
+    "alpha3": "COD",
+    "countryCallingCodes": [
+      "+243"
+    ],
+    "currencies": [
+      "CDF"
+    ],
+    "ioc": "COD",
+    "languages": [
+      "fra",
+      "lin",
+      "kon",
+      "swa"
+    ],
+    "name": "Democratic Republic Of Congo",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CF",
+    "alpha3": "CAF",
+    "countryCallingCodes": [
+      "+236"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "ioc": "CAF",
+    "languages": [
+      "fra",
+      "sag"
+    ],
+    "name": "Central African Republic",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CG",
+    "alpha3": "COG",
+    "countryCallingCodes": [
+      "+242"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "ioc": "CGO",
+    "languages": [
+      "fra",
+      "lin"
+    ],
+    "name": "Republic Of Congo",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CH",
+    "alpha3": "CHE",
+    "countryCallingCodes": [
+      "+41"
+    ],
+    "currencies": [
+      "CHF",
+      "CHE",
+      "CHW"
+    ],
+    "ioc": "SUI",
+    "languages": [
+      "deu",
+      "fra",
+      "ita",
+      "roh"
+    ],
+    "name": "Switzerland",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CI",
+    "alpha3": "CIV",
+    "countryCallingCodes": [
+      "+225"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "ioc": "CIV",
+    "languages": [
+      "fra"
+    ],
+    "name": "Côte d'Ivoire",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CK",
+    "alpha3": "COK",
+    "countryCallingCodes": [
+      "+682"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "ioc": "COK",
+    "languages": [
+      "eng",
+      "mri"
+    ],
+    "name": "Cook Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CL",
+    "alpha3": "CHL",
+    "countryCallingCodes": [
+      "+56"
+    ],
+    "currencies": [
+      "CLP",
+      "CLF"
+    ],
+    "ioc": "CHI",
+    "languages": [
+      "spa"
+    ],
+    "name": "Chile",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Arica",
+        "region": "XV Arica and Parinacota"
+      },
+      {
+        "name": "Parinacota",
+        "region": "XV Arica and Parinacota"
+      },
+      {
+        "name": "Iquique",
+        "region": "I Tarapacá"
+      },
+      {
+        "name": "Tamarugal",
+        "region": "I Tarapacá"
+      },
+      {
+        "name": "Antofagasta",
+        "region": "II Antofagasta"
+      },
+      {
+        "name": "El Loa",
+        "region": "II Antofagasta"
+      },
+      {
+        "name": "Tocopilla",
+        "region": "II Antofagasta"
+      },
+      {
+        "name": "Copiapó",
+        "region": "III Atacama"
+      },
+      {
+        "name": "Huasco",
+        "region": "III Atacama"
+      },
+      {
+        "name": "Chañaral",
+        "region": "III Atacama"
+      },
+      {
+        "name": "Elqui",
+        "region": "IV Coquimbo"
+      },
+      {
+        "name": "Limarí",
+        "region": "IV Coquimbo"
+      },
+      {
+        "name": "Choapa",
+        "region": "IV Coquimbo"
+      },
+      {
+        "name": "Isla de Pascua",
+        "region": "V Valparaíso"
+      },
+      {
+        "name": "Los Andes",
+        "region": "V Valparaíso"
+      },
+      {
+        "name": "Marga Marga",
+        "region": "V Valparaíso"
+      },
+      {
+        "name": "Petorca",
+        "region": "V Valparaíso"
+      },
+      {
+        "name": "Quillota",
+        "region": "V Valparaíso"
+      },
+      {
+        "name": "San Antonio",
+        "region": "V Valparaíso"
+      },
+      {
+        "name": "San Felipe de Aconcagua",
+        "region": "V Valparaíso"
+      },
+      {
+        "name": "Valparaíso",
+        "region": "V Valparaíso"
+      },
+      {
+        "name": "Cachapoal",
+        "region": "VI O'Higgins"
+      },
+      {
+        "name": "Colchagua",
+        "region": "VI O'Higgins"
+      },
+      {
+        "name": "Cardenal Caro",
+        "region": "VI O'Higgins"
+      },
+      {
+        "name": "Talca",
+        "region": "VII Maule"
+      },
+      {
+        "name": "Linares",
+        "region": "VII Maule"
+      },
+      {
+        "name": "Curicó",
+        "region": "VII Maule"
+      },
+      {
+        "name": "Cauquenes",
+        "region": "VII Maule"
+      },
+      {
+        "name": "Concepción",
+        "region": "VIII Biobío"
+      },
+      {
+        "name": "Ñuble",
+        "region": "VIII Biobío"
+      },
+      {
+        "name": "Biobío",
+        "region": "VIII Biobío"
+      },
+      {
+        "name": "Arauco",
+        "region": "VIII Biobío"
+      },
+      {
+        "name": "Cautin",
+        "region": "IX Araucanía"
+      },
+      {
+        "name": "Malleco",
+        "region": "IX Araucanía"
+      },
+      {
+        "name": "Valdivia",
+        "region": "XIV Los Ríos"
+      },
+      {
+        "name": "Ranco",
+        "region": "XIV Los Ríos"
+      },
+      {
+        "name": "Llanquihue",
+        "region": "X Los Lagos"
+      },
+      {
+        "name": "Osorno",
+        "region": "X Los Lagos"
+      },
+      {
+        "name": "Chiloe",
+        "region": "X Los Lagos"
+      },
+      {
+        "name": "Palena",
+        "region": "X Los Lagos"
+      },
+      {
+        "name": "Coihaique",
+        "region": "XI Aisén"
+      },
+      {
+        "name": "Aisén",
+        "region": "XI Aisén"
+      },
+      {
+        "name": "General Carrera",
+        "region": "XI Aisén"
+      },
+      {
+        "name": "Capitan Prat",
+        "region": "XI Aisén"
+      },
+      {
+        "name": "Magallanes",
+        "region": "XII Magallanes"
+      },
+      {
+        "name": "Ultima Esperanza",
+        "region": "XII Magallanes"
+      },
+      {
+        "name": "Tierra del Fuego",
+        "region": "XII Magallanes"
+      },
+      {
+        "name": "Antártica Chilena",
+        "region": "XII Magallanes"
+      },
+      {
+        "name": "Santiago",
+        "region": "RM Santiago Metropolitan"
+      },
+      {
+        "name": "Cordillera",
+        "region": "RM Santiago Metropolitan"
+      },
+      {
+        "name": "Maipo",
+        "region": "RM Santiago Metropolitan"
+      },
+      {
+        "name": "Talagante",
+        "region": "RM Santiago Metropolitan"
+      },
+      {
+        "name": "Melipilla",
+        "region": "RM Santiago Metropolitan"
+      },
+      {
+        "name": "Chacabuco",
+        "region": "RM Santiago Metropolitan"
+      }
+    ]
+  },
+  {
+    "alpha2": "CM",
+    "alpha3": "CMR",
+    "countryCallingCodes": [
+      "+237"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "ioc": "CMR",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "name": "Cameroon",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CN",
+    "alpha3": "CHN",
+    "countryCallingCodes": [
+      "+86"
+    ],
+    "currencies": [
+      "CNY"
+    ],
+    "ioc": "CHN",
+    "languages": [
+      "zho"
+    ],
+    "name": "China",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "重庆",
+        "short": "渝"
+      },
+      {
+        "name": "黑龙江",
+        "short": "黑"
+      },
+      {
+        "name": "吉林",
+        "short": "吉"
+      },
+      {
+        "name": "海南",
+        "short": "琼"
+      },
+      {
+        "name": "北京",
+        "short": "京"
+      },
+      {
+        "name": "辽宁",
+        "short": "辽"
+      },
+      {
+        "name": "内蒙古",
+        "short": "蒙"
+      },
+      {
+        "name": "西藏",
+        "short": "藏"
+      },
+      {
+        "name": "青海",
+        "short": "青"
+      },
+      {
+        "name": "宁夏",
+        "short": "宁"
+      },
+      {
+        "name": "新疆",
+        "short": "新"
+      },
+      {
+        "name": "甘肃",
+        "short": "甘"
+      },
+      {
+        "name": "河北",
+        "short": "冀"
+      },
+      {
+        "name": "河南",
+        "short": "豫"
+      },
+      {
+        "name": "湖北",
+        "short": "鄂"
+      },
+      {
+        "name": "湖南",
+        "short": "湘"
+      },
+      {
+        "name": "山东",
+        "short": "鲁"
+      },
+      {
+        "name": "江苏",
+        "short": "苏"
+      },
+      {
+        "name": "安徽",
+        "short": "皖"
+      },
+      {
+        "name": "山西",
+        "short": "晋"
+      },
+      {
+        "name": "陕西",
+        "short": "陕"
+      },
+      {
+        "name": "四川",
+        "short": "川"
+      },
+      {
+        "name": "云南",
+        "short": "滇"
+      },
+      {
+        "name": "贵州",
+        "short": "黔"
+      },
+      {
+        "name": "浙江",
+        "short": "浙"
+      },
+      {
+        "name": "福建",
+        "short": "闽"
+      },
+      {
+        "name": "广西",
+        "short": "桂"
+      },
+      {
+        "name": "上海",
+        "short": "沪"
+      },
+      {
+        "name": "天津",
+        "short": "津"
+      },
+      {
+        "name": "香港",
+        "short": "港"
+      },
+      {
+        "name": "澳门",
+        "short": "澳"
+      },
+      {
+        "name": "台湾",
+        "short": "台"
+      },
+      {
+        "name": "江西",
+        "short": "赣"
+      },
+      {
+        "name": "广东",
+        "short": "粤"
+      }
+    ]
+  },
+  {
+    "alpha2": "CO",
+    "alpha3": "COL",
+    "countryCallingCodes": [
+      "+57"
+    ],
+    "currencies": [
+      "COP",
+      "COU"
+    ],
+    "ioc": "COL",
+    "languages": [
+      "spa"
+    ],
+    "name": "Colombia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CP",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Clipperton Island",
+    "status": "reserved",
+    "provinces": null
+  },
+  {
+    "alpha2": "CR",
+    "alpha3": "CRI",
+    "countryCallingCodes": [
+      "+506"
+    ],
+    "currencies": [
+      "CRC"
+    ],
+    "ioc": "CRC",
+    "languages": [
+      "spa"
+    ],
+    "name": "Costa Rica",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CS",
+    "alpha3": "CSK",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Czechoslovakia",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "CS",
+    "alpha3": "SCG",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Serbia and Montenegro",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "CT",
+    "alpha3": "CTE",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Canton and Enderbury Islands",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "CU",
+    "alpha3": "CUB",
+    "countryCallingCodes": [
+      "+53"
+    ],
+    "currencies": [
+      "CUP",
+      "CUC"
+    ],
+    "ioc": "CUB",
+    "languages": [
+      "spa"
+    ],
+    "name": "Cuba",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Camagüey"
+      },
+      {
+        "name": "Ciego de Ávila"
+      },
+      {
+        "name": "Cienfuegos"
+      },
+      {
+        "name": "Havana"
+      },
+      {
+        "name": "Bayamo"
+      },
+      {
+        "name": "Guantánamo"
+      },
+      {
+        "name": "Holguín"
+      },
+      {
+        "name": "Nueva Gerona"
+      },
+      {
+        "name": "Artemisa"
+      },
+      {
+        "name": "Las Tunas"
+      },
+      {
+        "name": "Matanzas"
+      },
+      {
+        "name": "San José de las Lajas"
+      },
+      {
+        "name": "Pinar del Río"
+      },
+      {
+        "name": "Sancti Spíritus"
+      },
+      {
+        "name": "Santiago de Cuba"
+      },
+      {
+        "name": "Santa Clara"
+      }
+    ]
+  },
+  {
+    "alpha2": "CV",
+    "alpha3": "CPV",
+    "countryCallingCodes": [
+      "+238"
+    ],
+    "currencies": [
+      "CVE"
+    ],
+    "ioc": "CPV",
+    "languages": [
+      "por"
+    ],
+    "name": "Cabo Verde",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CW",
+    "alpha3": "CUW",
+    "countryCallingCodes": [
+      "+599"
+    ],
+    "currencies": [
+      "ANG"
+    ],
+    "ioc": "",
+    "languages": [
+      "nld"
+    ],
+    "name": "Curacao",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CX",
+    "alpha3": "CXR",
+    "countryCallingCodes": [
+      "+61"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Christmas Island",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CY",
+    "alpha3": "CYP",
+    "countryCallingCodes": [
+      "+357"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "CYP",
+    "languages": [
+      "ell",
+      "tur"
+    ],
+    "name": "Cyprus",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "CZ",
+    "alpha3": "CZE",
+    "countryCallingCodes": [
+      "+420"
+    ],
+    "currencies": [
+      "CZK"
+    ],
+    "ioc": "CZE",
+    "languages": [
+      "ces"
+    ],
+    "name": "Czech Republic",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "DD",
+    "alpha3": "DDR",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "German Democratic Republic",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "DE",
+    "alpha3": "DEU",
+    "countryCallingCodes": [
+      "+49"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "GER",
+    "languages": [
+      "deu"
+    ],
+    "name": "Germany",
+    "status": "assigned",
+    "provinces": [
+      {
+        "short": "BW",
+        "name": "Baden-Württemberg"
+      },
+      {
+        "short": "BY",
+        "name": "Bayern"
+      },
+      {
+        "short": "BE",
+        "name": "Berlin"
+      },
+      {
+        "short": "BB",
+        "name": "Brandenburg"
+      },
+      {
+        "short": "HB",
+        "name": "Bremen"
+      },
+      {
+        "short": "HH",
+        "name": "Hamburg"
+      },
+      {
+        "short": "HE",
+        "name": "Hessen"
+      },
+      {
+        "short": "MV",
+        "name": "Mecklenburg-Vorpommern"
+      },
+      {
+        "short": "NI",
+        "name": "Niedersachsen"
+      },
+      {
+        "short": "NW",
+        "name": "Nordrhein-Westfalen"
+      },
+      {
+        "short": "RP",
+        "name": "Rheinland-Pfalz"
+      },
+      {
+        "short": "SL",
+        "name": "Saarland"
+      },
+      {
+        "short": "SN",
+        "name": "Sachsen"
+      },
+      {
+        "short": "ST",
+        "name": "Sachsen-Anhalt"
+      },
+      {
+        "short": "SH",
+        "name": "Schleswig-Holstein"
+      },
+      {
+        "short": "TH",
+        "name": "Thüringen"
+      }
+    ]
+  },
+  {
+    "alpha2": "DG",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Diego Garcia",
+    "status": "reserved",
+    "provinces": null
+  },
+  {
+    "alpha2": "DJ",
+    "alpha3": "DJI",
+    "countryCallingCodes": [
+      "+253"
+    ],
+    "currencies": [
+      "DJF"
+    ],
+    "ioc": "DJI",
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "name": "Djibouti",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "DK",
+    "alpha3": "DNK",
+    "countryCallingCodes": [
+      "+45"
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "ioc": "DEN",
+    "languages": [
+      "dan"
+    ],
+    "name": "Denmark",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Hovedstaden"
+      },
+      {
+        "name": "Midtjylland"
+      },
+      {
+        "name": "Nordjylland"
+      },
+      {
+        "name": "Sjælland"
+      },
+      {
+        "name": "Syddanmark"
+      }
+    ]
+  },
+  {
+    "alpha2": "DM",
+    "alpha3": "DMA",
+    "countryCallingCodes": [
+      "+1 767"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "ioc": "DMA",
+    "languages": [
+      "eng"
+    ],
+    "name": "Dominica",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "DO",
+    "alpha3": "DOM",
+    "countryCallingCodes": [
+      "+1 809",
+      "+1 829",
+      "+1 849"
+    ],
+    "currencies": [
+      "DOP"
+    ],
+    "ioc": "DOM",
+    "languages": [
+      "spa"
+    ],
+    "name": "Dominican Republic",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "DY",
+    "alpha3": "DHY",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Dahomey",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "DZ",
+    "alpha3": "DZA",
+    "countryCallingCodes": [
+      "+213"
+    ],
+    "currencies": [
+      "DZD"
+    ],
+    "ioc": "ALG",
+    "languages": [
+      "ara"
+    ],
+    "name": "Algeria",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "EA",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Ceuta, Mulilla",
+    "status": "reserved",
+    "provinces": null
+  },
+  {
+    "alpha2": "EC",
+    "alpha3": "ECU",
+    "countryCallingCodes": [
+      "+593"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "ECU",
+    "languages": [
+      "spa",
+      "que"
+    ],
+    "name": "Ecuador",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "EE",
+    "alpha3": "EST",
+    "countryCallingCodes": [
+      "+372"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "EST",
+    "languages": [
+      "est"
+    ],
+    "name": "Estonia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "EG",
+    "alpha3": "EGY",
+    "countryCallingCodes": [
+      "+20"
+    ],
+    "currencies": [
+      "EGP"
+    ],
+    "ioc": "EGY",
+    "languages": [
+      "ara"
+    ],
+    "name": "Egypt",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "EH",
+    "alpha3": "ESH",
+    "countryCallingCodes": [
+      "+212"
+    ],
+    "currencies": [
+      "MAD"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Western Sahara",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "ER",
+    "alpha3": "ERI",
+    "countryCallingCodes": [
+      "+291"
+    ],
+    "currencies": [
+      "ERN"
+    ],
+    "ioc": "ERI",
+    "languages": [
+      "eng",
+      "ara",
+      "tir"
+    ],
+    "name": "Eritrea",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "ES",
+    "alpha3": "ESP",
+    "countryCallingCodes": [
+      "+34"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "ESP",
+    "languages": [
+      "spa"
+    ],
+    "name": "Spain",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "La Coruña",
+        "short": "C"
+      },
+      {
+        "name": "Lugo",
+        "short": "LU"
+      },
+      {
+        "name": "Vizcaya",
+        "short": "BI"
+      },
+      {
+        "name": "Guipúzcoa",
+        "short": "SS"
+      },
+      {
+        "name": "Huesca",
+        "short": "HU"
+      },
+      {
+        "name": "Lérida",
+        "short": "L"
+      },
+      {
+        "name": "Gerona",
+        "short": "GI"
+      },
+      {
+        "name": "Barcelona",
+        "short": "B"
+      },
+      {
+        "name": "Tarragona",
+        "short": "T"
+      },
+      {
+        "name": "Castellón",
+        "short": "CS"
+      },
+      {
+        "name": "Valencia",
+        "short": "V"
+      },
+      {
+        "name": "Alicante",
+        "short": "A"
+      },
+      {
+        "name": "Murcia",
+        "short": "MU"
+      },
+      {
+        "name": "Zaragoza",
+        "short": "Z"
+      },
+      {
+        "name": "Teruel",
+        "short": "TE"
+      },
+      {
+        "name": "Cuenca",
+        "short": "CU"
+      },
+      {
+        "name": "Albacete",
+        "short": "AB"
+      },
+      {
+        "name": "Almeria",
+        "short": "AL"
+      },
+      {
+        "name": "Granada",
+        "short": "GR"
+      },
+      {
+        "name": "Málaga",
+        "short": "MA"
+      },
+      {
+        "name": "Tenerife",
+        "short": "TF"
+      },
+      {
+        "name": "Cádiz",
+        "short": "CA"
+      },
+      {
+        "name": "Sevilla",
+        "short": "SE"
+      },
+      {
+        "name": "Huelva",
+        "short": "H"
+      },
+      {
+        "name": "Las Palmas",
+        "short": "GC"
+      },
+      {
+        "name": "Madrid",
+        "short": "M"
+      },
+      {
+        "name": "Badajoz",
+        "short": "BA"
+      },
+      {
+        "name": "Cáceres",
+        "short": "CC"
+      },
+      {
+        "name": "Toledo",
+        "short": "TO"
+      },
+      {
+        "name": "Ciudad Real",
+        "short": "CR"
+      },
+      {
+        "name": "Salamanca",
+        "short": "SA"
+      },
+      {
+        "name": "Córdoba",
+        "short": "CO"
+      },
+      {
+        "name": "Jaén",
+        "short": "J"
+      },
+      {
+        "name": "Ávila",
+        "short": "AV"
+      },
+      {
+        "name": "Valladolid",
+        "short": "VA"
+      },
+      {
+        "name": "Zamora",
+        "short": "ZA"
+      },
+      {
+        "name": "Álava",
+        "short": "VI"
+      },
+      {
+        "name": "Segovia",
+        "short": "SG"
+      },
+      {
+        "name": "Burgos",
+        "short": "BU"
+      },
+      {
+        "name": "Pontevedra",
+        "short": "PO"
+      },
+      {
+        "name": "León",
+        "short": "LE"
+      },
+      {
+        "name": "Orense",
+        "short": "OU"
+      },
+      {
+        "name": "Palencia",
+        "short": "P"
+      },
+      {
+        "name": "La Rioja",
+        "short": "LO"
+      },
+      {
+        "name": "Soria",
+        "short": "SO"
+      },
+      {
+        "name": "Guadalajara",
+        "short": "GU"
+      }
+    ]
+  },
+  {
+    "alpha2": "ET",
+    "alpha3": "ETH",
+    "countryCallingCodes": [
+      "+251"
+    ],
+    "currencies": [
+      "ETB"
+    ],
+    "ioc": "ETH",
+    "languages": [
+      "amh"
+    ],
+    "name": "Ethiopia",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Addis Ababa"
+      },
+      {
+        "name": "Afar Region"
+      },
+      {
+        "name": "Amhara Region"
+      },
+      {
+        "name": "Benishangul-Gumuz"
+      },
+      {
+        "name": "Dire Dawa"
+      },
+      {
+        "name": "Gambela"
+      },
+      {
+        "name": "Harari"
+      },
+      {
+        "name": "Oromia"
+      },
+      {
+        "name": "Somali"
+      },
+      {
+        "name": "Southern Nations, Nationalities, and Peoples' Region"
+      },
+      {
+        "name": "Tigray Region"
+      }
+    ]
+  },
+  {
+    "alpha2": "EU",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+388"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "European Union",
+    "status": "reserved",
+    "provinces": null
+  },
+  {
+    "alpha2": "FI",
+    "alpha3": "FIN",
+    "countryCallingCodes": [
+      "+358"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "FIN",
+    "languages": [
+      "fin",
+      "swe"
+    ],
+    "name": "Finland",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "FJ",
+    "alpha3": "FJI",
+    "countryCallingCodes": [
+      "+679"
+    ],
+    "currencies": [
+      "FJD"
+    ],
+    "ioc": "FIJ",
+    "languages": [
+      "eng",
+      "fij"
+    ],
+    "name": "Fiji",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "FK",
+    "alpha3": "FLK",
+    "countryCallingCodes": [
+      "+500"
+    ],
+    "currencies": [
+      "FKP"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Falkland Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "FM",
+    "alpha3": "FSM",
+    "countryCallingCodes": [
+      "+691"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Micronesia, Federated States Of",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "FO",
+    "alpha3": "FRO",
+    "countryCallingCodes": [
+      "+298"
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "ioc": "FAI",
+    "languages": [
+      "fao",
+      "dan"
+    ],
+    "name": "Faroe Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "FQ",
+    "alpha3": "ATF",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "French Southern and Antarctic Territories",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "FR",
+    "alpha3": "FRA",
+    "countryCallingCodes": [
+      "+33"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "FRA",
+    "languages": [
+      "fra"
+    ],
+    "name": "France",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "FX",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+241"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "France, Metropolitan",
+    "status": "reserved",
+    "provinces": null
+  },
+  {
+    "alpha2": "GA",
+    "alpha3": "GAB",
+    "countryCallingCodes": [
+      "+241"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "ioc": "GAB",
+    "languages": [
+      "fra"
+    ],
+    "name": "Gabon",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GB",
+    "alpha3": "GBR",
+    "countryCallingCodes": [
+      "+44"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "GBR",
+    "languages": [
+      "eng",
+      "cor",
+      "gle",
+      "gla",
+      "cym"
+    ],
+    "name": "United Kingdom",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Avon",
+        "region": "England"
+      },
+      {
+        "name": "Bedfordshire",
+        "region": "England"
+      },
+      {
+        "name": "Berkshire",
+        "region": "England"
+      },
+      {
+        "name": "Borders",
+        "region": "England"
+      },
+      {
+        "name": "Bristol",
+        "region": "England"
+      },
+      {
+        "name": "Buckinghamshire",
+        "region": "England"
+      },
+      {
+        "name": "Cambridgeshire",
+        "region": "England"
+      },
+      {
+        "name": "Channel Islands",
+        "region": "England"
+      },
+      {
+        "name": "Cheshire",
+        "region": "England"
+      },
+      {
+        "name": "Cleveland",
+        "region": "England"
+      },
+      {
+        "name": "Cornwall",
+        "region": "England"
+      },
+      {
+        "name": "Cumbria",
+        "region": "England"
+      },
+      {
+        "name": "Derbyshire",
+        "region": "England"
+      },
+      {
+        "name": "Devon",
+        "region": "England"
+      },
+      {
+        "name": "Dorset",
+        "region": "England"
+      },
+      {
+        "name": "Durham",
+        "region": "England"
+      },
+      {
+        "name": "East Riding of Yorkshire",
+        "region": "England"
+      },
+      {
+        "name": "East Sussex",
+        "region": "England"
+      },
+      {
+        "name": "Essex",
+        "region": "England"
+      },
+      {
+        "name": "Gloucestershire",
+        "region": "England"
+      },
+      {
+        "name": "Greater Manchester",
+        "region": "England"
+      },
+      {
+        "name": "Hampshire",
+        "region": "England"
+      },
+      {
+        "name": "Herefordshire",
+        "region": "England"
+      },
+      {
+        "name": "Hertfordshire",
+        "region": "England"
+      },
+      {
+        "name": "Humberside",
+        "region": "England"
+      },
+      {
+        "name": "Isle of Man",
+        "region": "England"
+      },
+      {
+        "name": "Isle of Wight",
+        "region": "England"
+      },
+      {
+        "name": "Isles of Scilly",
+        "region": "England"
+      },
+      {
+        "name": "Kent",
+        "region": "England"
+      },
+      {
+        "name": "Lancashire",
+        "region": "England"
+      },
+      {
+        "name": "Leicestershire",
+        "region": "England"
+      },
+      {
+        "name": "Lincolnshire",
+        "region": "England"
+      },
+      {
+        "name": "London",
+        "region": "England"
+      },
+      {
+        "name": "Merseyside",
+        "region": "England"
+      },
+      {
+        "name": "Middlesex",
+        "region": "England"
+      },
+      {
+        "name": "Norfolk",
+        "region": "England"
+      },
+      {
+        "name": "North Yorkshire",
+        "region": "England"
+      },
+      {
+        "name": "Northamptonshire",
+        "region": "England"
+      },
+      {
+        "name": "Northumberland",
+        "region": "England"
+      },
+      {
+        "name": "Nottinghamshire",
+        "region": "England"
+      },
+      {
+        "name": "Oxfordshire",
+        "region": "England"
+      },
+      {
+        "name": "Rutland",
+        "region": "England"
+      },
+      {
+        "name": "Shropshire",
+        "region": "England"
+      },
+      {
+        "name": "Somerset",
+        "region": "England"
+      },
+      {
+        "name": "South Yorkshire",
+        "region": "England"
+      },
+      {
+        "name": "Staffordshire",
+        "region": "England"
+      },
+      {
+        "name": "Suffolk",
+        "region": "England"
+      },
+      {
+        "name": "Surrey",
+        "region": "England"
+      },
+      {
+        "name": "Tyne and Wear",
+        "region": "England"
+      },
+      {
+        "name": "Warwickshire",
+        "region": "England"
+      },
+      {
+        "name": "West Midlands",
+        "region": "England"
+      },
+      {
+        "name": "West Sussex",
+        "region": "England"
+      },
+      {
+        "name": "West Yorkshire",
+        "region": "England"
+      },
+      {
+        "name": "Wiltshire",
+        "region": "England"
+      },
+      {
+        "name": "Worcestershire",
+        "region": "England"
+      },
+      {
+        "name": "Antrim",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Down",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Fermanagh",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Londonderry",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Tyrone",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Aberdeen City",
+        "region": "Scotland"
+      },
+      {
+        "name": "Aberdeenshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Angus",
+        "region": "Scotland"
+      },
+      {
+        "name": "Argyll and Bute",
+        "region": "Scotland"
+      },
+      {
+        "name": "Armagh",
+        "region": "Scotland"
+      },
+      {
+        "name": "Carmarthenshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Clackmannan",
+        "region": "Scotland"
+      },
+      {
+        "name": "Dumfries and Galloway",
+        "region": "Scotland"
+      },
+      {
+        "name": "East Ayrshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "East Dunbartonshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "East Lothian",
+        "region": "Scotland"
+      },
+      {
+        "name": "East Renfrewshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Edinburgh City",
+        "region": "Scotland"
+      },
+      {
+        "name": "Falkirk",
+        "region": "Scotland"
+      },
+      {
+        "name": "Fife",
+        "region": "Scotland"
+      },
+      {
+        "name": "Glasgow",
+        "region": "Scotland"
+      },
+      {
+        "name": "Highland",
+        "region": "Scotland"
+      },
+      {
+        "name": "Inverclyde",
+        "region": "Scotland"
+      },
+      {
+        "name": "Midlothian",
+        "region": "Scotland"
+      },
+      {
+        "name": "Moray",
+        "region": "Scotland"
+      },
+      {
+        "name": "North Ayrshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "North Lanarkshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Orkney",
+        "region": "Scotland"
+      },
+      {
+        "name": "Perthshire and Kinross",
+        "region": "Scotland"
+      },
+      {
+        "name": "Renfrewshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Roxburghshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Shetland",
+        "region": "Scotland"
+      },
+      {
+        "name": "South Ayrshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "South Lanarkshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Stirling",
+        "region": "Scotland"
+      },
+      {
+        "name": "West Dunbartonshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "West Lothian",
+        "region": "Scotland"
+      },
+      {
+        "name": "Western Isles",
+        "region": "Scotland"
+      },
+      {
+        "name": "Blaenau Gwent",
+        "region": "Wales"
+      },
+      {
+        "name": "Bridgend",
+        "region": "Wales"
+      },
+      {
+        "name": "Caerphilly",
+        "region": "Wales"
+      },
+      {
+        "name": "Cardiff",
+        "region": "Wales"
+      },
+      {
+        "name": "Ceredigion",
+        "region": "Wales"
+      },
+      {
+        "name": "Conwy",
+        "region": "Wales"
+      },
+      {
+        "name": "Denbighshire",
+        "region": "Wales"
+      },
+      {
+        "name": "Flintshire",
+        "region": "Wales"
+      },
+      {
+        "name": "Gwynedd",
+        "region": "Wales"
+      },
+      {
+        "name": "Isle of Anglesey",
+        "region": "Wales"
+      },
+      {
+        "name": "Merthyr Tydfil",
+        "region": "Wales"
+      },
+      {
+        "name": "Monmouthshire",
+        "region": "Wales"
+      },
+      {
+        "name": "Neath Port Talbot",
+        "region": "Wales"
+      },
+      {
+        "name": "Newport",
+        "region": "Wales"
+      },
+      {
+        "name": "Pembrokeshire",
+        "region": "Wales"
+      },
+      {
+        "name": "Powys",
+        "region": "Wales"
+      },
+      {
+        "name": "Rhondda Cynon Taff",
+        "region": "Wales"
+      },
+      {
+        "name": "Swansea",
+        "region": "Wales"
+      },
+      {
+        "name": "The Vale of Glamorgan",
+        "region": "Wales"
+      },
+      {
+        "name": "Torfaen",
+        "region": "Wales"
+      },
+      {
+        "name": "Wrexham",
+        "region": "Wales"
+      }
+    ]
+  },
+  {
+    "alpha2": "GD",
+    "alpha3": "GRD",
+    "countryCallingCodes": [
+      "+473"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "ioc": "GRN",
+    "languages": [
+      "eng"
+    ],
+    "name": "Grenada",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GE",
+    "alpha3": "GEO",
+    "countryCallingCodes": [
+      "+995"
+    ],
+    "currencies": [
+      "GEL"
+    ],
+    "ioc": "GEO",
+    "languages": [
+      "kat"
+    ],
+    "name": "Georgia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GE",
+    "alpha3": "GEL",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Gilbert and Ellice Islands",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "GF",
+    "alpha3": "GUF",
+    "countryCallingCodes": [
+      "+594"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "French Guiana",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GG",
+    "alpha3": "GGY",
+    "countryCallingCodes": [
+      "+44"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "GCI",
+    "languages": [
+      "fra"
+    ],
+    "name": "Guernsey",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GH",
+    "alpha3": "GHA",
+    "countryCallingCodes": [
+      "+233"
+    ],
+    "currencies": [
+      "GHS"
+    ],
+    "ioc": "GHA",
+    "languages": [
+      "eng"
+    ],
+    "name": "Ghana",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GI",
+    "alpha3": "GIB",
+    "countryCallingCodes": [
+      "+350"
+    ],
+    "currencies": [
+      "GIP"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Gibraltar",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GL",
+    "alpha3": "GRL",
+    "countryCallingCodes": [
+      "+299"
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "ioc": "",
+    "languages": [
+      "kal"
+    ],
+    "name": "Greenland",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GM",
+    "alpha3": "GMB",
+    "countryCallingCodes": [
+      "+220"
+    ],
+    "currencies": [
+      "GMD"
+    ],
+    "ioc": "GAM",
+    "languages": [
+      "eng"
+    ],
+    "name": "Gambia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GN",
+    "alpha3": "GIN",
+    "countryCallingCodes": [
+      "+224"
+    ],
+    "currencies": [
+      "GNF"
+    ],
+    "ioc": "GUI",
+    "languages": [
+      "fra"
+    ],
+    "name": "Guinea",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GP",
+    "alpha3": "GLP",
+    "countryCallingCodes": [
+      "+590"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "Guadeloupe",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GQ",
+    "alpha3": "GNQ",
+    "countryCallingCodes": [
+      "+240"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "ioc": "GEQ",
+    "languages": [
+      "spa",
+      "fra",
+      "por"
+    ],
+    "name": "Equatorial Guinea",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GR",
+    "alpha3": "GRC",
+    "countryCallingCodes": [
+      "+30"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "GRE",
+    "languages": [
+      "ell"
+    ],
+    "name": "Greece",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GS",
+    "alpha3": "SGS",
+    "countryCallingCodes": [],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "South Georgia And The South Sandwich Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GT",
+    "alpha3": "GTM",
+    "countryCallingCodes": [
+      "+502"
+    ],
+    "currencies": [
+      "GTQ"
+    ],
+    "ioc": "GUA",
+    "languages": [
+      "spa"
+    ],
+    "name": "Guatemala",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GU",
+    "alpha3": "GUM",
+    "countryCallingCodes": [
+      "+1 671"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "GUM",
+    "languages": [
+      "eng"
+    ],
+    "name": "Guam",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GW",
+    "alpha3": "GNB",
+    "countryCallingCodes": [
+      "+245"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "ioc": "GBS",
+    "languages": [
+      "por"
+    ],
+    "name": "Guinea-bissau",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GY",
+    "alpha3": "GUY",
+    "countryCallingCodes": [
+      "+592"
+    ],
+    "currencies": [
+      "GYD"
+    ],
+    "ioc": "GUY",
+    "languages": [
+      "eng"
+    ],
+    "name": "Guyana",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "HK",
+    "alpha3": "HKG",
+    "countryCallingCodes": [
+      "+852"
+    ],
+    "currencies": [
+      "HKD"
+    ],
+    "ioc": "HKG",
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "name": "Hong Kong",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "HM",
+    "alpha3": "HMD",
+    "countryCallingCodes": [],
+    "currencies": [
+      "AUD"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Heard Island And McDonald Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "HN",
+    "alpha3": "HND",
+    "countryCallingCodes": [
+      "+504"
+    ],
+    "currencies": [
+      "HNL"
+    ],
+    "ioc": "HON",
+    "languages": [
+      "spa"
+    ],
+    "name": "Honduras",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "HR",
+    "alpha3": "HRV",
+    "countryCallingCodes": [
+      "+385"
+    ],
+    "currencies": [
+      "HRK"
+    ],
+    "ioc": "CRO",
+    "languages": [
+      "hrv"
+    ],
+    "name": "Croatia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "HT",
+    "alpha3": "HTI",
+    "countryCallingCodes": [
+      "+509"
+    ],
+    "currencies": [
+      "HTG",
+      "USD"
+    ],
+    "ioc": "HAI",
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "name": "Haiti",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "HU",
+    "alpha3": "HUN",
+    "countryCallingCodes": [
+      "+36"
+    ],
+    "currencies": [
+      "HUF"
+    ],
+    "ioc": "HUN",
+    "languages": [
+      "hun"
+    ],
+    "name": "Hungary",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "HV",
+    "alpha3": "HVO",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Upper Volta",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "IC",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Canary Islands",
+    "status": "reserved",
+    "provinces": null
+  },
+  {
+    "alpha2": "ID",
+    "alpha3": "IDN",
+    "countryCallingCodes": [
+      "+62"
+    ],
+    "currencies": [
+      "IDR"
+    ],
+    "ioc": "INA",
+    "languages": [
+      "ind"
+    ],
+    "name": "Indonesia",
+    "status": "assigned",
+    "provinces": [
+      {
+        "short": "ID-AC",
+        "name": "Special Region of Aceh"
+      },
+      {
+        "short": "ID-BA",
+        "name": "Bali"
+      },
+      {
+        "short": "ID-BB",
+        "name": "Bangka–Belitung Islands"
+      },
+      {
+        "short": "ID-BT",
+        "name": "Banten"
+      },
+      {
+        "short": "ID-BE",
+        "name": "Bengkulu"
+      },
+      {
+        "short": "ID-JT",
+        "name": "Central Java"
+      },
+      {
+        "short": "ID-KT",
+        "name": "Central Kalimantan"
+      },
+      {
+        "short": "ID-ST",
+        "name": "Central Sulawesi"
+      },
+      {
+        "short": "ID-JI",
+        "name": "East Java"
+      },
+      {
+        "short": "ID-KI",
+        "name": "East Kalimantan"
+      },
+      {
+        "short": "ID-NT",
+        "name": "East Nusa Tenggara"
+      },
+      {
+        "short": "ID-GO",
+        "name": "Gorontalo"
+      },
+      {
+        "short": "ID-JK",
+        "name": "Jakarta Special Capital Region"
+      },
+      {
+        "short": "ID-JA",
+        "name": "Jambi"
+      },
+      {
+        "short": "ID-LA",
+        "name": "Lampung"
+      },
+      {
+        "short": "ID-MA",
+        "name": "Maluku"
+      },
+      {
+        "short": "ID-KU",
+        "name": "North Kalimantan"
+      },
+      {
+        "short": "ID-MU",
+        "name": "North Maluku"
+      },
+      {
+        "short": "ID-SA",
+        "name": "North Sulawesi"
+      },
+      {
+        "short": "ID-SU",
+        "name": "North Sumatra"
+      },
+      {
+        "short": "ID-PA",
+        "name": "Special Region of Papua"
+      },
+      {
+        "short": "ID-RI",
+        "name": "Riau"
+      },
+      {
+        "short": "ID-KR",
+        "name": "Riau Islands"
+      },
+      {
+        "short": "ID-SG",
+        "name": "Southeast Sulawesi"
+      },
+      {
+        "short": "ID-KS",
+        "name": "South Kalimantan"
+      },
+      {
+        "short": "ID-SN",
+        "name": "South Sulawesi"
+      },
+      {
+        "short": "ID-SS",
+        "name": "South Sumatra"
+      },
+      {
+        "short": "ID-JB",
+        "name": "West Java"
+      },
+      {
+        "short": "ID-KB",
+        "name": "West Kalimantan"
+      },
+      {
+        "short": "ID-NB",
+        "name": "West Nusa Tenggara"
+      },
+      {
+        "short": "ID-PB",
+        "name": "Special Region of West Papua"
+      },
+      {
+        "short": "ID-SR",
+        "name": "West Sulawesi"
+      },
+      {
+        "short": "ID-SB",
+        "name": "West Sumatra"
+      },
+      {
+        "short": "ID-YO",
+        "name": "Special Region of Yogyakarta"
+      }
+    ]
+  },
+  {
+    "alpha2": "IE",
+    "alpha3": "IRL",
+    "countryCallingCodes": [
+      "+353"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "IRL",
+    "languages": [
+      "eng",
+      "gle"
+    ],
+    "name": "Ireland",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "IL",
+    "alpha3": "ISR",
+    "countryCallingCodes": [
+      "+972"
+    ],
+    "currencies": [
+      "ILS"
+    ],
+    "ioc": "ISR",
+    "languages": [
+      "heb",
+      "ara",
+      "eng"
+    ],
+    "name": "Israel",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "IM",
+    "alpha3": "IMN",
+    "countryCallingCodes": [
+      "+44"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng",
+      "glv"
+    ],
+    "name": "Isle Of Man",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "IN",
+    "alpha3": "IND",
+    "countryCallingCodes": [
+      "+91"
+    ],
+    "currencies": [
+      "INR"
+    ],
+    "ioc": "IND",
+    "languages": [
+      "eng",
+      "hin"
+    ],
+    "name": "India",
+    "status": "assigned",
+    "provinces": [
+      {
+        "short": "AP",
+        "name": "Andhra Pradesh"
+      },
+      {
+        "short": "AR",
+        "name": "Arunachal Pradesh"
+      },
+      {
+        "short": "AS",
+        "name": "Assam"
+      },
+      {
+        "short": "BR",
+        "name": "Bihar"
+      },
+      {
+        "short": "CT",
+        "name": "Chhattisgarh"
+      },
+      {
+        "short": "GA",
+        "name": "Goa"
+      },
+      {
+        "short": "GJ",
+        "name": "Gujarat"
+      },
+      {
+        "short": "HR",
+        "name": "Haryana"
+      },
+      {
+        "short": "HP",
+        "name": "Himachal Pradesh"
+      },
+      {
+        "short": "JK",
+        "name": "Jammu and Kashmir"
+      },
+      {
+        "short": "JH",
+        "name": "Jharkhand"
+      },
+      {
+        "short": "KA",
+        "name": "Karnataka"
+      },
+      {
+        "short": "KL",
+        "name": "Kerala"
+      },
+      {
+        "short": "MP",
+        "name": "Madhya Pradesh"
+      },
+      {
+        "short": "MH",
+        "name": "Maharashtra"
+      },
+      {
+        "short": "MN",
+        "name": "Manipur"
+      },
+      {
+        "short": "ML",
+        "name": "Meghalaya"
+      },
+      {
+        "short": "MZ",
+        "name": "Mizoram"
+      },
+      {
+        "short": "NL",
+        "name": "Nagaland"
+      },
+      {
+        "short": "OR",
+        "name": "Odisha"
+      },
+      {
+        "short": "PB",
+        "name": "Punjab"
+      },
+      {
+        "short": "RJ",
+        "name": "Rajasthan"
+      },
+      {
+        "short": "SK",
+        "name": "Sikkim"
+      },
+      {
+        "short": "TN",
+        "name": "Tamil Nadu"
+      },
+      {
+        "short": "TG",
+        "name": "Telangana"
+      },
+      {
+        "short": "TR",
+        "name": "Tripura"
+      },
+      {
+        "short": "UP",
+        "name": "Uttar Pradesh"
+      },
+      {
+        "short": "UT",
+        "name": "Uttarakhand"
+      },
+      {
+        "short": "WB",
+        "name": "West Bengal"
+      },
+      {
+        "short": "AN",
+        "name": "Andaman and Nicobar Islands"
+      },
+      {
+        "short": "CH",
+        "name": "Chandigarh"
+      },
+      {
+        "short": "DN",
+        "name": "Dadra and Nagar Haveli"
+      },
+      {
+        "short": "DD",
+        "name": "Daman and Diu"
+      },
+      {
+        "short": "LD",
+        "name": "Lakshadweep"
+      },
+      {
+        "short": "DL",
+        "name": "National Capital Territory of Delhi"
+      },
+      {
+        "short": "PY",
+        "name": "Puducherry"
+      }
+    ]
+  },
+  {
+    "alpha2": "IO",
+    "alpha3": "IOT",
+    "countryCallingCodes": [
+      "+246"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "British Indian Ocean Territory",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "IQ",
+    "alpha3": "IRQ",
+    "countryCallingCodes": [
+      "+964"
+    ],
+    "currencies": [
+      "IQD"
+    ],
+    "ioc": "IRQ",
+    "languages": [
+      "ara",
+      "kur"
+    ],
+    "name": "Iraq",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "IR",
+    "alpha3": "IRN",
+    "countryCallingCodes": [
+      "+98"
+    ],
+    "currencies": [
+      "IRR"
+    ],
+    "ioc": "IRI",
+    "languages": [
+      "fas"
+    ],
+    "name": "Iran, Islamic Republic Of",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "IS",
+    "alpha3": "ISL",
+    "countryCallingCodes": [
+      "+354"
+    ],
+    "currencies": [
+      "ISK"
+    ],
+    "ioc": "ISL",
+    "languages": [
+      "isl"
+    ],
+    "name": "Iceland",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "IT",
+    "alpha3": "ITA",
+    "countryCallingCodes": [
+      "+39"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "ITA",
+    "languages": [
+      "ita"
+    ],
+    "name": "Italy",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "JE",
+    "alpha3": "JEY",
+    "countryCallingCodes": [
+      "+44"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "JCI",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "name": "Jersey",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "JM",
+    "alpha3": "JAM",
+    "countryCallingCodes": [
+      "+1 876"
+    ],
+    "currencies": [
+      "JMD"
+    ],
+    "ioc": "JAM",
+    "languages": [
+      "eng"
+    ],
+    "name": "Jamaica",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "JO",
+    "alpha3": "JOR",
+    "countryCallingCodes": [
+      "+962"
+    ],
+    "currencies": [
+      "JOD"
+    ],
+    "ioc": "JOR",
+    "languages": [
+      "ara"
+    ],
+    "name": "Jordan",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Irbid"
+      },
+      {
+        "name": "Ajloun"
+      },
+      {
+        "name": "Jerash"
+      },
+      {
+        "name": "Mafraq"
+      },
+      {
+        "name": "Balqa"
+      },
+      {
+        "name": "Amman"
+      },
+      {
+        "name": "Zarqa"
+      },
+      {
+        "name": "Madaba"
+      },
+      {
+        "name": "Karak"
+      },
+      {
+        "name": "Tafilah"
+      },
+      {
+        "name": "Ma'an"
+      },
+      {
+        "name": "Aqaba"
+      }
+    ]
+  },
+  {
+    "alpha2": "JP",
+    "alpha3": "JPN",
+    "countryCallingCodes": [
+      "+81"
+    ],
+    "currencies": [
+      "JPY"
+    ],
+    "ioc": "JPN",
+    "languages": [
+      "jpn"
+    ],
+    "name": "Japan",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "愛知県",
+        "english": "Aichi"
+      },
+      {
+        "name": "秋田県",
+        "english": "Akita"
+      },
+      {
+        "name": "青森県",
+        "english": "Aomori"
+      },
+      {
+        "name": "千葉県",
+        "english": "Chiba"
+      },
+      {
+        "name": "愛媛県",
+        "english": "Ehime"
+      },
+      {
+        "name": "福井県",
+        "english": "Fukui"
+      },
+      {
+        "name": "福岡県",
+        "english": "Fukuoka"
+      },
+      {
+        "name": "福島県",
+        "english": "Fukushima"
+      },
+      {
+        "name": "岐阜県",
+        "english": "Gifu"
+      },
+      {
+        "name": "群馬県",
+        "english": "Gunma"
+      },
+      {
+        "name": "広島県",
+        "english": "Hiroshima"
+      },
+      {
+        "name": "北海道",
+        "english": "Hokkaidō"
+      },
+      {
+        "name": "兵庫県",
+        "english": "Hyōgo"
+      },
+      {
+        "name": "茨城県",
+        "english": "Ibaraki"
+      },
+      {
+        "name": "石川県",
+        "english": "Ishikawa"
+      },
+      {
+        "name": "岩手県",
+        "english": "Iwate"
+      },
+      {
+        "name": "香川県",
+        "english": "Kagawa"
+      },
+      {
+        "name": "鹿児島県",
+        "english": "Kagoshima"
+      },
+      {
+        "name": "神奈川県",
+        "english": "Kanagawa"
+      },
+      {
+        "name": "高知県",
+        "english": "Kōchi"
+      },
+      {
+        "name": "熊本県",
+        "english": "Kumamoto"
+      },
+      {
+        "name": "京都府",
+        "english": "Kyōto"
+      },
+      {
+        "name": "三重県",
+        "english": "Mie"
+      },
+      {
+        "name": "宮城県",
+        "english": "Miyagi"
+      },
+      {
+        "name": "宮崎県",
+        "english": "Miyazaki"
+      },
+      {
+        "name": "長野県",
+        "english": "Nagano"
+      },
+      {
+        "name": "長崎県",
+        "english": "Nagasaki"
+      },
+      {
+        "name": "奈良県",
+        "english": "Nara"
+      },
+      {
+        "name": "新潟県",
+        "english": "Niigata"
+      },
+      {
+        "name": "大分県",
+        "english": "Ōita"
+      },
+      {
+        "name": "岡山県",
+        "english": "Okayama"
+      },
+      {
+        "name": "沖縄県",
+        "english": "Okinawa"
+      },
+      {
+        "name": "大阪府",
+        "english": "Ōsaka"
+      },
+      {
+        "name": "佐賀県",
+        "english": "Saga"
+      },
+      {
+        "name": "埼玉県",
+        "english": "Saitama"
+      },
+      {
+        "name": "滋賀県",
+        "english": "Shiga"
+      },
+      {
+        "name": "島根県",
+        "english": "Shimane"
+      },
+      {
+        "name": "静岡県",
+        "english": "Shizuoka"
+      },
+      {
+        "name": "栃木県",
+        "english": "Tochigi"
+      },
+      {
+        "name": "徳島県",
+        "english": "Tokushima"
+      },
+      {
+        "name": "東京都",
+        "english": "Tōkyō"
+      },
+      {
+        "name": "鳥取県",
+        "english": "Tottori"
+      },
+      {
+        "name": "富山県",
+        "english": "Toyama"
+      },
+      {
+        "name": "和歌山県",
+        "english": "Wakayama"
+      },
+      {
+        "name": "山形県",
+        "english": "Yamagata"
+      },
+      {
+        "name": "山口県",
+        "english": "Yamaguchi"
+      },
+      {
+        "name": "山梨県",
+        "english": "Yamanashi"
+      }
+    ]
+  },
+  {
+    "alpha2": "JT",
+    "alpha3": "JTN",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Johnston Island",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "KE",
+    "alpha3": "KEN",
+    "countryCallingCodes": [
+      "+254"
+    ],
+    "currencies": [
+      "KES"
+    ],
+    "ioc": "KEN",
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "name": "Kenya",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "KG",
+    "alpha3": "KGZ",
+    "countryCallingCodes": [
+      "+996"
+    ],
+    "currencies": [
+      "KGS"
+    ],
+    "ioc": "KGZ",
+    "languages": [
+      "rus"
+    ],
+    "name": "Kyrgyzstan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "KH",
+    "alpha3": "KHM",
+    "countryCallingCodes": [
+      "+855"
+    ],
+    "currencies": [
+      "KHR"
+    ],
+    "ioc": "CAM",
+    "languages": [
+      "khm"
+    ],
+    "name": "Cambodia",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "ភ្នំពេញ",
+        "english": "Phnom Penh Municipality"
+      },
+      {
+        "name": "បន្ទាយមានជ័យ",
+        "english": "Banteay Meanchey"
+      },
+      {
+        "name": "បាត់ដំបង",
+        "english": "Battambang"
+      },
+      {
+        "name": "កំពង់ចាម",
+        "english": "Kampong Cham"
+      },
+      {
+        "name": "កំពង់ឆ្នាំង",
+        "english": "Kampong Chhnang"
+      },
+      {
+        "name": "កំពង់ស្ពឺ",
+        "english": "Kampong Speu"
+      },
+      {
+        "name": "កំពង់ធំ",
+        "english": "Kampong Thom"
+      },
+      {
+        "name": "កំពត",
+        "english": "Kampot"
+      },
+      {
+        "name": "កណ្តាល",
+        "english": "Kandal"
+      },
+      {
+        "name": "កោះកុង",
+        "english": "Koh Kong"
+      },
+      {
+        "name": "កែប",
+        "english": "Kep"
+      },
+      {
+        "name": "ក្រចេះ",
+        "english": "Kratié"
+      },
+      {
+        "name": "មណ្ឌលគីរី",
+        "english": "Mondulkiri"
+      },
+      {
+        "name": "ឧត្តរមានជ័យ",
+        "english": "Oddar Meanchey"
+      },
+      {
+        "name": "បៃលិន",
+        "english": "Pailin"
+      },
+      {
+        "name": "ព្រះសីហនុ",
+        "english": "Preah Sihanouk"
+      },
+      {
+        "name": "ព្រះវិហារ",
+        "english": "Preah Vihear"
+      },
+      {
+        "name": "ពោធិ៍សាត់",
+        "english": "Pursat"
+      },
+      {
+        "name": "ព្រៃវែង",
+        "english": "Prey Veng"
+      },
+      {
+        "name": "រតនគីរី",
+        "english": "Ratanakiri"
+      },
+      {
+        "name": "សៀមរាប",
+        "english": "Siem Reap"
+      },
+      {
+        "name": "ស្ទឹងត្រែង",
+        "english": "Stung Treng"
+      },
+      {
+        "name": "ស្វាយរៀង",
+        "english": "Svay Rieng"
+      },
+      {
+        "name": "តាកែវ",
+        "english": "Takéo"
+      },
+      {
+        "name": "ត្បូងឃ្មុំ",
+        "english": "Tbong Khmum"
+      }
+    ]
+  },
+  {
+    "alpha2": "KI",
+    "alpha3": "KIR",
+    "countryCallingCodes": [
+      "+686"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "ioc": "KIR",
+    "languages": [
+      "eng"
+    ],
+    "name": "Kiribati",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "KM",
+    "alpha3": "COM",
+    "countryCallingCodes": [
+      "+269"
+    ],
+    "currencies": [
+      "KMF"
+    ],
+    "ioc": "COM",
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "name": "Comoros",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "KN",
+    "alpha3": "KNA",
+    "countryCallingCodes": [
+      "+1 869"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "ioc": "SKN",
+    "languages": [
+      "eng"
+    ],
+    "name": "Saint Kitts And Nevis",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "KP",
+    "alpha3": "PRK",
+    "countryCallingCodes": [
+      "+850"
+    ],
+    "currencies": [
+      "KPW"
+    ],
+    "ioc": "PRK",
+    "languages": [
+      "kor"
+    ],
+    "name": "Korea, Democratic People's Republic Of",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "KR",
+    "alpha3": "KOR",
+    "countryCallingCodes": [
+      "+82"
+    ],
+    "currencies": [
+      "KRW"
+    ],
+    "ioc": "KOR",
+    "languages": [
+      "kor"
+    ],
+    "name": "Korea, Republic Of",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "KW",
+    "alpha3": "KWT",
+    "countryCallingCodes": [
+      "+965"
+    ],
+    "currencies": [
+      "KWD"
+    ],
+    "ioc": "KUW",
+    "languages": [
+      "ara"
+    ],
+    "name": "Kuwait",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "KY",
+    "alpha3": "CYM",
+    "countryCallingCodes": [
+      "+1 345"
+    ],
+    "currencies": [
+      "KYD"
+    ],
+    "ioc": "CAY",
+    "languages": [
+      "eng"
+    ],
+    "name": "Cayman Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "KZ",
+    "alpha3": "KAZ",
+    "countryCallingCodes": [
+      "+7",
+      "+7 6",
+      "+7 7"
+    ],
+    "currencies": [
+      "KZT"
+    ],
+    "ioc": "KAZ",
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "name": "Kazakhstan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LA",
+    "alpha3": "LAO",
+    "countryCallingCodes": [
+      "+856"
+    ],
+    "currencies": [
+      "LAK"
+    ],
+    "ioc": "LAO",
+    "languages": [
+      "lao"
+    ],
+    "name": "Lao People's Democratic Republic",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LB",
+    "alpha3": "LBN",
+    "countryCallingCodes": [
+      "+961"
+    ],
+    "currencies": [
+      "LBP"
+    ],
+    "ioc": "LIB",
+    "languages": [
+      "ara",
+      "hye"
+    ],
+    "name": "Lebanon",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LC",
+    "alpha3": "LCA",
+    "countryCallingCodes": [
+      "+1 758"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "ioc": "LCA",
+    "languages": [
+      "eng"
+    ],
+    "name": "Saint Lucia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LI",
+    "alpha3": "LIE",
+    "countryCallingCodes": [
+      "+423"
+    ],
+    "currencies": [
+      "CHF"
+    ],
+    "ioc": "LIE",
+    "languages": [
+      "deu"
+    ],
+    "name": "Liechtenstein",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LK",
+    "alpha3": "LKA",
+    "countryCallingCodes": [
+      "+94"
+    ],
+    "currencies": [
+      "LKR"
+    ],
+    "ioc": "SRI",
+    "languages": [
+      "sin",
+      "tam"
+    ],
+    "name": "Sri Lanka",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LR",
+    "alpha3": "LBR",
+    "countryCallingCodes": [
+      "+231"
+    ],
+    "currencies": [
+      "LRD"
+    ],
+    "ioc": "LBR",
+    "languages": [
+      "eng"
+    ],
+    "name": "Liberia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LS",
+    "alpha3": "LSO",
+    "countryCallingCodes": [
+      "+266"
+    ],
+    "currencies": [
+      "LSL",
+      "ZAR"
+    ],
+    "ioc": "LES",
+    "languages": [
+      "eng",
+      "sot"
+    ],
+    "name": "Lesotho",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LT",
+    "alpha3": "LTU",
+    "countryCallingCodes": [
+      "+370"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "LTU",
+    "languages": [
+      "lit"
+    ],
+    "name": "Lithuania",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LU",
+    "alpha3": "LUX",
+    "countryCallingCodes": [
+      "+352"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "LUX",
+    "languages": [
+      "fra",
+      "deu",
+      "ltz"
+    ],
+    "name": "Luxembourg",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LV",
+    "alpha3": "LVA",
+    "countryCallingCodes": [
+      "+371"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "LAT",
+    "languages": [
+      "lav"
+    ],
+    "name": "Latvia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "LY",
+    "alpha3": "LBY",
+    "countryCallingCodes": [
+      "+218"
+    ],
+    "currencies": [
+      "LYD"
+    ],
+    "ioc": "LBA",
+    "languages": [
+      "ara"
+    ],
+    "name": "Libya",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MA",
+    "alpha3": "MAR",
+    "countryCallingCodes": [
+      "+212"
+    ],
+    "currencies": [
+      "MAD"
+    ],
+    "ioc": "MAR",
+    "languages": [
+      "ara"
+    ],
+    "name": "Morocco",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MC",
+    "alpha3": "MCO",
+    "countryCallingCodes": [
+      "+377"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "MON",
+    "languages": [
+      "fra"
+    ],
+    "name": "Monaco",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MD",
+    "alpha3": "MDA",
+    "countryCallingCodes": [
+      "+373"
+    ],
+    "currencies": [
+      "MDL"
+    ],
+    "ioc": "MDA",
+    "languages": [
+      "ron"
+    ],
+    "name": "Moldova",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "ME",
+    "alpha3": "MNE",
+    "countryCallingCodes": [
+      "+382"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "MNE",
+    "languages": [
+      "mot"
+    ],
+    "name": "Montenegro",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MF",
+    "alpha3": "MAF",
+    "countryCallingCodes": [
+      "+590"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "Saint Martin",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MG",
+    "alpha3": "MDG",
+    "countryCallingCodes": [
+      "+261"
+    ],
+    "currencies": [
+      "MGA"
+    ],
+    "ioc": "MAD",
+    "languages": [
+      "fra",
+      "mlg"
+    ],
+    "name": "Madagascar",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MH",
+    "alpha3": "MHL",
+    "countryCallingCodes": [
+      "+692"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "MHL",
+    "languages": [
+      "eng",
+      "mah"
+    ],
+    "name": "Marshall Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MI",
+    "alpha3": "MID",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Midway Islands",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "MK",
+    "alpha3": "MKD",
+    "countryCallingCodes": [
+      "+389"
+    ],
+    "currencies": [
+      "MKD"
+    ],
+    "ioc": "MKD",
+    "languages": [
+      "mkd"
+    ],
+    "name": "Macedonia, The Former Yugoslav Republic Of",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "ML",
+    "alpha3": "MLI",
+    "countryCallingCodes": [
+      "+223"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "ioc": "MLI",
+    "languages": [
+      "fra"
+    ],
+    "name": "Mali",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MM",
+    "alpha3": "MMR",
+    "countryCallingCodes": [
+      "+95"
+    ],
+    "currencies": [
+      "MMK"
+    ],
+    "ioc": "MYA",
+    "languages": [
+      "mya"
+    ],
+    "name": "Myanmar",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MN",
+    "alpha3": "MNG",
+    "countryCallingCodes": [
+      "+976"
+    ],
+    "currencies": [
+      "MNT"
+    ],
+    "ioc": "MGL",
+    "languages": [
+      "mon"
+    ],
+    "name": "Mongolia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MO",
+    "alpha3": "MAC",
+    "countryCallingCodes": [
+      "+853"
+    ],
+    "currencies": [
+      "MOP"
+    ],
+    "ioc": "MAC",
+    "languages": [
+      "zho",
+      "por"
+    ],
+    "name": "Macao",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MP",
+    "alpha3": "MNP",
+    "countryCallingCodes": [
+      "+1 670"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Northern Mariana Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MQ",
+    "alpha3": "MTQ",
+    "countryCallingCodes": [
+      "+596"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Martinique",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MR",
+    "alpha3": "MRT",
+    "countryCallingCodes": [
+      "+222"
+    ],
+    "currencies": [
+      "MRO"
+    ],
+    "ioc": "MTN",
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "name": "Mauritania",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MS",
+    "alpha3": "MSR",
+    "countryCallingCodes": [
+      "+1 664"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Montserrat",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MT",
+    "alpha3": "MLT",
+    "countryCallingCodes": [
+      "+356"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "MLT",
+    "languages": [
+      "mlt",
+      "eng"
+    ],
+    "name": "Malta",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MU",
+    "alpha3": "MUS",
+    "countryCallingCodes": [
+      "+230"
+    ],
+    "currencies": [
+      "MUR"
+    ],
+    "ioc": "MRI",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "name": "Mauritius",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MV",
+    "alpha3": "MDV",
+    "countryCallingCodes": [
+      "+960"
+    ],
+    "currencies": [
+      "MVR"
+    ],
+    "ioc": "MDV",
+    "languages": [
+      "div"
+    ],
+    "name": "Maldives",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MW",
+    "alpha3": "MWI",
+    "countryCallingCodes": [
+      "+265"
+    ],
+    "currencies": [
+      "MWK"
+    ],
+    "ioc": "MAW",
+    "languages": [
+      "eng",
+      "nya"
+    ],
+    "name": "Malawi",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MX",
+    "alpha3": "MEX",
+    "countryCallingCodes": [
+      "+52"
+    ],
+    "currencies": [
+      "MXN",
+      "MXV"
+    ],
+    "ioc": "MEX",
+    "languages": [
+      "spa"
+    ],
+    "name": "Mexico",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Aguascalientes",
+        "short": "AG",
+        "alt": [
+          "AGS"
+        ]
+      },
+      {
+        "name": "Baja California",
+        "short": "BC",
+        "alt": [
+          "BCN"
+        ]
+      },
+      {
+        "name": "Baja California Sur",
+        "short": "BS",
+        "alt": [
+          "BCS"
+        ]
+      },
+      {
+        "name": "Campeche",
+        "short": "CM",
+        "alt": [
+          "Camp",
+          "CAM"
+        ]
+      },
+      {
+        "name": "Chiapas",
+        "short": "CS",
+        "alt": [
+          "Chis",
+          "CHP"
+        ]
+      },
+      {
+        "name": "Chihuahua",
+        "short": "CH",
+        "alt": [
+          "Chih",
+          "CHH"
+        ]
+      },
+      {
+        "name": "Coahuila",
+        "short": "MX",
+        "alt": [
+          "Coah",
+          "COA"
+        ]
+      },
+      {
+        "name": "Colima",
+        "short": "CL",
+        "alt": [
+          "COL"
+        ]
+      },
+      {
+        "name": "Federal District",
+        "short": "DF",
+        "alt": [
+          "DIF"
+        ]
+      },
+      {
+        "name": "Durango",
+        "short": "DG",
+        "alt": [
+          "Dgo",
+          "DUR"
+        ]
+      },
+      {
+        "name": "Guanajuato",
+        "short": "GT",
+        "alt": [
+          "Gto",
+          "GUA"
+        ]
+      },
+      {
+        "name": "Guerrero",
+        "short": "GR",
+        "alt": [
+          "Gro",
+          "GRO"
+        ]
+      },
+      {
+        "name": "Hidalgo",
+        "short": "HG",
+        "alt": [
+          "Hgo",
+          "HID"
+        ]
+      },
+      {
+        "name": "Jalisco",
+        "short": "JA",
+        "alt": [
+          "Jal",
+          "JAL"
+        ]
+      },
+      {
+        "name": "Mexico",
+        "short": "ME",
+        "alt": [
+          "Edomex",
+          "MEX"
+        ]
+      },
+      {
+        "name": "Michoacán",
+        "short": "MI",
+        "alt": [
+          "Mich",
+          "MIC"
+        ]
+      },
+      {
+        "name": "Morelos",
+        "short": "MO",
+        "alt": [
+          "Mor",
+          "MOR"
+        ]
+      },
+      {
+        "name": "Nayarit",
+        "short": "NA",
+        "alt": [
+          "Nay",
+          "NAY"
+        ]
+      },
+      {
+        "name": "Nuevo León",
+        "short": "NL",
+        "alt": [
+          "NLE"
+        ]
+      },
+      {
+        "name": "Oaxaca",
+        "short": "OA",
+        "alt": [
+          "Oax",
+          "OAX"
+        ]
+      },
+      {
+        "name": "Puebla",
+        "short": "PU",
+        "alt": [
+          "Pue",
+          "PUE"
+        ]
+      },
+      {
+        "name": "Querétaro",
+        "short": "QE",
+        "alt": [
+          "Qro",
+          "QUE"
+        ]
+      },
+      {
+        "name": "Quintana Roo",
+        "short": "QR",
+        "alt": [
+          "Q Roo",
+          "ROO"
+        ]
+      },
+      {
+        "name": "San Luis Potosí",
+        "short": "SL",
+        "alt": [
+          "SLP"
+        ]
+      },
+      {
+        "name": "Sinaloa",
+        "short": "SI",
+        "alt": [
+          "SIN"
+        ]
+      },
+      {
+        "name": "Sonora",
+        "short": "SO",
+        "alt": [
+          "SON"
+        ]
+      },
+      {
+        "name": "Tabasco",
+        "short": "TB",
+        "alt": [
+          "TAB"
+        ]
+      },
+      {
+        "name": "Tamaulipas",
+        "short": "TM",
+        "alt": [
+          "Tamps",
+          "TAM"
+        ]
+      },
+      {
+        "name": "Tlaxcala",
+        "short": "TL",
+        "alt": [
+          "Tlax",
+          "TLA"
+        ]
+      },
+      {
+        "name": "Veracruz",
+        "short": "VE",
+        "alt": [
+          "VER"
+        ]
+      },
+      {
+        "name": "Yucatán",
+        "short": "YU",
+        "alt": [
+          "YUC"
+        ]
+      },
+      {
+        "name": "Zacatecas",
+        "short": "ZA",
+        "alt": [
+          "ZAC"
+        ]
+      }
+    ]
+  },
+  {
+    "alpha2": "MY",
+    "alpha3": "MYS",
+    "countryCallingCodes": [
+      "+60"
+    ],
+    "currencies": [
+      "MYR"
+    ],
+    "ioc": "MAS",
+    "languages": [
+      "msa",
+      "eng"
+    ],
+    "name": "Malaysia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "MZ",
+    "alpha3": "MOZ",
+    "countryCallingCodes": [
+      "+258"
+    ],
+    "currencies": [
+      "MZN"
+    ],
+    "ioc": "MOZ",
+    "languages": [
+      "por"
+    ],
+    "name": "Mozambique",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NA",
+    "alpha3": "NAM",
+    "countryCallingCodes": [
+      "+264"
+    ],
+    "currencies": [
+      "NAD",
+      "ZAR"
+    ],
+    "ioc": "NAM",
+    "languages": [
+      "eng"
+    ],
+    "name": "Namibia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NC",
+    "alpha3": "NCL",
+    "countryCallingCodes": [
+      "+687"
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "New Caledonia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NE",
+    "alpha3": "NER",
+    "countryCallingCodes": [
+      "+227"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "ioc": "NIG",
+    "languages": [
+      "fra"
+    ],
+    "name": "Niger",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NF",
+    "alpha3": "NFK",
+    "countryCallingCodes": [
+      "+672"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Norfolk Island",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NG",
+    "alpha3": "NGA",
+    "countryCallingCodes": [
+      "+234"
+    ],
+    "currencies": [
+      "NGN"
+    ],
+    "ioc": "NGR",
+    "languages": [
+      "eng"
+    ],
+    "name": "Nigeria",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Anambra"
+      },
+      {
+        "name": "Enugu"
+      },
+      {
+        "name": "Akwa Ibom"
+      },
+      {
+        "name": "Adamawa"
+      },
+      {
+        "name": "Abia"
+      },
+      {
+        "name": "Bauchi"
+      },
+      {
+        "name": "Bayelsa"
+      },
+      {
+        "name": "Benue"
+      },
+      {
+        "name": "Borno"
+      },
+      {
+        "name": "Cross River"
+      },
+      {
+        "name": "Delta"
+      },
+      {
+        "name": "Ebonyi"
+      }
+    ]
+  },
+  {
+    "alpha2": "NH",
+    "alpha3": "NHB",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "New Hebrides",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "NI",
+    "alpha3": "NIC",
+    "countryCallingCodes": [
+      "+505"
+    ],
+    "currencies": [
+      "NIO"
+    ],
+    "ioc": "NCA",
+    "languages": [
+      "spa"
+    ],
+    "name": "Nicaragua",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NL",
+    "alpha3": "NLD",
+    "countryCallingCodes": [
+      "+31"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "NED",
+    "languages": [
+      "nld"
+    ],
+    "name": "Netherlands",
+    "status": "assigned",
+    "provinces": [
+      {
+        "short": "DR",
+        "name": "Drenthe"
+      },
+      {
+        "short": "FL",
+        "name": "Flevoland"
+      },
+      {
+        "short": "FR",
+        "name": "Friesland"
+      },
+      {
+        "short": "GD",
+        "name": "Gelderland"
+      },
+      {
+        "short": "GR",
+        "name": "Groningen"
+      },
+      {
+        "short": "LB",
+        "name": "Limburg"
+      },
+      {
+        "short": "NB",
+        "name": "Noord-Brabant"
+      },
+      {
+        "short": "NH",
+        "name": "Noord-Holland"
+      },
+      {
+        "short": "OV",
+        "name": "Overijssel"
+      },
+      {
+        "short": "UT",
+        "name": "Utrecht"
+      },
+      {
+        "short": "ZH",
+        "name": "Zuid-Holland"
+      },
+      {
+        "short": "ZL",
+        "name": "Zeeland"
+      },
+      {
+        "short": "AW",
+        "name": "Aruba"
+      },
+      {
+        "short": "BQ",
+        "name": "Bonaire"
+      },
+      {
+        "short": "BQ2",
+        "name": "Saba"
+      },
+      {
+        "short": "BQ3",
+        "name": "Sint Eustatius"
+      },
+      {
+        "short": "CW",
+        "name": "Curaçao"
+      },
+      {
+        "short": "SX",
+        "name": "Sint Maarten"
+      }
+    ]
+  },
+  {
+    "alpha2": "NO",
+    "alpha3": "NOR",
+    "countryCallingCodes": [
+      "+47"
+    ],
+    "currencies": [
+      "NOK"
+    ],
+    "ioc": "NOR",
+    "languages": [
+      "nor"
+    ],
+    "name": "Norway",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NP",
+    "alpha3": "NPL",
+    "countryCallingCodes": [
+      "+977"
+    ],
+    "currencies": [
+      "NPR"
+    ],
+    "ioc": "NEP",
+    "languages": [
+      "nep"
+    ],
+    "name": "Nepal",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NQ",
+    "alpha3": "ATN",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Dronning Maud Land",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "NR",
+    "alpha3": "NRU",
+    "countryCallingCodes": [
+      "+674"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "ioc": "NRU",
+    "languages": [
+      "eng",
+      "nau"
+    ],
+    "name": "Nauru",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NT",
+    "alpha3": "NTZ",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Neutral Zone",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "NU",
+    "alpha3": "NIU",
+    "countryCallingCodes": [
+      "+683"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Niue",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "NZ",
+    "alpha3": "NZL",
+    "countryCallingCodes": [
+      "+64"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "ioc": "NZL",
+    "languages": [
+      "eng"
+    ],
+    "name": "New Zealand",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "OM",
+    "alpha3": "OMN",
+    "countryCallingCodes": [
+      "+968"
+    ],
+    "currencies": [
+      "OMR"
+    ],
+    "ioc": "OMA",
+    "languages": [
+      "ara"
+    ],
+    "name": "Oman",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PA",
+    "alpha3": "PAN",
+    "countryCallingCodes": [
+      "+507"
+    ],
+    "currencies": [
+      "PAB",
+      "USD"
+    ],
+    "ioc": "PAN",
+    "languages": [
+      "spa"
+    ],
+    "name": "Panama",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PC",
+    "alpha3": "PCI",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Pacific Islands, Trust Territory of the",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "PE",
+    "alpha3": "PER",
+    "countryCallingCodes": [
+      "+51"
+    ],
+    "currencies": [
+      "PEN"
+    ],
+    "ioc": "PER",
+    "languages": [
+      "spa",
+      "aym",
+      "que"
+    ],
+    "name": "Peru",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Chachapoyas",
+        "region": "Amazonas"
+      },
+      {
+        "name": "Bagua",
+        "region": "Amazonas"
+      },
+      {
+        "name": "Bongará",
+        "region": "Amazonas"
+      },
+      {
+        "name": "Condorcanqui",
+        "region": "Amazonas"
+      },
+      {
+        "name": "Luya",
+        "region": "Amazonas"
+      },
+      {
+        "name": "Rodríguez de Mendoza",
+        "region": "Amazonas"
+      },
+      {
+        "name": "Utcubamba",
+        "region": "Amazonas"
+      },
+      {
+        "name": "Huaraz",
+        "region": "Ancash"
+      },
+      {
+        "name": "Aija",
+        "region": "Ancash"
+      },
+      {
+        "name": "Antonio Raymondi",
+        "region": "Ancash"
+      },
+      {
+        "name": "Asunción",
+        "region": "Ancash"
+      },
+      {
+        "name": "Bolognesi",
+        "region": "Ancash"
+      },
+      {
+        "name": "Carhuaz",
+        "region": "Ancash"
+      },
+      {
+        "name": "Carlos Fermín Fitzcarrald",
+        "region": "Ancash"
+      },
+      {
+        "name": "Casma",
+        "region": "Ancash"
+      },
+      {
+        "name": "Corongo",
+        "region": "Ancash"
+      },
+      {
+        "name": "Huari",
+        "region": "Ancash"
+      },
+      {
+        "name": "Huarmey",
+        "region": "Ancash"
+      },
+      {
+        "name": "Huaylas",
+        "region": "Ancash"
+      },
+      {
+        "name": "Mariscal Luzuriaga",
+        "region": "Ancash"
+      },
+      {
+        "name": "Ocros",
+        "region": "Ancash"
+      },
+      {
+        "name": "Pallasca",
+        "region": "Ancash"
+      },
+      {
+        "name": "Pomabamba",
+        "region": "Ancash"
+      },
+      {
+        "name": "Recuay",
+        "region": "Ancash"
+      },
+      {
+        "name": "Santa",
+        "region": "Ancash"
+      },
+      {
+        "name": "Sihuas",
+        "region": "Ancash"
+      },
+      {
+        "name": "Yungay",
+        "region": "Ancash"
+      },
+      {
+        "name": "Abancay",
+        "region": "Apurímac"
+      },
+      {
+        "name": "Andahuaylas",
+        "region": "Apurímac"
+      },
+      {
+        "name": "Antabamba",
+        "region": "Apurímac"
+      },
+      {
+        "name": "Aymaraes",
+        "region": "Apurímac"
+      },
+      {
+        "name": "Cotabambas",
+        "region": "Apurímac"
+      },
+      {
+        "name": "Chincheros",
+        "region": "Apurímac"
+      },
+      {
+        "name": "Grau",
+        "region": "Apurímac"
+      },
+      {
+        "name": "Arequipa",
+        "region": "Arequipa"
+      },
+      {
+        "name": "Camaná",
+        "region": "Arequipa"
+      },
+      {
+        "name": "Caravelí",
+        "region": "Arequipa"
+      },
+      {
+        "name": "Castilla",
+        "region": "Arequipa"
+      },
+      {
+        "name": "Caylloma",
+        "region": "Arequipa"
+      },
+      {
+        "name": "Condesuyos",
+        "region": "Arequipa"
+      },
+      {
+        "name": "Islay",
+        "region": "Arequipa"
+      },
+      {
+        "name": "La Unión",
+        "region": "Arequipa"
+      },
+      {
+        "name": "Huamanga",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Cangallo",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Huanca Sancos",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Huanta",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "La Mar",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Lucanas",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Parinacochas",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Páucar del Sara Sara",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Sucre",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Víctor Fajardo",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Vilcas Huamán",
+        "region": "Ayacucho"
+      },
+      {
+        "name": "Cajamarca",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "Cajabamba",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "Celendín",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "Chota",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "Contumazá",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "Cutervo",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "Hualgayoc",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "Jaén",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "San Ignacio",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "San Marcos",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "San Miguel",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "San Pablo",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "Santa Cruz",
+        "region": "Cajamarca"
+      },
+      {
+        "name": "Callao",
+        "region": "Callao"
+      },
+      {
+        "name": "Cusco",
+        "region": "Cusco"
+      },
+      {
+        "name": "Acomayo",
+        "region": "Cusco"
+      },
+      {
+        "name": "Anta",
+        "region": "Cusco"
+      },
+      {
+        "name": "Calca",
+        "region": "Cusco"
+      },
+      {
+        "name": "Canas",
+        "region": "Cusco"
+      },
+      {
+        "name": "Canchis",
+        "region": "Cusco"
+      },
+      {
+        "name": "Chumbivilcas",
+        "region": "Cusco"
+      },
+      {
+        "name": "Espinar",
+        "region": "Cusco"
+      },
+      {
+        "name": "La Convención",
+        "region": "Cusco"
+      },
+      {
+        "name": "Paruro",
+        "region": "Cusco"
+      },
+      {
+        "name": "Paucartambo",
+        "region": "Cusco"
+      },
+      {
+        "name": "Quispicanchi",
+        "region": "Cusco"
+      },
+      {
+        "name": "Urubamba",
+        "region": "Cusco"
+      },
+      {
+        "name": "Huancavelica",
+        "region": "Huancavelica"
+      },
+      {
+        "name": "Acobamba",
+        "region": "Huancavelica"
+      },
+      {
+        "name": "Angaraes",
+        "region": "Huancavelica"
+      },
+      {
+        "name": "Castrovirreyna",
+        "region": "Huancavelica"
+      },
+      {
+        "name": "Churcampa",
+        "region": "Huancavelica"
+      },
+      {
+        "name": "Huaytará",
+        "region": "Huancavelica"
+      },
+      {
+        "name": "Tayacaja",
+        "region": "Huancavelica"
+      },
+      {
+        "name": "Huánuco",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Ambo",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Dos de Mayo",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Huacaybamba",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Huamalíes",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Leoncio Prado",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Marañón",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Pachitea",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Puerto Inca",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Lauricocha",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Yarowilca",
+        "region": "Huánuco"
+      },
+      {
+        "name": "Ica",
+        "region": "Ica"
+      },
+      {
+        "name": "Chincha",
+        "region": "Ica"
+      },
+      {
+        "name": "Nazca",
+        "region": "Ica"
+      },
+      {
+        "name": "Palpa",
+        "region": "Ica"
+      },
+      {
+        "name": "Pisco",
+        "region": "Ica"
+      },
+      {
+        "name": "Huancayo",
+        "region": "Junín"
+      },
+      {
+        "name": "Concepción",
+        "region": "Junín"
+      },
+      {
+        "name": "Chanchamayo",
+        "region": "Junín"
+      },
+      {
+        "name": "Jauja",
+        "region": "Junín"
+      },
+      {
+        "name": "Junín",
+        "region": "Junín"
+      },
+      {
+        "name": "Satipo",
+        "region": "Junín"
+      },
+      {
+        "name": "Tarma",
+        "region": "Junín"
+      },
+      {
+        "name": "Yauli",
+        "region": "Junín"
+      },
+      {
+        "name": "Chupaca",
+        "region": "Junín"
+      },
+      {
+        "name": "Trujillo",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Ascope",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Bolívar",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Chepén",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Julcán",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Otuzco",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Pacasmayo",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Pataz",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Sánchez Carrión",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Santiago de Chuco",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Gran Chimú",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Virú",
+        "region": "La Libertad"
+      },
+      {
+        "name": "Chiclayo",
+        "region": "Lambayeque"
+      },
+      {
+        "name": "Ferreñafe",
+        "region": "Lambayeque"
+      },
+      {
+        "name": "Lambayeque",
+        "region": "Lambayeque"
+      },
+      {
+        "name": "Lima",
+        "region": "autonomous"
+      },
+      {
+        "name": "Huaura",
+        "region": "Lima"
+      },
+      {
+        "name": "Barranca",
+        "region": "Lima"
+      },
+      {
+        "name": "Cajatambo",
+        "region": "Lima"
+      },
+      {
+        "name": "Canta",
+        "region": "Lima"
+      },
+      {
+        "name": "Cañete",
+        "region": "Lima"
+      },
+      {
+        "name": "Huaral",
+        "region": "Lima"
+      },
+      {
+        "name": "Huarochirí",
+        "region": "Lima"
+      },
+      {
+        "name": "Oyón",
+        "region": "Lima"
+      },
+      {
+        "name": "Yauyos",
+        "region": "Lima"
+      },
+      {
+        "name": "Maynas",
+        "region": "Loreto"
+      },
+      {
+        "name": "Alto Amazonas",
+        "region": "Loreto"
+      },
+      {
+        "name": "Loreto",
+        "region": "Loreto"
+      },
+      {
+        "name": "Mariscal Ramón Castilla",
+        "region": "Loreto"
+      },
+      {
+        "name": "Putumayo",
+        "region": "Loreto"
+      },
+      {
+        "name": "Requena",
+        "region": "Loreto"
+      },
+      {
+        "name": "Ucayali",
+        "region": "Loreto"
+      },
+      {
+        "name": "Datem del Marañón",
+        "region": "Loreto"
+      },
+      {
+        "name": "Tambopata",
+        "region": "Madre de Dios"
+      },
+      {
+        "name": "Manú",
+        "region": "Madre de Dios"
+      },
+      {
+        "name": "Tahuamanu",
+        "region": "Madre de Dios"
+      },
+      {
+        "name": "Mariscal Nieto",
+        "region": "Moquegua"
+      },
+      {
+        "name": "General Sánchez Cerro",
+        "region": "Moquegua"
+      },
+      {
+        "name": "Ilo",
+        "region": "Moquegua"
+      },
+      {
+        "name": "Pasco",
+        "region": "Pasco"
+      },
+      {
+        "name": "Daniel Alcídes Carrión",
+        "region": "Pasco"
+      },
+      {
+        "name": "Oxapampa",
+        "region": "Pasco"
+      },
+      {
+        "name": "Piura",
+        "region": "Piura"
+      },
+      {
+        "name": "Ayabaca",
+        "region": "Piura"
+      },
+      {
+        "name": "Huancabamba",
+        "region": "Piura"
+      },
+      {
+        "name": "Morropón",
+        "region": "Piura"
+      },
+      {
+        "name": "Paita",
+        "region": "Piura"
+      },
+      {
+        "name": "Sullana",
+        "region": "Piura"
+      },
+      {
+        "name": "Talara",
+        "region": "Piura"
+      },
+      {
+        "name": "Sechura",
+        "region": "Piura"
+      },
+      {
+        "name": "Puno",
+        "region": "Puno"
+      },
+      {
+        "name": "Azángaro",
+        "region": "Puno"
+      },
+      {
+        "name": "Carabaya",
+        "region": "Puno"
+      },
+      {
+        "name": "Chucuito",
+        "region": "Puno"
+      },
+      {
+        "name": "El Collao",
+        "region": "Puno"
+      },
+      {
+        "name": "Huancané",
+        "region": "Puno"
+      },
+      {
+        "name": "Lampa",
+        "region": "Puno"
+      },
+      {
+        "name": "Melgar",
+        "region": "Puno"
+      },
+      {
+        "name": "Moho",
+        "region": "Puno"
+      },
+      {
+        "name": "San Antonio de Putina",
+        "region": "Puno"
+      },
+      {
+        "name": "San Román",
+        "region": "Puno"
+      },
+      {
+        "name": "Sandia",
+        "region": "Puno"
+      },
+      {
+        "name": "Yunguyo",
+        "region": "Puno"
+      },
+      {
+        "name": "Moyobamba",
+        "region": "San Martín"
+      },
+      {
+        "name": "Bellavista",
+        "region": "San Martín"
+      },
+      {
+        "name": "El Dorado",
+        "region": "San Martín"
+      },
+      {
+        "name": "Huallaga",
+        "region": "San Martín"
+      },
+      {
+        "name": "Lamas",
+        "region": "San Martín"
+      },
+      {
+        "name": "Mariscal Cáceres",
+        "region": "San Martín"
+      },
+      {
+        "name": "Picota",
+        "region": "San Martín"
+      },
+      {
+        "name": "Rioja",
+        "region": "San Martín"
+      },
+      {
+        "name": "San Martín",
+        "region": "San Martín"
+      },
+      {
+        "name": "Tocache",
+        "region": "San Martín"
+      },
+      {
+        "name": "Tacna",
+        "region": "Tacna"
+      },
+      {
+        "name": "Candarave",
+        "region": "Tacna"
+      },
+      {
+        "name": "Jorge Basadre",
+        "region": "Tacna"
+      },
+      {
+        "name": "Tarata",
+        "region": "Tacna"
+      },
+      {
+        "name": "Tumbes",
+        "region": "Tumbes"
+      },
+      {
+        "name": "Contralmirante Villar",
+        "region": "Tumbes"
+      },
+      {
+        "name": "Zarumilla",
+        "region": "Tumbes"
+      },
+      {
+        "name": "Coronel Portillo",
+        "region": "Ucayali"
+      },
+      {
+        "name": "Atalaya",
+        "region": "Ucayali"
+      },
+      {
+        "name": "Padre Abad",
+        "region": "Ucayali"
+      },
+      {
+        "name": "Purús",
+        "region": "Ucayali"
+      }
+    ]
+  },
+  {
+    "alpha2": "PF",
+    "alpha3": "PYF",
+    "countryCallingCodes": [
+      "+689"
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "French Polynesia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PG",
+    "alpha3": "PNG",
+    "countryCallingCodes": [
+      "+675"
+    ],
+    "currencies": [
+      "PGK"
+    ],
+    "ioc": "PNG",
+    "languages": [
+      "eng"
+    ],
+    "name": "Papua New Guinea",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PH",
+    "alpha3": "PHL",
+    "countryCallingCodes": [
+      "+63"
+    ],
+    "currencies": [
+      "PHP"
+    ],
+    "ioc": "PHI",
+    "languages": [
+      "eng"
+    ],
+    "name": "Philippines",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Abra"
+      },
+      {
+        "name": "Agusan del Norte"
+      },
+      {
+        "name": "Agusan del Sur"
+      },
+      {
+        "name": "Aklan"
+      },
+      {
+        "name": "Albay"
+      },
+      {
+        "name": "Antique"
+      },
+      {
+        "name": "Apayao"
+      },
+      {
+        "name": "Aurora"
+      },
+      {
+        "name": "Basilan"
+      },
+      {
+        "name": "Bataan"
+      },
+      {
+        "name": "Batanes"
+      },
+      {
+        "name": "Batangas"
+      },
+      {
+        "name": "Benguet"
+      },
+      {
+        "name": "Biliran"
+      },
+      {
+        "name": "Bohol"
+      },
+      {
+        "name": "Bukidnon"
+      },
+      {
+        "name": "Bulacan"
+      },
+      {
+        "name": "Cagayan"
+      },
+      {
+        "name": "Camarines Norte"
+      },
+      {
+        "name": "Camarines Sur"
+      },
+      {
+        "name": "Camiguin"
+      },
+      {
+        "name": "Capiz"
+      },
+      {
+        "name": "Catanduanes"
+      },
+      {
+        "name": "Cavite"
+      },
+      {
+        "name": "Cebu"
+      },
+      {
+        "name": "Compostela Valley"
+      },
+      {
+        "name": "Cotabato"
+      },
+      {
+        "name": "Davao del Norte"
+      },
+      {
+        "name": "Davao del Sur"
+      },
+      {
+        "name": "Davao Occidental"
+      },
+      {
+        "name": "Davao Oriental"
+      },
+      {
+        "name": "Dinagat Islands"
+      },
+      {
+        "name": "Eastern Samar"
+      },
+      {
+        "name": "Guimaras"
+      },
+      {
+        "name": "Ifugao"
+      },
+      {
+        "name": "Ilocos Norte"
+      },
+      {
+        "name": "Ilocos Sur"
+      },
+      {
+        "name": "Iloilo"
+      },
+      {
+        "name": "Isabela"
+      },
+      {
+        "name": "Kalinga"
+      },
+      {
+        "name": "La Union"
+      },
+      {
+        "name": "Laguna"
+      },
+      {
+        "name": "Lanao del Norte"
+      },
+      {
+        "name": "Lanao del Sur"
+      },
+      {
+        "name": "Leyte"
+      },
+      {
+        "name": "Maguindanao"
+      },
+      {
+        "name": "Marinduque"
+      },
+      {
+        "name": "Masbate"
+      },
+      {
+        "name": "Misamis Occidental"
+      },
+      {
+        "name": "Misamis Oriental"
+      },
+      {
+        "name": "Mountain Province"
+      },
+      {
+        "name": "Negros Occidental"
+      },
+      {
+        "name": "Negros Oriental"
+      },
+      {
+        "name": "Northern Samar"
+      },
+      {
+        "name": "Nueva Ecija"
+      },
+      {
+        "name": "Nueva Vizcaya"
+      },
+      {
+        "name": "Occidental Mindoro"
+      },
+      {
+        "name": "Oriental Mindoro"
+      },
+      {
+        "name": "Palawan"
+      },
+      {
+        "name": "Pampanga"
+      },
+      {
+        "name": "Pangasinan"
+      },
+      {
+        "name": "Quezon"
+      },
+      {
+        "name": "Quirino"
+      },
+      {
+        "name": "Rizal"
+      },
+      {
+        "name": "Romblon"
+      },
+      {
+        "name": "Samar"
+      },
+      {
+        "name": "Sarangani"
+      },
+      {
+        "name": "Siquijor"
+      },
+      {
+        "name": "Sorsogon"
+      },
+      {
+        "name": "South Cotabato"
+      },
+      {
+        "name": "Southern Leyte"
+      },
+      {
+        "name": "Sultan Kudarat"
+      },
+      {
+        "name": "Sulu"
+      },
+      {
+        "name": "Surigao del Norte"
+      },
+      {
+        "name": "Surigao del Sur"
+      },
+      {
+        "name": "Tarlac"
+      },
+      {
+        "name": "Tawi-Tawi"
+      },
+      {
+        "name": "Zambales"
+      },
+      {
+        "name": "Zamboanga del Norte"
+      },
+      {
+        "name": "Zamboanga del Sur"
+      },
+      {
+        "name": "Zamboanga Sibugay"
+      },
+      {
+        "name": "Metro Manila"
+      }
+    ]
+  },
+  {
+    "alpha2": "PK",
+    "alpha3": "PAK",
+    "countryCallingCodes": [
+      "+92"
+    ],
+    "currencies": [
+      "PKR"
+    ],
+    "ioc": "PAK",
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "name": "Pakistan",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Azad Kashmir"
+      },
+      {
+        "name": "Bahawalpur"
+      },
+      {
+        "name": "Bannu"
+      },
+      {
+        "name": "Dera Ghazi Khan"
+      },
+      {
+        "name": "Dera Ismail Khan"
+      },
+      {
+        "name": "Faisalabad"
+      },
+      {
+        "name": "F.A.T.A."
+      },
+      {
+        "name": "Gujranwala"
+      },
+      {
+        "name": "Hazara"
+      },
+      {
+        "name": "Hyderabad"
+      },
+      {
+        "name": "Islamabad"
+      },
+      {
+        "name": "Kalat"
+      },
+      {
+        "name": "Karachi"
+      },
+      {
+        "name": "Kohat"
+      },
+      {
+        "name": "Lahore"
+      },
+      {
+        "name": "Larkana"
+      },
+      {
+        "name": "Makran"
+      },
+      {
+        "name": "Malakand"
+      },
+      {
+        "name": "Mardan"
+      },
+      {
+        "name": "Mirpur Khas"
+      },
+      {
+        "name": "Multan"
+      },
+      {
+        "name": "Nasirabad"
+      },
+      {
+        "name": "Northern Areas"
+      },
+      {
+        "name": "Peshawar"
+      },
+      {
+        "name": "Quetta"
+      },
+      {
+        "name": "Rawalpindi"
+      },
+      {
+        "name": "Sargodha"
+      },
+      {
+        "name": "Sahiwal"
+      },
+      {
+        "name": "Sibi"
+      },
+      {
+        "name": "Sukkur"
+      },
+      {
+        "name": "Zhob"
+      }
+    ]
+  },
+  {
+    "alpha2": "PL",
+    "alpha3": "POL",
+    "countryCallingCodes": [
+      "+48"
+    ],
+    "currencies": [
+      "PLN"
+    ],
+    "ioc": "POL",
+    "languages": [
+      "pol"
+    ],
+    "name": "Poland",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PM",
+    "alpha3": "SPM",
+    "countryCallingCodes": [
+      "+508"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Saint Pierre And Miquelon",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PN",
+    "alpha3": "PCN",
+    "countryCallingCodes": [
+      "+872"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Pitcairn",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PR",
+    "alpha3": "PRI",
+    "countryCallingCodes": [
+      "+1 787",
+      "+1 939"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "PUR",
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "name": "Puerto Rico",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PS",
+    "alpha3": "PSE",
+    "countryCallingCodes": [
+      "+970"
+    ],
+    "currencies": [
+      "JOD",
+      "EGP",
+      "ILS"
+    ],
+    "ioc": "PLE",
+    "languages": [
+      "ara"
+    ],
+    "name": "Palestinian Territory, Occupied",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PT",
+    "alpha3": "PRT",
+    "countryCallingCodes": [
+      "+351"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "POR",
+    "languages": [
+      "por"
+    ],
+    "name": "Portugal",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PU",
+    "alpha3": "PUS",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "U.S. Miscellaneous Pacific Islands",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "PW",
+    "alpha3": "PLW",
+    "countryCallingCodes": [
+      "+680"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "PLW",
+    "languages": [
+      "eng"
+    ],
+    "name": "Palau",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PY",
+    "alpha3": "PRY",
+    "countryCallingCodes": [
+      "+595"
+    ],
+    "currencies": [
+      "PYG"
+    ],
+    "ioc": "PAR",
+    "languages": [
+      "spa"
+    ],
+    "name": "Paraguay",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "PZ",
+    "alpha3": "PCZ",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Panama Canal Zone",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "QA",
+    "alpha3": "QAT",
+    "countryCallingCodes": [
+      "+974"
+    ],
+    "currencies": [
+      "QAR"
+    ],
+    "ioc": "QAT",
+    "languages": [
+      "ara"
+    ],
+    "name": "Qatar",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "RE",
+    "alpha3": "REU",
+    "countryCallingCodes": [
+      "+262"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "Reunion",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "RH",
+    "alpha3": "RHO",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Southern Rhodesia",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "RO",
+    "alpha3": "ROU",
+    "countryCallingCodes": [
+      "+40"
+    ],
+    "currencies": [
+      "RON"
+    ],
+    "ioc": "ROU",
+    "languages": [
+      "ron"
+    ],
+    "name": "Romania",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "RS",
+    "alpha3": "SRB",
+    "countryCallingCodes": [
+      "+381"
+    ],
+    "currencies": [
+      "RSD"
+    ],
+    "ioc": "SRB",
+    "languages": [
+      "srp"
+    ],
+    "name": "Serbia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "RU",
+    "alpha3": "RUS",
+    "countryCallingCodes": [
+      "+7",
+      "+7 3",
+      "+7 4",
+      "+7 8"
+    ],
+    "currencies": [
+      "RUB"
+    ],
+    "ioc": "RUS",
+    "languages": [
+      "rus"
+    ],
+    "name": "Russian Federation",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "RW",
+    "alpha3": "RWA",
+    "countryCallingCodes": [
+      "+250"
+    ],
+    "currencies": [
+      "RWF"
+    ],
+    "ioc": "RWA",
+    "languages": [
+      "eng",
+      "fra",
+      "kin"
+    ],
+    "name": "Rwanda",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SA",
+    "alpha3": "SAU",
+    "countryCallingCodes": [
+      "+966"
+    ],
+    "currencies": [
+      "SAR"
+    ],
+    "ioc": "KSA",
+    "languages": [
+      "ara"
+    ],
+    "name": "Saudi Arabia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SB",
+    "alpha3": "SLB",
+    "countryCallingCodes": [
+      "+677"
+    ],
+    "currencies": [
+      "SBD"
+    ],
+    "ioc": "SOL",
+    "languages": [
+      "eng"
+    ],
+    "name": "Solomon Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SC",
+    "alpha3": "SYC",
+    "countryCallingCodes": [
+      "+248"
+    ],
+    "currencies": [
+      "SCR"
+    ],
+    "ioc": "SEY",
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "name": "Seychelles",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SD",
+    "alpha3": "SDN",
+    "countryCallingCodes": [
+      "+249"
+    ],
+    "currencies": [
+      "SDG"
+    ],
+    "ioc": "SUD",
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "name": "Sudan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SE",
+    "alpha3": "SWE",
+    "countryCallingCodes": [
+      "+46"
+    ],
+    "currencies": [
+      "SEK"
+    ],
+    "ioc": "SWE",
+    "languages": [
+      "swe"
+    ],
+    "name": "Sweden",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SG",
+    "alpha3": "SGP",
+    "countryCallingCodes": [
+      "+65"
+    ],
+    "currencies": [
+      "SGD"
+    ],
+    "ioc": "SIN",
+    "languages": [
+      "eng",
+      "zho",
+      "msa",
+      "tam"
+    ],
+    "name": "Singapore",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SH",
+    "alpha3": "SHN",
+    "countryCallingCodes": [
+      "+290"
+    ],
+    "currencies": [
+      "SHP"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Saint Helena, Ascension And Tristan Da Cunha",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SI",
+    "alpha3": "SVN",
+    "countryCallingCodes": [
+      "+386"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "SLO",
+    "languages": [
+      "slv"
+    ],
+    "name": "Slovenia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SJ",
+    "alpha3": "SJM",
+    "countryCallingCodes": [
+      "+47"
+    ],
+    "currencies": [
+      "NOK"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Svalbard And Jan Mayen",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SK",
+    "alpha3": "SVK",
+    "countryCallingCodes": [
+      "+421"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "SVK",
+    "languages": [
+      "slk"
+    ],
+    "name": "Slovakia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SK",
+    "alpha3": "SKM",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Sikkim",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "SL",
+    "alpha3": "SLE",
+    "countryCallingCodes": [
+      "+232"
+    ],
+    "currencies": [
+      "SLL"
+    ],
+    "ioc": "SLE",
+    "languages": [
+      "eng"
+    ],
+    "name": "Sierra Leone",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SM",
+    "alpha3": "SMR",
+    "countryCallingCodes": [
+      "+378"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "SMR",
+    "languages": [
+      "ita"
+    ],
+    "name": "San Marino",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SN",
+    "alpha3": "SEN",
+    "countryCallingCodes": [
+      "+221"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "ioc": "SEN",
+    "languages": [
+      "fra"
+    ],
+    "name": "Senegal",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SO",
+    "alpha3": "SOM",
+    "countryCallingCodes": [
+      "+252"
+    ],
+    "currencies": [
+      "SOS"
+    ],
+    "ioc": "SOM",
+    "languages": [
+      "som"
+    ],
+    "name": "Somalia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SR",
+    "alpha3": "SUR",
+    "countryCallingCodes": [
+      "+597"
+    ],
+    "currencies": [
+      "SRD"
+    ],
+    "ioc": "SUR",
+    "languages": [
+      "nld"
+    ],
+    "name": "Suriname",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SS",
+    "alpha3": "SSD",
+    "countryCallingCodes": [
+      "+211"
+    ],
+    "currencies": [
+      "SSP"
+    ],
+    "ioc": "SSD",
+    "languages": [
+      "eng"
+    ],
+    "name": "South Sudan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "ST",
+    "alpha3": "STP",
+    "countryCallingCodes": [
+      "+239"
+    ],
+    "currencies": [
+      "STD"
+    ],
+    "ioc": "STP",
+    "languages": [
+      "por"
+    ],
+    "name": "Sao Tome and Principe",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SU",
+    "alpha3": "",
+    "countryCallingCodes": [],
+    "currencies": [
+      "RUB"
+    ],
+    "ioc": "",
+    "languages": [
+      "rus"
+    ],
+    "name": "USSR",
+    "status": "reserved",
+    "provinces": null
+  },
+  {
+    "alpha2": "SV",
+    "alpha3": "SLV",
+    "countryCallingCodes": [
+      "+503"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "ESA",
+    "languages": [
+      "spa"
+    ],
+    "name": "El Salvador",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SX",
+    "alpha3": "SXM",
+    "countryCallingCodes": [
+      "+1 721"
+    ],
+    "currencies": [
+      "ANG"
+    ],
+    "ioc": "",
+    "languages": [
+      "nld"
+    ],
+    "name": "Sint Maarten",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SY",
+    "alpha3": "SYR",
+    "countryCallingCodes": [
+      "+963"
+    ],
+    "currencies": [
+      "SYP"
+    ],
+    "ioc": "SYR",
+    "languages": [
+      "ara"
+    ],
+    "name": "Syrian Arab Republic",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "SZ",
+    "alpha3": "SWZ",
+    "countryCallingCodes": [
+      "+268"
+    ],
+    "currencies": [
+      "SZL"
+    ],
+    "ioc": "SWZ",
+    "languages": [
+      "eng",
+      "ssw"
+    ],
+    "name": "Swaziland",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TA",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+290"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "",
+    "languages": [],
+    "name": "Tristan de Cunha",
+    "status": "reserved",
+    "provinces": null
+  },
+  {
+    "alpha2": "TC",
+    "alpha3": "TCA",
+    "countryCallingCodes": [
+      "+1 649"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Turks And Caicos Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TD",
+    "alpha3": "TCD",
+    "countryCallingCodes": [
+      "+235"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "ioc": "CHA",
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "name": "Chad",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TF",
+    "alpha3": "ATF",
+    "countryCallingCodes": [],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "French Southern Territories",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TG",
+    "alpha3": "TGO",
+    "countryCallingCodes": [
+      "+228"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "ioc": "TOG",
+    "languages": [
+      "fra"
+    ],
+    "name": "Togo",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TH",
+    "alpha3": "THA",
+    "countryCallingCodes": [
+      "+66"
+    ],
+    "currencies": [
+      "THB"
+    ],
+    "ioc": "THA",
+    "languages": [
+      "tha"
+    ],
+    "name": "Thailand",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TJ",
+    "alpha3": "TJK",
+    "countryCallingCodes": [
+      "+992"
+    ],
+    "currencies": [
+      "TJS"
+    ],
+    "ioc": "TJK",
+    "languages": [
+      "tgk",
+      "rus"
+    ],
+    "name": "Tajikistan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TK",
+    "alpha3": "TKL",
+    "countryCallingCodes": [
+      "+690"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "Tokelau",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TL",
+    "alpha3": "TLS",
+    "countryCallingCodes": [
+      "+670"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "TLS",
+    "languages": [
+      "por"
+    ],
+    "name": "Timor-Leste, Democratic Republic of",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TM",
+    "alpha3": "TKM",
+    "countryCallingCodes": [
+      "+993"
+    ],
+    "currencies": [
+      "TMT"
+    ],
+    "ioc": "TKM",
+    "languages": [
+      "tuk",
+      "rus"
+    ],
+    "name": "Turkmenistan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TN",
+    "alpha3": "TUN",
+    "countryCallingCodes": [
+      "+216"
+    ],
+    "currencies": [
+      "TND"
+    ],
+    "ioc": "TUN",
+    "languages": [
+      "ara"
+    ],
+    "name": "Tunisia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TO",
+    "alpha3": "TON",
+    "countryCallingCodes": [
+      "+676"
+    ],
+    "currencies": [
+      "TOP"
+    ],
+    "ioc": "TGA",
+    "languages": [
+      "eng"
+    ],
+    "name": "Tonga",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TP",
+    "alpha3": "TMP",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "East Timor",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "TR",
+    "alpha3": "TUR",
+    "countryCallingCodes": [
+      "+90"
+    ],
+    "currencies": [
+      "TRY"
+    ],
+    "ioc": "TUR",
+    "languages": [
+      "tur"
+    ],
+    "name": "Turkey",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Adana"
+      },
+      {
+        "name": "Adıyaman"
+      },
+      {
+        "name": "Afyonkarahisar"
+      },
+      {
+        "name": "Ağrı"
+      },
+      {
+        "name": "Amasya"
+      },
+      {
+        "name": "Ankara"
+      },
+      {
+        "name": "Antalya"
+      },
+      {
+        "name": "Artvin"
+      },
+      {
+        "name": "Aydın"
+      },
+      {
+        "name": "Balıkesir"
+      },
+      {
+        "name": "Bilecik"
+      },
+      {
+        "name": "Bingöl"
+      },
+      {
+        "name": "Bitlis"
+      },
+      {
+        "name": "Bolu"
+      },
+      {
+        "name": "Burdur"
+      },
+      {
+        "name": "Bursa"
+      },
+      {
+        "name": "Çanakkale"
+      },
+      {
+        "name": "Çankırı"
+      },
+      {
+        "name": "Çorum"
+      },
+      {
+        "name": "Denizli"
+      },
+      {
+        "name": "Diyarbakır"
+      },
+      {
+        "name": "Edirne"
+      },
+      {
+        "name": "Elazığ"
+      },
+      {
+        "name": "Erzincan"
+      },
+      {
+        "name": "Erzurum"
+      },
+      {
+        "name": "Eskişehir"
+      },
+      {
+        "name": "Gaziantep"
+      },
+      {
+        "name": "Giresun"
+      },
+      {
+        "name": "Gümüşhane"
+      },
+      {
+        "name": "Hakkâri"
+      },
+      {
+        "name": "Hatay"
+      },
+      {
+        "name": "Isparta"
+      },
+      {
+        "name": "Mersin"
+      },
+      {
+        "name": "Istanbul"
+      },
+      {
+        "name": "İzmir"
+      },
+      {
+        "name": "Kars"
+      },
+      {
+        "name": "Kastamonu"
+      },
+      {
+        "name": "Kayseri"
+      },
+      {
+        "name": "Kırklareli"
+      },
+      {
+        "name": "Kırşehir"
+      },
+      {
+        "name": "Kocaeli"
+      },
+      {
+        "name": "Konya"
+      },
+      {
+        "name": "Kütahya"
+      },
+      {
+        "name": "Malatya"
+      },
+      {
+        "name": "Manisa"
+      },
+      {
+        "name": "Kahramanmaraş"
+      },
+      {
+        "name": "Mardin"
+      },
+      {
+        "name": "Muğla"
+      },
+      {
+        "name": "Muş"
+      },
+      {
+        "name": "Nevşehir"
+      },
+      {
+        "name": "Niğde"
+      },
+      {
+        "name": "Ordu"
+      },
+      {
+        "name": "Rize"
+      },
+      {
+        "name": "Sakarya"
+      },
+      {
+        "name": "Samsun"
+      },
+      {
+        "name": "Siirt"
+      },
+      {
+        "name": "Sinop"
+      },
+      {
+        "name": "Sivas"
+      },
+      {
+        "name": "Tekirdağ"
+      },
+      {
+        "name": "Tokat"
+      },
+      {
+        "name": "Trabzon"
+      },
+      {
+        "name": "Tunceli"
+      },
+      {
+        "name": "Şanlıurfa"
+      },
+      {
+        "name": "Uşak"
+      },
+      {
+        "name": "Van"
+      },
+      {
+        "name": "Yozgat"
+      },
+      {
+        "name": "Zonguldak"
+      },
+      {
+        "name": "Aksaray"
+      },
+      {
+        "name": "Bayburt"
+      },
+      {
+        "name": "Karaman"
+      },
+      {
+        "name": "Kırıkkale"
+      },
+      {
+        "name": "Batman"
+      },
+      {
+        "name": "Şırnak"
+      },
+      {
+        "name": "Bartın"
+      },
+      {
+        "name": "Ardahan"
+      },
+      {
+        "name": "Iğdır"
+      },
+      {
+        "name": "Yalova"
+      },
+      {
+        "name": "Karabük"
+      },
+      {
+        "name": "Kilis"
+      },
+      {
+        "name": "Osmaniye"
+      },
+      {
+        "name": "Düzce"
+      }
+    ]
+  },
+  {
+    "alpha2": "TT",
+    "alpha3": "TTO",
+    "countryCallingCodes": [
+      "+1 868"
+    ],
+    "currencies": [
+      "TTD"
+    ],
+    "ioc": "TTO",
+    "languages": [
+      "eng"
+    ],
+    "name": "Trinidad And Tobago",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TV",
+    "alpha3": "TUV",
+    "countryCallingCodes": [
+      "+688"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "ioc": "TUV",
+    "languages": [
+      "eng"
+    ],
+    "name": "Tuvalu",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TW",
+    "alpha3": "TWN",
+    "countryCallingCodes": [
+      "+886"
+    ],
+    "currencies": [
+      "TWD"
+    ],
+    "ioc": "TPE",
+    "languages": [
+      "zho"
+    ],
+    "name": "Taiwan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "TZ",
+    "alpha3": "TZA",
+    "countryCallingCodes": [
+      "+255"
+    ],
+    "currencies": [
+      "TZS"
+    ],
+    "ioc": "TAN",
+    "languages": [
+      "swa",
+      "eng"
+    ],
+    "name": "Tanzania, United Republic Of",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "UA",
+    "alpha3": "UKR",
+    "countryCallingCodes": [
+      "+380"
+    ],
+    "currencies": [
+      "UAH"
+    ],
+    "ioc": "UKR",
+    "languages": [
+      "ukr",
+      "rus"
+    ],
+    "name": "Ukraine",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "UG",
+    "alpha3": "UGA",
+    "countryCallingCodes": [
+      "+256"
+    ],
+    "currencies": [
+      "UGX"
+    ],
+    "ioc": "UGA",
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "name": "Uganda",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "GB",
+    "alpha3": "GBR",
+    "countryCallingCodes": [
+      "+44"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "ioc": "GBR",
+    "languages": [
+      "eng",
+      "cor",
+      "gle",
+      "gla",
+      "cym"
+    ],
+    "name": "United Kingdom",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Avon",
+        "region": "England"
+      },
+      {
+        "name": "Bedfordshire",
+        "region": "England"
+      },
+      {
+        "name": "Berkshire",
+        "region": "England"
+      },
+      {
+        "name": "Borders",
+        "region": "England"
+      },
+      {
+        "name": "Bristol",
+        "region": "England"
+      },
+      {
+        "name": "Buckinghamshire",
+        "region": "England"
+      },
+      {
+        "name": "Cambridgeshire",
+        "region": "England"
+      },
+      {
+        "name": "Channel Islands",
+        "region": "England"
+      },
+      {
+        "name": "Cheshire",
+        "region": "England"
+      },
+      {
+        "name": "Cleveland",
+        "region": "England"
+      },
+      {
+        "name": "Cornwall",
+        "region": "England"
+      },
+      {
+        "name": "Cumbria",
+        "region": "England"
+      },
+      {
+        "name": "Derbyshire",
+        "region": "England"
+      },
+      {
+        "name": "Devon",
+        "region": "England"
+      },
+      {
+        "name": "Dorset",
+        "region": "England"
+      },
+      {
+        "name": "Durham",
+        "region": "England"
+      },
+      {
+        "name": "East Riding of Yorkshire",
+        "region": "England"
+      },
+      {
+        "name": "East Sussex",
+        "region": "England"
+      },
+      {
+        "name": "Essex",
+        "region": "England"
+      },
+      {
+        "name": "Gloucestershire",
+        "region": "England"
+      },
+      {
+        "name": "Greater Manchester",
+        "region": "England"
+      },
+      {
+        "name": "Hampshire",
+        "region": "England"
+      },
+      {
+        "name": "Herefordshire",
+        "region": "England"
+      },
+      {
+        "name": "Hertfordshire",
+        "region": "England"
+      },
+      {
+        "name": "Humberside",
+        "region": "England"
+      },
+      {
+        "name": "Isle of Man",
+        "region": "England"
+      },
+      {
+        "name": "Isle of Wight",
+        "region": "England"
+      },
+      {
+        "name": "Isles of Scilly",
+        "region": "England"
+      },
+      {
+        "name": "Kent",
+        "region": "England"
+      },
+      {
+        "name": "Lancashire",
+        "region": "England"
+      },
+      {
+        "name": "Leicestershire",
+        "region": "England"
+      },
+      {
+        "name": "Lincolnshire",
+        "region": "England"
+      },
+      {
+        "name": "London",
+        "region": "England"
+      },
+      {
+        "name": "Merseyside",
+        "region": "England"
+      },
+      {
+        "name": "Middlesex",
+        "region": "England"
+      },
+      {
+        "name": "Norfolk",
+        "region": "England"
+      },
+      {
+        "name": "North Yorkshire",
+        "region": "England"
+      },
+      {
+        "name": "Northamptonshire",
+        "region": "England"
+      },
+      {
+        "name": "Northumberland",
+        "region": "England"
+      },
+      {
+        "name": "Nottinghamshire",
+        "region": "England"
+      },
+      {
+        "name": "Oxfordshire",
+        "region": "England"
+      },
+      {
+        "name": "Rutland",
+        "region": "England"
+      },
+      {
+        "name": "Shropshire",
+        "region": "England"
+      },
+      {
+        "name": "Somerset",
+        "region": "England"
+      },
+      {
+        "name": "South Yorkshire",
+        "region": "England"
+      },
+      {
+        "name": "Staffordshire",
+        "region": "England"
+      },
+      {
+        "name": "Suffolk",
+        "region": "England"
+      },
+      {
+        "name": "Surrey",
+        "region": "England"
+      },
+      {
+        "name": "Tyne and Wear",
+        "region": "England"
+      },
+      {
+        "name": "Warwickshire",
+        "region": "England"
+      },
+      {
+        "name": "West Midlands",
+        "region": "England"
+      },
+      {
+        "name": "West Sussex",
+        "region": "England"
+      },
+      {
+        "name": "West Yorkshire",
+        "region": "England"
+      },
+      {
+        "name": "Wiltshire",
+        "region": "England"
+      },
+      {
+        "name": "Worcestershire",
+        "region": "England"
+      },
+      {
+        "name": "Antrim",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Down",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Fermanagh",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Londonderry",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Tyrone",
+        "region": "Northern Ireland"
+      },
+      {
+        "name": "Aberdeen City",
+        "region": "Scotland"
+      },
+      {
+        "name": "Aberdeenshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Angus",
+        "region": "Scotland"
+      },
+      {
+        "name": "Argyll and Bute",
+        "region": "Scotland"
+      },
+      {
+        "name": "Armagh",
+        "region": "Scotland"
+      },
+      {
+        "name": "Carmarthenshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Clackmannan",
+        "region": "Scotland"
+      },
+      {
+        "name": "Dumfries and Galloway",
+        "region": "Scotland"
+      },
+      {
+        "name": "East Ayrshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "East Dunbartonshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "East Lothian",
+        "region": "Scotland"
+      },
+      {
+        "name": "East Renfrewshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Edinburgh City",
+        "region": "Scotland"
+      },
+      {
+        "name": "Falkirk",
+        "region": "Scotland"
+      },
+      {
+        "name": "Fife",
+        "region": "Scotland"
+      },
+      {
+        "name": "Glasgow",
+        "region": "Scotland"
+      },
+      {
+        "name": "Highland",
+        "region": "Scotland"
+      },
+      {
+        "name": "Inverclyde",
+        "region": "Scotland"
+      },
+      {
+        "name": "Midlothian",
+        "region": "Scotland"
+      },
+      {
+        "name": "Moray",
+        "region": "Scotland"
+      },
+      {
+        "name": "North Ayrshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "North Lanarkshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Orkney",
+        "region": "Scotland"
+      },
+      {
+        "name": "Perthshire and Kinross",
+        "region": "Scotland"
+      },
+      {
+        "name": "Renfrewshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Roxburghshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Shetland",
+        "region": "Scotland"
+      },
+      {
+        "name": "South Ayrshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "South Lanarkshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "Stirling",
+        "region": "Scotland"
+      },
+      {
+        "name": "West Dunbartonshire",
+        "region": "Scotland"
+      },
+      {
+        "name": "West Lothian",
+        "region": "Scotland"
+      },
+      {
+        "name": "Western Isles",
+        "region": "Scotland"
+      },
+      {
+        "name": "Blaenau Gwent",
+        "region": "Wales"
+      },
+      {
+        "name": "Bridgend",
+        "region": "Wales"
+      },
+      {
+        "name": "Caerphilly",
+        "region": "Wales"
+      },
+      {
+        "name": "Cardiff",
+        "region": "Wales"
+      },
+      {
+        "name": "Ceredigion",
+        "region": "Wales"
+      },
+      {
+        "name": "Conwy",
+        "region": "Wales"
+      },
+      {
+        "name": "Denbighshire",
+        "region": "Wales"
+      },
+      {
+        "name": "Flintshire",
+        "region": "Wales"
+      },
+      {
+        "name": "Gwynedd",
+        "region": "Wales"
+      },
+      {
+        "name": "Isle of Anglesey",
+        "region": "Wales"
+      },
+      {
+        "name": "Merthyr Tydfil",
+        "region": "Wales"
+      },
+      {
+        "name": "Monmouthshire",
+        "region": "Wales"
+      },
+      {
+        "name": "Neath Port Talbot",
+        "region": "Wales"
+      },
+      {
+        "name": "Newport",
+        "region": "Wales"
+      },
+      {
+        "name": "Pembrokeshire",
+        "region": "Wales"
+      },
+      {
+        "name": "Powys",
+        "region": "Wales"
+      },
+      {
+        "name": "Rhondda Cynon Taff",
+        "region": "Wales"
+      },
+      {
+        "name": "Swansea",
+        "region": "Wales"
+      },
+      {
+        "name": "The Vale of Glamorgan",
+        "region": "Wales"
+      },
+      {
+        "name": "Torfaen",
+        "region": "Wales"
+      },
+      {
+        "name": "Wrexham",
+        "region": "Wales"
+      }
+    ]
+  },
+  {
+    "alpha2": "UM",
+    "alpha3": "UMI",
+    "countryCallingCodes": [
+      "+1"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "",
+    "languages": [
+      "eng"
+    ],
+    "name": "United States Minor Outlying Islands",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "US",
+    "alpha3": "USA",
+    "countryCallingCodes": [
+      "+1"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "USA",
+    "languages": [
+      "eng"
+    ],
+    "name": "United States",
+    "status": "assigned",
+    "provinces": [
+      {
+        "short": "AL",
+        "name": "Alabama"
+      },
+      {
+        "short": "AK",
+        "name": "Alaska"
+      },
+      {
+        "short": "AZ",
+        "name": "Arizona"
+      },
+      {
+        "short": "AR",
+        "name": "Arkansas"
+      },
+      {
+        "short": "CA",
+        "name": "California"
+      },
+      {
+        "short": "CO",
+        "name": "Colorado"
+      },
+      {
+        "short": "CT",
+        "name": "Connecticut"
+      },
+      {
+        "short": "DC",
+        "name": "District of Columbia"
+      },
+      {
+        "short": "DE",
+        "name": "Delaware"
+      },
+      {
+        "short": "FL",
+        "name": "Florida"
+      },
+      {
+        "short": "GA",
+        "name": "Georgia"
+      },
+      {
+        "short": "HI",
+        "name": "Hawaii"
+      },
+      {
+        "short": "ID",
+        "name": "Idaho"
+      },
+      {
+        "short": "IL",
+        "name": "Illinois"
+      },
+      {
+        "short": "IN",
+        "name": "Indiana"
+      },
+      {
+        "short": "IA",
+        "name": "Iowa"
+      },
+      {
+        "short": "KS",
+        "name": "Kansas"
+      },
+      {
+        "short": "KY",
+        "name": "Kentucky"
+      },
+      {
+        "short": "LA",
+        "name": "Louisiana"
+      },
+      {
+        "short": "ME",
+        "name": "Maine"
+      },
+      {
+        "short": "MD",
+        "name": "Maryland"
+      },
+      {
+        "short": "MA",
+        "name": "Massachusetts"
+      },
+      {
+        "short": "MI",
+        "name": "Michigan"
+      },
+      {
+        "short": "MN",
+        "name": "Minnesota"
+      },
+      {
+        "short": "MS",
+        "name": "Mississippi"
+      },
+      {
+        "short": "MO",
+        "name": "Missouri"
+      },
+      {
+        "short": "MT",
+        "name": "Montana"
+      },
+      {
+        "short": "NE",
+        "name": "Nebraska"
+      },
+      {
+        "short": "NV",
+        "name": "Nevada"
+      },
+      {
+        "short": "NH",
+        "name": "New Hampshire"
+      },
+      {
+        "short": "NJ",
+        "name": "New Jersey"
+      },
+      {
+        "short": "NM",
+        "name": "New Mexico"
+      },
+      {
+        "short": "NY",
+        "name": "New York"
+      },
+      {
+        "short": "NC",
+        "name": "North Carolina"
+      },
+      {
+        "short": "ND",
+        "name": "North Dakota"
+      },
+      {
+        "short": "OH",
+        "name": "Ohio"
+      },
+      {
+        "short": "OK",
+        "name": "Oklahoma"
+      },
+      {
+        "short": "OR",
+        "name": "Oregon"
+      },
+      {
+        "short": "PA",
+        "name": "Pennsylvania"
+      },
+      {
+        "short": "RI",
+        "name": "Rhode Island"
+      },
+      {
+        "short": "SC",
+        "name": "South Carolina"
+      },
+      {
+        "short": "SD",
+        "name": "South Dakota"
+      },
+      {
+        "short": "TN",
+        "name": "Tennessee"
+      },
+      {
+        "short": "TX",
+        "name": "Texas"
+      },
+      {
+        "short": "UT",
+        "name": "Utah"
+      },
+      {
+        "short": "VT",
+        "name": "Vermont"
+      },
+      {
+        "short": "VA",
+        "name": "Virginia"
+      },
+      {
+        "short": "WA",
+        "name": "Washington"
+      },
+      {
+        "short": "WV",
+        "name": "West Virginia"
+      },
+      {
+        "short": "WI",
+        "name": "Wisconsin"
+      },
+      {
+        "short": "WY",
+        "name": "Wyoming"
+      },
+      {
+        "short": "AS",
+        "name": "American Samoa"
+      },
+      {
+        "short": "GU",
+        "name": "Guam"
+      },
+      {
+        "short": "MP",
+        "name": "Northern Mariana Islands"
+      },
+      {
+        "short": "PR",
+        "name": "Puerto Rico"
+      },
+      {
+        "short": "UM",
+        "name": "United States Minor Outlying Islands"
+      },
+      {
+        "short": "VI",
+        "name": "Virgin Islands"
+      }
+    ]
+  },
+  {
+    "alpha2": "UY",
+    "alpha3": "URY",
+    "countryCallingCodes": [
+      "+598"
+    ],
+    "currencies": [
+      "UYU",
+      "UYI"
+    ],
+    "ioc": "URU",
+    "languages": [
+      "spa"
+    ],
+    "name": "Uruguay",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "UZ",
+    "alpha3": "UZB",
+    "countryCallingCodes": [
+      "+998"
+    ],
+    "currencies": [
+      "UZS"
+    ],
+    "ioc": "UZB",
+    "languages": [
+      "uzb",
+      "rus"
+    ],
+    "name": "Uzbekistan",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "VA",
+    "alpha3": "VAT",
+    "countryCallingCodes": [
+      "+379",
+      "+39"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "ita"
+    ],
+    "name": "Vatican City State",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "VC",
+    "alpha3": "VCT",
+    "countryCallingCodes": [
+      "+1 784"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "ioc": "VIN",
+    "languages": [
+      "eng"
+    ],
+    "name": "Saint Vincent And The Grenadines",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "VD",
+    "alpha3": "VDR",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Viet-Nam, Democratic Republic of",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "VE",
+    "alpha3": "VEN",
+    "countryCallingCodes": [
+      "+58"
+    ],
+    "currencies": [
+      "VEF"
+    ],
+    "ioc": "VEN",
+    "languages": [
+      "spa"
+    ],
+    "name": "Venezuela, Bolivarian Republic Of",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "VG",
+    "alpha3": "VGB",
+    "countryCallingCodes": [
+      "+1 284"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "ISV",
+    "languages": [
+      "eng"
+    ],
+    "name": "Virgin Islands (British)",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "VI",
+    "alpha3": "VIR",
+    "countryCallingCodes": [
+      "+1 340"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "ioc": "ISV",
+    "languages": [
+      "eng"
+    ],
+    "name": "Virgin Islands (US)",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "VN",
+    "alpha3": "VNM",
+    "countryCallingCodes": [
+      "+84"
+    ],
+    "currencies": [
+      "VND"
+    ],
+    "ioc": "VIE",
+    "languages": [
+      "vie"
+    ],
+    "name": "Viet Nam",
+    "status": "assigned",
+    "provinces": [
+      {
+        "name": "Hà Nội"
+      },
+      {
+        "name": "Hà Giang"
+      },
+      {
+        "name": "Cao Bằng"
+      },
+      {
+        "name": "Bắc Kạn"
+      },
+      {
+        "name": "Tuyên Quang"
+      },
+      {
+        "name": "Lào Cai"
+      },
+      {
+        "name": "Điện Biên"
+      },
+      {
+        "name": "Lai Châu"
+      },
+      {
+        "name": "Sơn La"
+      },
+      {
+        "name": "Yên Bái"
+      },
+      {
+        "name": "Hòa Bình"
+      },
+      {
+        "name": "Thái Nguyên"
+      },
+      {
+        "name": "Lạng Sơn"
+      },
+      {
+        "name": "Quảng Ninh"
+      },
+      {
+        "name": "Bắc Giang"
+      },
+      {
+        "name": "Phú Thọ"
+      },
+      {
+        "name": "Vĩnh Phúc"
+      },
+      {
+        "name": "Bắc Ninh"
+      },
+      {
+        "name": "Hải Dương"
+      },
+      {
+        "name": "Hải Phòng"
+      },
+      {
+        "name": "Hưng Yên"
+      },
+      {
+        "name": "Thái Bình"
+      },
+      {
+        "name": "Hà Nam"
+      },
+      {
+        "name": "Nam Định"
+      },
+      {
+        "name": "Ninh Bình"
+      },
+      {
+        "name": "Thanh Hóa"
+      },
+      {
+        "name": "Nghệ An"
+      },
+      {
+        "name": "Hà Tĩnh"
+      },
+      {
+        "name": "Quảng Bình"
+      },
+      {
+        "name": "Quảng Trị"
+      },
+      {
+        "name": "Thừa Thiên–Huế"
+      },
+      {
+        "name": "Đà Nẵng"
+      },
+      {
+        "name": "Quảng Nam"
+      },
+      {
+        "name": "Quảng Ngãi"
+      },
+      {
+        "name": "Bình Định"
+      },
+      {
+        "name": "Phú Yên"
+      },
+      {
+        "name": "Khánh Hòa"
+      },
+      {
+        "name": "Ninh Thuận"
+      },
+      {
+        "name": "Bình Thuận"
+      },
+      {
+        "name": "Kon Tum"
+      },
+      {
+        "name": "Gia Lai"
+      },
+      {
+        "name": "Đắk Lắk"
+      },
+      {
+        "name": "Đắk Nông"
+      },
+      {
+        "name": "Lâm Đồng"
+      },
+      {
+        "name": "Bình Phước"
+      },
+      {
+        "name": "Tây Ninh"
+      },
+      {
+        "name": "Bình Dương"
+      },
+      {
+        "name": "Đồng Nai"
+      },
+      {
+        "name": "Bà Rịa–Vũng Tàu"
+      },
+      {
+        "name": "Thành phố Hồ Chí Minh"
+      },
+      {
+        "name": "Long An"
+      },
+      {
+        "name": "Tiền Giang"
+      },
+      {
+        "name": "Bến Tre"
+      },
+      {
+        "name": "Trà Vinh"
+      },
+      {
+        "name": "Vĩnh Long"
+      },
+      {
+        "name": "Đồng Tháp"
+      },
+      {
+        "name": "An Giang"
+      },
+      {
+        "name": "Kiên Giang"
+      },
+      {
+        "name": "Cần Thơ"
+      },
+      {
+        "name": "Hậu Giang"
+      },
+      {
+        "name": "Sóc Trăng"
+      },
+      {
+        "name": "Bạc Liêu"
+      },
+      {
+        "name": "Cà Mau"
+      }
+    ]
+  },
+  {
+    "alpha2": "VU",
+    "alpha3": "VUT",
+    "countryCallingCodes": [
+      "+678"
+    ],
+    "currencies": [
+      "VUV"
+    ],
+    "ioc": "VAN",
+    "languages": [
+      "bis",
+      "eng",
+      "fra"
+    ],
+    "name": "Vanuatu",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "WF",
+    "alpha3": "WLF",
+    "countryCallingCodes": [
+      "+681"
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "Wallis And Futuna",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "WK",
+    "alpha3": "WAK",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Wake Island",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "WS",
+    "alpha3": "WSM",
+    "countryCallingCodes": [
+      "+685"
+    ],
+    "currencies": [
+      "WST"
+    ],
+    "ioc": "SAM",
+    "languages": [
+      "eng",
+      "smo"
+    ],
+    "name": "Samoa",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "XK",
+    "alpha3": "",
+    "countryCallingCodes": [
+      "+383"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "sqi",
+      "srp",
+      "bos",
+      "tur",
+      "rom"
+    ],
+    "name": "Kosovo",
+    "status": "user assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "YD",
+    "alpha3": "YMD",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Yemen, Democratic",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "YE",
+    "alpha3": "YEM",
+    "countryCallingCodes": [
+      "+967"
+    ],
+    "currencies": [
+      "YER"
+    ],
+    "ioc": "YEM",
+    "languages": [
+      "ara"
+    ],
+    "name": "Yemen",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "YT",
+    "alpha3": "MYT",
+    "countryCallingCodes": [
+      "+262"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "fra"
+    ],
+    "name": "Mayotte",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "YU",
+    "alpha3": "YUG",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Yugoslavia",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "ZA",
+    "alpha3": "ZAF",
+    "countryCallingCodes": [
+      "+27"
+    ],
+    "currencies": [
+      "ZAR"
+    ],
+    "ioc": "RSA",
+    "languages": [
+      "afr",
+      "eng",
+      "nbl",
+      "som",
+      "tso",
+      "ven",
+      "xho",
+      "zul"
+    ],
+    "name": "South Africa",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "ZM",
+    "alpha3": "ZMB",
+    "countryCallingCodes": [
+      "+260"
+    ],
+    "currencies": [
+      "ZMW"
+    ],
+    "ioc": "ZAM",
+    "languages": [
+      "eng"
+    ],
+    "name": "Zambia",
+    "status": "assigned",
+    "provinces": null
+  },
+  {
+    "alpha2": "ZR",
+    "alpha3": "ZAR",
+    "countryCallingCodes": [],
+    "currencies": [],
+    "ioc": "",
+    "languages": [],
+    "name": "Zaire",
+    "status": "deleted",
+    "provinces": null
+  },
+  {
+    "alpha2": "ZW",
+    "alpha3": "ZWE",
+    "countryCallingCodes": [
+      "+263"
+    ],
+    "currencies": [
+      "USD",
+      "ZAR",
+      "BWP",
+      "GBP",
+      "EUR"
+    ],
+    "ioc": "ZIM",
+    "languages": [
+      "eng",
+      "sna",
+      "nde"
+    ],
+    "name": "Zimbabwe",
+    "status": "assigned",
+    "provinces": null
+  }
+]
