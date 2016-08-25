@@ -4192,12 +4192,10 @@
     "languages": [
       "eng"
     ],
-    "name": "Federated States of Micronesia",
+    "name": "Micronesia",
     "status": "assigned",
     "provinces": null,
-    "alias": [
-      "Micronesia"
-    ]
+    "alias": null,
   },
   {
     "alpha2": "FO",
@@ -4579,11 +4577,10 @@
     "languages": [
       "por"
     ],
-    "name": "Republic of Guinea-Bissau",
+    "name": "Guinea-Bissau",
     "status": "assigned",
     "provinces": null,
     "alias": [
-      "Guinea-Bissau",
       "Guinea Bissau"
     ]
   },
