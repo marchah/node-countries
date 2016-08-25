@@ -66,7 +66,8 @@ Return a JSON array with all the countries
     ],
     "name": "Ascension Island",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AD",
@@ -83,7 +84,8 @@ Return a JSON array with all the countries
     ],
     "name": "Andorra",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   ...
 ]
@@ -112,7 +114,8 @@ console.log(countries.AC);
     ],
     "name": "Ascension Island",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   }
 */
 ```
@@ -155,7 +158,8 @@ console.log(countries.getCountryByName('Andorra'));
     ],
     "name": "Andorra",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   }
 */
 ````
