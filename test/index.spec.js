@@ -16,6 +16,7 @@ const Andorra = {
   name: 'Andorra',
   status: 'assigned',
   provinces: null,
+  alias: null,
 };
 
 const California = {
@@ -34,7 +35,7 @@ describe('Unit Testing ->', () => {
     it('should return an array', () => {
       expect(countries.JSON).to.be.an('array');
     });
-    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status` and `provinces` as object keys', () => {
+    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status`, `provinces` and `alias` as object keys', () => {
       countries.JSON.forEach((country) => {
         expect(country).to.have.all.keys([
           'alpha2',
@@ -46,6 +47,7 @@ describe('Unit Testing ->', () => {
           'name',
           'status',
           'provinces',
+          'alias',
         ]);
       });
     });
@@ -54,7 +56,7 @@ describe('Unit Testing ->', () => {
     it('should return an object', () => {
       expect(countries[Andorra.alpha2]).to.be.an('object');
     });
-    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status` `provinces`, `getProvinceByName`, `findProvinceByName`, `getProvinceByNameAndAlias` and `findProvinceByNameAndAlias` as object keys', () => {
+    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status` `provinces`, `alias`, getProvinceByName`, `findProvinceByName`, `getProvinceByNameAndAlias` and `findProvinceByNameAndAlias` as object keys', () => {
       _.forEach(countries, (country, key) => {
         if (_.isString(key) && key.length === 2) {
           expect(countries[key]).to.have.all.keys([
@@ -67,6 +69,7 @@ describe('Unit Testing ->', () => {
             'name',
             'status',
             'provinces',
+            'alias',
             'getProvinceByName',
             'findProvinceByName',
             'getProvinceByNameAndAlias',

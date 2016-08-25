@@ -14,7 +14,8 @@
     ],
     "name": "Ascension Island",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AD",
@@ -31,7 +32,8 @@
     ],
     "name": "Andorra",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AE",
@@ -48,7 +50,8 @@
     ],
     "name": "United Arab Emirates",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AF",
@@ -65,7 +68,8 @@
     ],
     "name": "Afghanistan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AG",
@@ -82,7 +86,8 @@
     ],
     "name": "Antigua And Barbuda",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AI",
@@ -99,7 +104,8 @@
     ],
     "name": "Anguilla",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AI",
@@ -110,7 +116,8 @@
     "languages": [],
     "name": "French Afar and Issas",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AL",
@@ -127,7 +134,8 @@
     ],
     "name": "Albania",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AM",
@@ -145,7 +153,8 @@
     ],
     "name": "Armenia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AN",
@@ -156,7 +165,8 @@
     "languages": [],
     "name": "Netherlands Antilles",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AO",
@@ -173,7 +183,8 @@
     ],
     "name": "Angola",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AQ",
@@ -186,7 +197,8 @@
     "languages": [],
     "name": "Antarctica",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AR",
@@ -206,7 +218,9 @@
     "provinces": [
       {
         "name": "Ciudad Autónoma de Buenos Aires",
-        "alias": null
+        "alias": [
+          "Ciudad Autonoma de Buenos Aires"
+        ]
       },
       {
         "name": "Buenos Aires",
@@ -226,7 +240,9 @@
       },
       {
         "name": "Córdoba",
-        "alias": null
+        "alias": [
+          "Cordoba"
+        ]
       },
       {
         "name": "Corrientes",
@@ -234,7 +250,9 @@
       },
       {
         "name": "Entre Ríos",
-        "alias": null
+        "alias": [
+          "Entre Rios"
+        ]
       },
       {
         "name": "Formosa",
@@ -262,11 +280,15 @@
       },
       {
         "name": "Neuquén",
-        "alias": null
+        "alias": [
+          "Neuquen"
+        ]
       },
       {
         "name": "Río Negro",
-        "alias": null
+        "alias": [
+          "Rio Negro"
+        ]
       },
       {
         "name": "Salta",
@@ -294,13 +316,18 @@
       },
       {
         "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
-        "alias": null
+        "alias": [
+          "Tierra del Fuego, Antartida e Islas del Atlantico Sur"
+        ]
       },
       {
         "name": "Tucumán",
-        "alias": null
+        "alias": [
+          "Tucuman"
+        ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "AS",
@@ -318,7 +345,8 @@
     ],
     "name": "American Samoa",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AT",
@@ -344,17 +372,23 @@
       {
         "short": "K",
         "name": "Kärnten",
-        "alias": null
+        "alias": [
+          "Karnten"
+        ]
       },
       {
         "short": "NÖ",
         "name": "Niederösterreich",
-        "alias": null
+        "alias": [
+          "Niederosterreich"
+        ]
       },
       {
         "short": "OÖ",
         "name": "Oberösterreich",
-        "alias": null
+        "alias": [
+          "Oberosterreich"
+        ]
       },
       {
         "short": "S",
@@ -381,7 +415,8 @@
         "name": "Wien",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "AU",
@@ -478,7 +513,8 @@
         "name": "Western Australia",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "AW",
@@ -495,7 +531,8 @@
     ],
     "name": "Aruba",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "AX",
@@ -512,7 +549,10 @@
     ],
     "name": "Åland Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": [
+      "Aland Islands"
+    ]
   },
   {
     "alpha2": "AZ",
@@ -529,7 +569,8 @@
     ],
     "name": "Azerbaijan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BA",
@@ -548,7 +589,8 @@
     ],
     "name": "Bosnia & Herzegovina",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BB",
@@ -565,7 +607,8 @@
     ],
     "name": "Barbados",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BD",
@@ -1031,7 +1074,8 @@
           "Sylhet"
         ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "BE",
@@ -1067,7 +1111,8 @@
         "short": "LIE",
         "name": "Luik",
         "alias": [
-          "Liège"
+          "Liège",
+          "Liege"
         ]
       },
       {
@@ -1088,24 +1133,33 @@
       {
         "short": "OVL",
         "name": "Oost-Vlaanderen",
-        "alias": null
+        "alias": [
+          "Oost Vlaanderen"
+        ]
       },
       {
         "short": "VBR",
         "name": "Vlaams-Brabant",
-        "alias": null
+        "alias": [
+          "Vlaams Brabant"
+        ]
       },
       {
         "short": "WBR",
         "name": "Waals-Brabant",
-        "alias": null
+        "alias": [
+          "Waals Brabant"
+        ]
       },
       {
         "short": "WVL",
         "name": "West-Vlaanderen",
-        "alias": null
+        "alias": [
+          "West Vlaanderen"
+        ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "BF",
@@ -1122,7 +1176,8 @@
     ],
     "name": "Burkina Faso",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BG",
@@ -1139,7 +1194,8 @@
     ],
     "name": "Bulgaria",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BH",
@@ -1156,7 +1212,8 @@
     ],
     "name": "Bahrain",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BI",
@@ -1173,7 +1230,8 @@
     ],
     "name": "Burundi",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BJ",
@@ -1190,7 +1248,8 @@
     ],
     "name": "Benin",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BL",
@@ -1207,7 +1266,10 @@
     ],
     "name": "Saint Barthélemy",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": [
+      "Saint Barthelemy"
+    ]
   },
   {
     "alpha2": "BM",
@@ -1224,7 +1286,8 @@
     ],
     "name": "Bermuda",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BN",
@@ -1242,7 +1305,8 @@
     ],
     "name": "Brunei Darussalam",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BO",
@@ -1271,22 +1335,30 @@
       {
         "name": "Iténez",
         "region": "Beni",
-        "alias": null
+        "alias": [
+          "Itenez"
+        ]
       },
       {
         "name": "José Ballivián",
         "region": "Beni",
-        "alias": null
+        "alias": [
+          "Jose Ballivian"
+        ]
       },
       {
         "name": "Mamoré",
         "region": "Beni",
-        "alias": null
+        "alias": [
+          "Mamore"
+        ]
       },
       {
         "name": "Marbán",
         "region": "Beni",
-        "alias": null
+        "alias": [
+          "Marban"
+        ]
       },
       {
         "name": "Moxos",
@@ -1296,7 +1368,9 @@
       {
         "name": "Vaca Díez",
         "region": "Beni",
-        "alias": null
+        "alias": [
+          "Vaca Diez"
+        ]
       },
       {
         "name": "Yacuma",
@@ -1321,7 +1395,9 @@
       {
         "name": "Jaime Zudáñez",
         "region": "Chuquisaca",
-        "alias": null
+        "alias": [
+          "Jaime Zudanez"
+        ]
       },
       {
         "name": "Luis Calvo",
@@ -1351,7 +1427,9 @@
       {
         "name": "Yamparáez",
         "region": "Chuquisaca",
-        "alias": null
+        "alias": [
+          "Yamparaez"
+        ]
       },
       {
         "name": "Arani",
@@ -1396,7 +1474,9 @@
       {
         "name": "Germán Jordán",
         "region": "Cochabamba",
-        "alias": null
+        "alias": [
+          "German Jordan"
+        ]
       },
       {
         "name": "Mizque",
@@ -1421,12 +1501,16 @@
       {
         "name": "Bolívar",
         "region": "Cochabamba",
-        "alias": null
+        "alias": [
+          "Bolivar"
+        ]
       },
       {
         "name": "Tapacarí",
         "region": "Cochabamba",
-        "alias": null
+        "alias": [
+          "Tapacari"
+        ]
       },
       {
         "name": "Tiraque",
@@ -1481,7 +1565,9 @@
       {
         "name": "José Manuel Pando",
         "region": "La Paz",
-        "alias": null
+        "alias": [
+          "Jose Manuel Pando"
+        ]
       },
       {
         "name": "Larecaja",
@@ -1506,7 +1592,9 @@
       {
         "name": "Muñecas",
         "region": "La Paz",
-        "alias": null
+        "alias": [
+          "Munecas"
+        ]
       },
       {
         "name": "Nor Yungas",
@@ -1571,12 +1659,16 @@
       {
         "name": "Pantaléon Dalence",
         "region": "Oruro",
-        "alias": null
+        "alias": [
+          "Pantaleon Dalence"
+        ]
       },
       {
         "name": "Poopó",
         "region": "Oruro",
-        "alias": null
+        "alias": [
+          "Poopo"
+        ]
       },
       {
         "name": "Puerto de Mejillones",
@@ -1596,12 +1688,16 @@
       {
         "name": "Saucarí",
         "region": "Oruro",
-        "alias": null
+        "alias": [
+          "Saucari"
+        ]
       },
       {
         "name": "Sebastián Pagador",
         "region": "Oruro",
-        "alias": null
+        "alias": [
+          "Sebastian Pagador"
+        ]
       },
       {
         "name": "Sud Carangas",
@@ -1611,17 +1707,23 @@
       {
         "name": "Tomas Barrón",
         "region": "Oruro",
-        "alias": null
+        "alias": [
+          "Tomas Barron"
+        ]
       },
       {
         "name": "Abuná",
         "region": "Pando",
-        "alias": null
+        "alias": [
+          "Abuna"
+        ]
       },
       {
         "name": "Federico Román",
         "region": "Pando",
-        "alias": null
+        "alias": [
+          "Federico Roman"
+        ]
       },
       {
         "name": "Madre de Dios",
@@ -1636,12 +1738,16 @@
       {
         "name": "Nicolás Suárez",
         "region": "Pando",
-        "alias": null
+        "alias": [
+          "Nicolas Suarez"
+        ]
       },
       {
         "name": "Alonso de Ibáñez",
         "region": "Potosí",
-        "alias": null
+        "alias": [
+          "Alonso de Ibanez"
+        ]
       },
       {
         "name": "Antonio Quijarro",
@@ -1681,7 +1787,9 @@
       {
         "name": "José María Linares",
         "region": "Potosí",
-        "alias": null
+        "alias": [
+          "José Maria Linares"
+        ]
       },
       {
         "name": "Modesto Omiste",
@@ -1696,7 +1804,9 @@
       {
         "name": "Nor Lípez",
         "region": "Potosí",
-        "alias": null
+        "alias": [
+          "Nor Lipez"
+        ]
       },
       {
         "name": "Rafael Bustillo",
@@ -1711,22 +1821,30 @@
       {
         "name": "Sur Lípez",
         "region": "Potosí",
-        "alias": null
+        "alias": [
+          "Sur Lipez"
+        ]
       },
       {
         "name": "Tomás Frías",
         "region": "Potosí",
-        "alias": null
+        "alias": [
+          "Tomas Frias"
+        ]
       },
       {
         "name": "Andrés Ibáñez",
         "region": "Santa Cruz",
-        "alias": null
+        "alias": [
+          "Andres Ibanez"
+        ]
       },
       {
         "name": "Ángel Sandoval",
         "region": "Santa Cruz",
-        "alias": null
+        "alias": [
+          "Angel Sandoval"
+        ]
       },
       {
         "name": "Chiquitos",
@@ -1746,7 +1864,9 @@
       {
         "name": "Germán Busch",
         "region": "Santa Cruz",
-        "alias": null
+        "alias": [
+          "German Busch"
+        ]
       },
       {
         "name": "Guarayos",
@@ -1766,17 +1886,23 @@
       {
         "name": "José Miguel de Velasco",
         "region": "Santa Cruz",
-        "alias": null
+        "alias": [
+          "Jose Miguel de Velasco"
+        ]
       },
       {
         "name": "Manuel María Caballero",
         "region": "Santa Cruz",
-        "alias": null
+        "alias": [
+          "Manuel Maria Caballero"
+        ]
       },
       {
         "name": "Ñuflo de Chávez",
         "region": "Santa Cruz",
-        "alias": null
+        "alias": [
+          "Nuflo de Chavez"
+        ]
       },
       {
         "name": "Obispo Santistevan",
@@ -1811,7 +1937,9 @@
       {
         "name": "Eustaquio Méndez",
         "region": "Tarija",
-        "alias": null
+        "alias": [
+          "Eustaquio Mendez"
+        ]
       },
       {
         "name": "Gran Chaco",
@@ -1821,8 +1949,13 @@
       {
         "name": "José María Avilés",
         "region": "Tarija",
-        "alias": null
+        "alias": [
+          "Jose María Aviles"
+        ]
       }
+    ],
+    "alias": [
+      "Bolivia"
     ]
   },
   {
@@ -1840,7 +1973,8 @@
     ],
     "name": "Bonaire, Saint Eustatius And Saba",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BQ",
@@ -1851,7 +1985,8 @@
     "languages": [],
     "name": "British Antarctic Territory",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BR",
@@ -1882,7 +2017,9 @@
       {
         "short": "AP",
         "name": "Amapá",
-        "alias": null
+        "alias": [
+          "Amapa"
+        ]
       },
       {
         "short": "AM",
@@ -1897,7 +2034,9 @@
       {
         "short": "CE",
         "name": "Ceará",
-        "alias": null
+        "alias": [
+          "Ceara"
+        ]
       },
       {
         "short": "DF",
@@ -1907,17 +2046,23 @@
       {
         "short": "ES",
         "name": "Espírito Santo",
-        "alias": null
+        "alias": [
+          "Espirito Santo"
+        ]
       },
       {
         "short": "GO",
         "name": "Goiás",
-        "alias": null
+        "alias": [
+          "Goias"
+        ]
       },
       {
         "short": "MA",
         "name": "Maranhão",
-        "alias": null
+        "alias": [
+          "Maranhao"
+        ]
       },
       {
         "short": "MT",
@@ -1937,17 +2082,23 @@
       {
         "short": "PA",
         "name": "Pará",
-        "alias": null
+        "alias": [
+          "Para"
+        ]
       },
       {
         "short": "PB",
         "name": "Paraíba",
-        "alias": null
+        "alias": [
+          "Paraiba"
+        ]
       },
       {
         "short": "PR",
         "name": "Paraná",
-        "alias": null
+        "alias": [
+          "Parana"
+        ]
       },
       {
         "short": "PE",
@@ -1957,7 +2108,9 @@
       {
         "short": "PI",
         "name": "Piauí",
-        "alias": null
+        "alias": [
+          "Piaui"
+        ]
       },
       {
         "short": "RJ",
@@ -1977,7 +2130,9 @@
       {
         "short": "RO",
         "name": "Rondônia",
-        "alias": null
+        "alias": [
+          "Rondonia"
+        ]
       },
       {
         "short": "RR",
@@ -1992,7 +2147,9 @@
       {
         "short": "SP",
         "name": "São Paulo",
-        "alias": null
+        "alias": [
+          "Sao Paulo"
+        ]
       },
       {
         "short": "SE",
@@ -2004,7 +2161,8 @@
         "name": "Tocantins",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "BS",
@@ -2021,7 +2179,8 @@
     ],
     "name": "Bahamas",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BT",
@@ -2039,7 +2198,8 @@
     ],
     "name": "Bhutan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BU",
@@ -2050,7 +2210,8 @@
     "languages": [],
     "name": "Burma",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BV",
@@ -2063,7 +2224,8 @@
     "languages": [],
     "name": "Bouvet Island",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BW",
@@ -2081,7 +2243,8 @@
     ],
     "name": "Botswana",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BY",
@@ -2099,7 +2262,8 @@
     ],
     "name": "Belarus",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BY",
@@ -2110,7 +2274,8 @@
     "languages": [],
     "name": "Byelorussian SSR",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "BZ",
@@ -2127,7 +2292,8 @@
     ],
     "name": "Belize",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CA",
@@ -2214,7 +2380,8 @@
         "name": "Yukon",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "CC",
@@ -2231,7 +2398,11 @@
     ],
     "name": "Cocos (Keeling) Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": [
+      "Cocos Islands",
+      "Keeling Islands"
+    ]
   },
   {
     "alpha2": "CD",
@@ -2251,7 +2422,8 @@
     ],
     "name": "Democratic Republic Of Congo",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CF",
@@ -2269,7 +2441,8 @@
     ],
     "name": "Central African Republic",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CG",
@@ -2287,7 +2460,8 @@
     ],
     "name": "Republic Of Congo",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CH",
@@ -2309,7 +2483,8 @@
     ],
     "name": "Switzerland",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CI",
@@ -2326,7 +2501,11 @@
     ],
     "name": "Côte d'Ivoire",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": [
+      "Cote d'Ivoire",
+      "Ivory Coast"
+    ]
   },
   {
     "alpha2": "CK",
@@ -2344,7 +2523,8 @@
     ],
     "name": "Cook Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CL",
@@ -2401,7 +2581,9 @@
       {
         "name": "Copiapó",
         "region": "III Atacama",
-        "alias": null
+        "alias": [
+          "Copiapo"
+        ]
       },
       {
         "name": "Huasco",
@@ -2411,7 +2593,9 @@
       {
         "name": "Chañaral",
         "region": "III Atacama",
-        "alias": null
+        "alias": [
+          "Chanaral"
+        ]
       },
       {
         "name": "Elqui",
@@ -2421,7 +2605,9 @@
       {
         "name": "Limarí",
         "region": "IV Coquimbo",
-        "alias": null
+        "alias": [
+          "Limari"
+        ]
       },
       {
         "name": "Choapa",
@@ -2466,7 +2652,9 @@
       {
         "name": "Valparaíso",
         "region": "V Valparaíso",
-        "alias": null
+        "alias": [
+          "Valparaiso"
+        ]
       },
       {
         "name": "Cachapoal",
@@ -2496,7 +2684,9 @@
       {
         "name": "Curicó",
         "region": "VII Maule",
-        "alias": null
+        "alias": [
+          "Curico"
+        ]
       },
       {
         "name": "Cauquenes",
@@ -2506,17 +2696,23 @@
       {
         "name": "Concepción",
         "region": "VIII Biobío",
-        "alias": null
+        "alias": [
+          "Concepcion"
+        ]
       },
       {
         "name": "Ñuble",
         "region": "VIII Biobío",
-        "alias": null
+        "alias": [
+          "Nuble"
+        ]
       },
       {
         "name": "Biobío",
         "region": "VIII Biobío",
-        "alias": null
+        "alias": [
+          "Biobio"
+        ]
       },
       {
         "name": "Arauco",
@@ -2571,7 +2767,9 @@
       {
         "name": "Aisén",
         "region": "XI Aisén",
-        "alias": null
+        "alias": [
+          "Aisen"
+        ]
       },
       {
         "name": "General Carrera",
@@ -2601,7 +2799,9 @@
       {
         "name": "Antártica Chilena",
         "region": "XII Magallanes",
-        "alias": null
+        "alias": [
+          "Antartica Chilena"
+        ]
       },
       {
         "name": "Santiago",
@@ -2633,7 +2833,8 @@
         "region": "RM Santiago Metropolitan",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "CM",
@@ -2651,7 +2852,8 @@
     ],
     "name": "Cameroon",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CN",
@@ -2672,174 +2874,246 @@
       {
         "name": "重庆",
         "short": "渝",
-        "alias": null
+        "alias": [
+          "Chongqing"
+        ]
       },
       {
         "name": "黑龙江",
         "short": "黑",
-        "alias": null
+        "alias": [
+          "Heilongjiang"
+        ]
       },
       {
         "name": "吉林",
         "short": "吉",
-        "alias": null
+        "alias": [
+          "Jilin"
+        ]
       },
       {
         "name": "海南",
         "short": "琼",
-        "alias": null
+        "alias": [
+          "Hainan"
+        ]
       },
       {
         "name": "北京",
         "short": "京",
-        "alias": null
+        "alias": [
+          "Beijing"
+        ]
       },
       {
         "name": "辽宁",
         "short": "辽",
-        "alias": null
+        "alias": [
+          "Liaoning"
+        ]
       },
       {
         "name": "内蒙古",
         "short": "蒙",
-        "alias": null
+        "alias": [
+          "Inner Mongolia"
+        ]
       },
       {
         "name": "西藏",
         "short": "藏",
-        "alias": null
+        "alias": [
+          "Tibet",
+          "Xizang"
+        ]
       },
       {
         "name": "青海",
         "short": "青",
-        "alias": null
+        "alias": [
+          "Qinghai"
+        ]
       },
       {
         "name": "宁夏",
         "short": "宁",
-        "alias": null
+        "alias": [
+          "Ningxia"
+        ]
       },
       {
         "name": "新疆",
         "short": "新",
-        "alias": null
+        "alias": [
+          "Xinjiang"
+        ]
       },
       {
         "name": "甘肃",
         "short": "甘",
-        "alias": null
+        "alias": [
+          "Gansu"
+        ]
       },
       {
         "name": "河北",
         "short": "冀",
-        "alias": null
+        "alias": [
+          "Hebei"
+        ]
       },
       {
         "name": "河南",
         "short": "豫",
-        "alias": null
+        "alias": [
+          "Henan"
+        ]
       },
       {
         "name": "湖北",
         "short": "鄂",
-        "alias": null
+        "alias": [
+          "Hubei"
+        ]
       },
       {
         "name": "湖南",
         "short": "湘",
-        "alias": null
+        "alias": [
+          "Hunan"
+        ]
       },
       {
         "name": "山东",
         "short": "鲁",
-        "alias": null
+        "alias": [
+          "Shandong"
+        ]
       },
       {
         "name": "江苏",
         "short": "苏",
-        "alias": null
+        "alias": [
+          "Jiangsu"
+        ]
       },
       {
         "name": "安徽",
         "short": "皖",
-        "alias": null
+        "alias": [
+          "Anhui"
+        ]
       },
       {
         "name": "山西",
         "short": "晋",
-        "alias": null
+        "alias": [
+          "Shanxi"
+        ]
       },
       {
         "name": "陕西",
         "short": "陕",
-        "alias": null
+        "alias": [
+          "Shaanxi"
+        ]
       },
       {
         "name": "四川",
         "short": "川",
-        "alias": null
+        "alias": [
+          "Sichuan"
+        ]
       },
       {
         "name": "云南",
         "short": "滇",
-        "alias": null
+        "alias": [
+          "Yunnan"
+        ]
       },
       {
         "name": "贵州",
         "short": "黔",
-        "alias": null
+        "alias": [
+          "Guizhou"
+        ]
       },
       {
         "name": "浙江",
         "short": "浙",
-        "alias": null
+        "alias": [
+          "Zhejiang"
+        ]
       },
       {
         "name": "福建",
         "short": "闽",
-        "alias": null
+        "alias": [
+          "Fujian"
+        ]
       },
       {
         "name": "广西",
         "short": "桂",
-        "alias": null
+        "alias": [
+          "Guangxi"
+        ]
       },
       {
         "name": "上海",
         "short": "沪",
-        "alias": null
+        "alias": [
+          "Shanghai"
+        ]
       },
       {
         "name": "天津",
         "short": "津",
-        "alias": null
+        "alias": [
+          "Tianjin"
+        ]
       },
       {
         "name": "香港",
         "short": "港",
-        "alias": null
+        "alias": [
+          "Hong Kong",
+          "Xianggang"
+        ]
       },
       {
         "name": "澳门",
         "short": "澳",
-        "alias": null
+        "alias": [
+          "Macau",
+          "Aomen"
+        ]
       },
       {
         "name": "台湾",
         "short": "台",
-        "alias": null
+        "alias": [
+          "Taiwan"
+        ]
       },
       {
         "name": "江西",
         "short": "赣",
-        "alias": null
+        "alias": [
+          "Jiangxi"
+        ]
       },
       {
         "name": "广东",
         "short": "粤",
-        "alias": null
+        "alias": [
+          "Guangdong"
+        ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "CO",
@@ -2857,7 +3131,8 @@
     ],
     "name": "Colombia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CP",
@@ -2870,7 +3145,8 @@
     "languages": [],
     "name": "Clipperton Island",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CR",
@@ -2887,7 +3163,8 @@
     ],
     "name": "Costa Rica",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CS",
@@ -2898,7 +3175,10 @@
     "languages": [],
     "name": "Czechoslovakia",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": [
+      "Czecho-Slovakia"
+    ]
   },
   {
     "alpha2": "CS",
@@ -2909,7 +3189,8 @@
     "languages": [],
     "name": "Serbia and Montenegro",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CT",
@@ -2920,7 +3201,8 @@
     "languages": [],
     "name": "Canton and Enderbury Islands",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CU",
@@ -2941,11 +3223,15 @@
     "provinces": [
       {
         "name": "Camagüey",
-        "alias": null
+        "alias": [
+          "Camaguey"
+        ]
       },
       {
         "name": "Ciego de Ávila",
-        "alias": null
+        "alias": [
+          "Ciego de Avila"
+        ]
       },
       {
         "name": "Cienfuegos",
@@ -2961,11 +3247,15 @@
       },
       {
         "name": "Guantánamo",
-        "alias": null
+        "alias": [
+          "Guantanamo"
+        ]
       },
       {
         "name": "Holguín",
-        "alias": null
+        "alias": [
+          "Holguin"
+        ]
       },
       {
         "name": "Nueva Gerona",
@@ -2985,15 +3275,21 @@
       },
       {
         "name": "San José de las Lajas",
-        "alias": null
+        "alias": [
+          "San Jose de las Lajas"
+        ]
       },
       {
         "name": "Pinar del Río",
-        "alias": null
+        "alias": [
+          "Pinar del Rio"
+        ]
       },
       {
         "name": "Sancti Spíritus",
-        "alias": null
+        "alias": [
+          "Sancti Spiritus"
+        ]
       },
       {
         "name": "Santiago de Cuba",
@@ -3003,7 +3299,8 @@
         "name": "Santa Clara",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "CV",
@@ -3020,7 +3317,8 @@
     ],
     "name": "Cabo Verde",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CW",
@@ -3037,7 +3335,8 @@
     ],
     "name": "Curacao",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CX",
@@ -3054,7 +3353,8 @@
     ],
     "name": "Christmas Island",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CY",
@@ -3072,7 +3372,8 @@
     ],
     "name": "Cyprus",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "CZ",
@@ -3089,7 +3390,10 @@
     ],
     "name": "Czech Republic",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": [
+      "Czechia"
+    ]
   },
   {
     "alpha2": "DD",
@@ -3100,7 +3404,8 @@
     "languages": [],
     "name": "German Democratic Republic",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "DE",
@@ -3121,7 +3426,11 @@
       {
         "short": "BW",
         "name": "Baden-Württemberg",
-        "alias": null
+        "alias": [
+          "Baden-Wurttemberg",
+          "Baden Württemberg",
+          "Baden Wurttemberg"
+        ]
       },
       {
         "short": "BY",
@@ -3156,7 +3465,9 @@
       {
         "short": "MV",
         "name": "Mecklenburg-Vorpommern",
-        "alias": null
+        "alias": [
+          "Mecklenburg Vorpommern"
+        ]
       },
       {
         "short": "NI",
@@ -3166,12 +3477,16 @@
       {
         "short": "NW",
         "name": "Nordrhein-Westfalen",
-        "alias": null
+        "alias": [
+          "Nordrhein Westfalen"
+        ]
       },
       {
         "short": "RP",
         "name": "Rheinland-Pfalz",
-        "alias": null
+        "alias": [
+          "Rheinland Pfalz"
+        ]
       },
       {
         "short": "SL",
@@ -3186,19 +3501,26 @@
       {
         "short": "ST",
         "name": "Sachsen-Anhalt",
-        "alias": null
+        "alias": [
+          "Sachsen Anhalt"
+        ]
       },
       {
         "short": "SH",
         "name": "Schleswig-Holstein",
-        "alias": null
+        "alias": [
+          "Schleswig Holstein"
+        ]
       },
       {
         "short": "TH",
         "name": "Thüringen",
-        "alias": null
+        "alias": [
+          "Thuringen"
+        ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "DG",
@@ -3211,7 +3533,8 @@
     "languages": [],
     "name": "Diego Garcia",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "DJ",
@@ -3229,7 +3552,8 @@
     ],
     "name": "Djibouti",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "DK",
@@ -3261,13 +3585,16 @@
       },
       {
         "name": "Sjælland",
-        "alias": null
+        "alias": [
+          "Zealand"
+        ]
       },
       {
         "name": "Syddanmark",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "DM",
@@ -3284,7 +3611,8 @@
     ],
     "name": "Dominica",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "DO",
@@ -3303,7 +3631,8 @@
     ],
     "name": "Dominican Republic",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "DY",
@@ -3314,7 +3643,8 @@
     "languages": [],
     "name": "Dahomey",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "DZ",
@@ -3331,7 +3661,8 @@
     ],
     "name": "Algeria",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "EA",
@@ -3344,7 +3675,8 @@
     "languages": [],
     "name": "Ceuta, Mulilla",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "EC",
@@ -3362,7 +3694,8 @@
     ],
     "name": "Ecuador",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "EE",
@@ -3379,7 +3712,8 @@
     ],
     "name": "Estonia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "EG",
@@ -3396,7 +3730,8 @@
     ],
     "name": "Egypt",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "EH",
@@ -3411,7 +3746,8 @@
     "languages": [],
     "name": "Western Sahara",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ER",
@@ -3430,7 +3766,8 @@
     ],
     "name": "Eritrea",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ES",
@@ -3451,7 +3788,9 @@
       {
         "name": "La Coruña",
         "short": "C",
-        "alias": null
+        "alias": [
+          "La Coruna"
+        ]
       },
       {
         "name": "Lugo",
@@ -3466,7 +3805,9 @@
       {
         "name": "Guipúzcoa",
         "short": "SS",
-        "alias": null
+        "alias": [
+          "Guipuzcoa"
+        ]
       },
       {
         "name": "Huesca",
@@ -3476,7 +3817,9 @@
       {
         "name": "Lérida",
         "short": "L",
-        "alias": null
+        "alias": [
+          "Lerida"
+        ]
       },
       {
         "name": "Gerona",
@@ -3496,7 +3839,9 @@
       {
         "name": "Castellón",
         "short": "CS",
-        "alias": null
+        "alias": [
+          "Castellon"
+        ]
       },
       {
         "name": "Valencia",
@@ -3546,7 +3891,9 @@
       {
         "name": "Málaga",
         "short": "MA",
-        "alias": null
+        "alias": [
+          "Malaga"
+        ]
       },
       {
         "name": "Tenerife",
@@ -3556,7 +3903,9 @@
       {
         "name": "Cádiz",
         "short": "CA",
-        "alias": null
+        "alias": [
+          "Cadiz"
+        ]
       },
       {
         "name": "Sevilla",
@@ -3586,7 +3935,9 @@
       {
         "name": "Cáceres",
         "short": "CC",
-        "alias": null
+        "alias": [
+          "Caceres"
+        ]
       },
       {
         "name": "Toledo",
@@ -3606,17 +3957,23 @@
       {
         "name": "Córdoba",
         "short": "CO",
-        "alias": null
+        "alias": [
+          "Cordoba"
+        ]
       },
       {
         "name": "Jaén",
         "short": "J",
-        "alias": null
+        "alias": [
+          "Jaen"
+        ]
       },
       {
         "name": "Ávila",
         "short": "AV",
-        "alias": null
+        "alias": [
+          "Avila"
+        ]
       },
       {
         "name": "Valladolid",
@@ -3631,7 +3988,9 @@
       {
         "name": "Álava",
         "short": "VI",
-        "alias": null
+        "alias": [
+          "Alava"
+        ]
       },
       {
         "name": "Segovia",
@@ -3651,7 +4010,9 @@
       {
         "name": "León",
         "short": "LE",
-        "alias": null
+        "alias": [
+          "Leon"
+        ]
       },
       {
         "name": "Orense",
@@ -3678,7 +4039,8 @@
         "short": "GU",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "ET",
@@ -3710,7 +4072,9 @@
       },
       {
         "name": "Benishangul-Gumuz",
-        "alias": null
+        "alias": [
+          "Benishangul Gumuz"
+        ]
       },
       {
         "name": "Dire Dawa",
@@ -3734,13 +4098,14 @@
       },
       {
         "name": "Southern Nations, Nationalities, and Peoples' Region",
-        "alias": null
+        "alias": "SNNPR"
       },
       {
         "name": "Tigray Region",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "EU",
@@ -3755,7 +4120,8 @@
     "languages": [],
     "name": "European Union",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "FI",
@@ -3773,7 +4139,8 @@
     ],
     "name": "Finland",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "FJ",
@@ -3791,7 +4158,8 @@
     ],
     "name": "Fiji",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "FK",
@@ -3808,7 +4176,8 @@
     ],
     "name": "Falkland Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "FM",
@@ -3823,9 +4192,12 @@
     "languages": [
       "eng"
     ],
-    "name": "Micronesia, Federated States Of",
+    "name": "Federated States of Micronesia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": [
+      "Micronesia"
+    ]
   },
   {
     "alpha2": "FO",
@@ -3843,7 +4215,8 @@
     ],
     "name": "Faroe Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "FQ",
@@ -3854,7 +4227,8 @@
     "languages": [],
     "name": "French Southern and Antarctic Territories",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "FR",
@@ -3871,7 +4245,8 @@
     ],
     "name": "France",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "FX",
@@ -3888,7 +4263,8 @@
     ],
     "name": "France, Metropolitan",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GA",
@@ -3905,599 +4281,8 @@
     ],
     "name": "Gabon",
     "status": "assigned",
-    "provinces": null
-  },
-  {
-    "alpha2": "GB",
-    "alpha3": "GBR",
-    "countryCallingCodes": [
-      "+44"
-    ],
-    "currencies": [
-      "GBP"
-    ],
-    "ioc": "GBR",
-    "languages": [
-      "eng",
-      "cor",
-      "gle",
-      "gla",
-      "cym"
-    ],
-    "name": "United Kingdom",
-    "status": "assigned",
-    "provinces": [
-      {
-        "name": "Avon",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Bedfordshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Berkshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Borders",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Bristol",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Buckinghamshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Cambridgeshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Channel Islands",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Cheshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Cleveland",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Cornwall",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Cumbria",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Derbyshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Devon",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Dorset",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Durham",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "East Riding of Yorkshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "East Sussex",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Essex",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Gloucestershire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Greater Manchester",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Hampshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Herefordshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Hertfordshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Humberside",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Isle of Man",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Isle of Wight",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Isles of Scilly",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Kent",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Lancashire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Leicestershire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Lincolnshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "London",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Merseyside",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Middlesex",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Norfolk",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "North Yorkshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Northamptonshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Northumberland",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Nottinghamshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Oxfordshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Rutland",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Shropshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Somerset",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "South Yorkshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Staffordshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Suffolk",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Surrey",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Tyne and Wear",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Warwickshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "West Midlands",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "West Sussex",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "West Yorkshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Wiltshire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Worcestershire",
-        "region": "England",
-        "alias": null
-      },
-      {
-        "name": "Antrim",
-        "region": "Northern Ireland",
-        "alias": null
-      },
-      {
-        "name": "Down",
-        "region": "Northern Ireland",
-        "alias": null
-      },
-      {
-        "name": "Fermanagh",
-        "region": "Northern Ireland",
-        "alias": null
-      },
-      {
-        "name": "Londonderry",
-        "region": "Northern Ireland",
-        "alias": null
-      },
-      {
-        "name": "Tyrone",
-        "region": "Northern Ireland",
-        "alias": null
-      },
-      {
-        "name": "Aberdeen City",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Aberdeenshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Angus",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Argyll and Bute",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Armagh",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Carmarthenshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Clackmannan",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Dumfries and Galloway",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "East Ayrshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "East Dunbartonshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "East Lothian",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "East Renfrewshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Edinburgh City",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Falkirk",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Fife",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Glasgow",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Highland",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Inverclyde",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Midlothian",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Moray",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "North Ayrshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "North Lanarkshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Orkney",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Perthshire and Kinross",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Renfrewshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Roxburghshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Shetland",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "South Ayrshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "South Lanarkshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Stirling",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "West Dunbartonshire",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "West Lothian",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Western Isles",
-        "region": "Scotland",
-        "alias": null
-      },
-      {
-        "name": "Blaenau Gwent",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Bridgend",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Caerphilly",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Cardiff",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Ceredigion",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Conwy",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Denbighshire",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Flintshire",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Gwynedd",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Isle of Anglesey",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Merthyr Tydfil",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Monmouthshire",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Neath Port Talbot",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Newport",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Pembrokeshire",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Powys",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Rhondda Cynon Taff",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Swansea",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "The Vale of Glamorgan",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Torfaen",
-        "region": "Wales",
-        "alias": null
-      },
-      {
-        "name": "Wrexham",
-        "region": "Wales",
-        "alias": null
-      }
-    ]
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GD",
@@ -4514,7 +4299,8 @@
     ],
     "name": "Grenada",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GE",
@@ -4531,7 +4317,8 @@
     ],
     "name": "Georgia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GE",
@@ -4542,7 +4329,8 @@
     "languages": [],
     "name": "Gilbert and Ellice Islands",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GF",
@@ -4559,7 +4347,8 @@
     ],
     "name": "French Guiana",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GG",
@@ -4576,7 +4365,8 @@
     ],
     "name": "Guernsey",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GH",
@@ -4593,7 +4383,8 @@
     ],
     "name": "Ghana",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GI",
@@ -4610,7 +4401,8 @@
     ],
     "name": "Gibraltar",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GL",
@@ -4627,7 +4419,8 @@
     ],
     "name": "Greenland",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GM",
@@ -4644,7 +4437,8 @@
     ],
     "name": "Gambia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GN",
@@ -4661,7 +4455,8 @@
     ],
     "name": "Guinea",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GP",
@@ -4678,7 +4473,8 @@
     ],
     "name": "Guadeloupe",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GQ",
@@ -4697,7 +4493,8 @@
     ],
     "name": "Equatorial Guinea",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GR",
@@ -4714,7 +4511,8 @@
     ],
     "name": "Greece",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GS",
@@ -4729,7 +4527,8 @@
     ],
     "name": "South Georgia And The South Sandwich Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GT",
@@ -4746,7 +4545,8 @@
     ],
     "name": "Guatemala",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GU",
@@ -4763,7 +4563,8 @@
     ],
     "name": "Guam",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GW",
@@ -4778,9 +4579,13 @@
     "languages": [
       "por"
     ],
-    "name": "Guinea-bissau",
+    "name": "Republic of Guinea-Bissau",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": [
+      "Guinea-Bissau",
+      "Guinea Bissau"
+    ]
   },
   {
     "alpha2": "GY",
@@ -4797,7 +4602,8 @@
     ],
     "name": "Guyana",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "HK",
@@ -4815,7 +4621,8 @@
     ],
     "name": "Hong Kong",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "HM",
@@ -4828,7 +4635,8 @@
     "languages": [],
     "name": "Heard Island And McDonald Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "HN",
@@ -4845,7 +4653,8 @@
     ],
     "name": "Honduras",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "HR",
@@ -4862,7 +4671,8 @@
     ],
     "name": "Croatia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "HT",
@@ -4881,7 +4691,8 @@
     ],
     "name": "Haiti",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "HU",
@@ -4898,7 +4709,8 @@
     ],
     "name": "Hungary",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "HV",
@@ -4909,7 +4721,8 @@
     "languages": [],
     "name": "Upper Volta",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "IC",
@@ -4922,7 +4735,8 @@
     "languages": [],
     "name": "Canary Islands",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ID",
@@ -4953,7 +4767,9 @@
       {
         "short": "ID-BB",
         "name": "Bangka–Belitung Islands",
-        "alias": null
+        "alias": [
+          "Bangka Belitung Islands"
+        ]
       },
       {
         "short": "ID-BT",
@@ -5110,7 +4926,8 @@
         "name": "Special Region of Yogyakarta",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "IE",
@@ -5128,7 +4945,8 @@
     ],
     "name": "Ireland",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "IL",
@@ -5147,7 +4965,8 @@
     ],
     "name": "Israel",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "IM",
@@ -5165,7 +4984,8 @@
     ],
     "name": "Isle Of Man",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "IN",
@@ -5364,7 +5184,8 @@
         "name": "Puducherry",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "IO",
@@ -5381,7 +5202,8 @@
     ],
     "name": "British Indian Ocean Territory",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "IQ",
@@ -5399,7 +5221,8 @@
     ],
     "name": "Iraq",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "IR",
@@ -5414,9 +5237,10 @@
     "languages": [
       "fas"
     ],
-    "name": "Iran, Islamic Republic Of",
+    "name": "Iran",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "IS",
@@ -5433,7 +5257,8 @@
     ],
     "name": "Iceland",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "IT",
@@ -5450,7 +5275,8 @@
     ],
     "name": "Italy",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "JE",
@@ -5468,7 +5294,8 @@
     ],
     "name": "Jersey",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "JM",
@@ -5485,7 +5312,8 @@
     ],
     "name": "Jamaica",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "JO",
@@ -5551,7 +5379,8 @@
         "name": "Aqaba",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "JP",
@@ -5644,7 +5473,8 @@
       {
         "name": "兵庫県",
         "alias": [
-          "Hyōgo"
+          "Hyōgo",
+          "Hyogo"
         ]
       },
       {
@@ -5686,7 +5516,8 @@
       {
         "name": "高知県",
         "alias": [
-          "Kōchi"
+          "Kōchi",
+          "Kochi"
         ]
       },
       {
@@ -5698,7 +5529,8 @@
       {
         "name": "京都府",
         "alias": [
-          "Kyōto"
+          "Kyōto",
+          "Kyoto"
         ]
       },
       {
@@ -5746,7 +5578,8 @@
       {
         "name": "大分県",
         "alias": [
-          "Ōita"
+          "Ōita",
+          "Oita"
         ]
       },
       {
@@ -5812,7 +5645,8 @@
       {
         "name": "東京都",
         "alias": [
-          "Tōkyō"
+          "Tōkyō",
+          "Tokyo"
         ]
       },
       {
@@ -5851,7 +5685,8 @@
           "Yamanashi"
         ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "JT",
@@ -5862,7 +5697,8 @@
     "languages": [],
     "name": "Johnston Island",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KE",
@@ -5880,7 +5716,8 @@
     ],
     "name": "Kenya",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KG",
@@ -5897,7 +5734,8 @@
     ],
     "name": "Kyrgyzstan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KH",
@@ -5984,7 +5822,8 @@
       {
         "name": "ក្រចេះ",
         "alias": [
-          "Kratié"
+          "Kratié",
+          "Kratie"
         ]
       },
       {
@@ -6056,7 +5895,8 @@
       {
         "name": "តាកែវ",
         "alias": [
-          "Takéo"
+          "Takéo",
+          "Takeo"
         ]
       },
       {
@@ -6065,7 +5905,8 @@
           "Tbong Khmum"
         ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "KI",
@@ -6082,7 +5923,8 @@
     ],
     "name": "Kiribati",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KM",
@@ -6100,7 +5942,8 @@
     ],
     "name": "Comoros",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KN",
@@ -6117,7 +5960,8 @@
     ],
     "name": "Saint Kitts And Nevis",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KP",
@@ -6132,9 +5976,10 @@
     "languages": [
       "kor"
     ],
-    "name": "Korea, Democratic People's Republic Of",
+    "name": "North Korea",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KR",
@@ -6149,9 +5994,10 @@
     "languages": [
       "kor"
     ],
-    "name": "Korea, Republic Of",
+    "name": "South Korea",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KW",
@@ -6168,7 +6014,8 @@
     ],
     "name": "Kuwait",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KY",
@@ -6185,7 +6032,8 @@
     ],
     "name": "Cayman Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "KZ",
@@ -6205,7 +6053,8 @@
     ],
     "name": "Kazakhstan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LA",
@@ -6220,9 +6069,10 @@
     "languages": [
       "lao"
     ],
-    "name": "Lao People's Democratic Republic",
+    "name": "Laos",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LB",
@@ -6240,7 +6090,8 @@
     ],
     "name": "Lebanon",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LC",
@@ -6257,7 +6108,8 @@
     ],
     "name": "Saint Lucia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LI",
@@ -6274,7 +6126,8 @@
     ],
     "name": "Liechtenstein",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LK",
@@ -6292,7 +6145,8 @@
     ],
     "name": "Sri Lanka",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LR",
@@ -6309,7 +6163,8 @@
     ],
     "name": "Liberia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LS",
@@ -6328,7 +6183,8 @@
     ],
     "name": "Lesotho",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LT",
@@ -6345,7 +6201,8 @@
     ],
     "name": "Lithuania",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LU",
@@ -6364,7 +6221,8 @@
     ],
     "name": "Luxembourg",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LV",
@@ -6381,7 +6239,8 @@
     ],
     "name": "Latvia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "LY",
@@ -6398,7 +6257,8 @@
     ],
     "name": "Libya",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MA",
@@ -6415,7 +6275,8 @@
     ],
     "name": "Morocco",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MC",
@@ -6432,7 +6293,8 @@
     ],
     "name": "Monaco",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MD",
@@ -6449,7 +6311,8 @@
     ],
     "name": "Moldova",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ME",
@@ -6466,7 +6329,8 @@
     ],
     "name": "Montenegro",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MF",
@@ -6483,7 +6347,8 @@
     ],
     "name": "Saint Martin",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MG",
@@ -6501,7 +6366,8 @@
     ],
     "name": "Madagascar",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MH",
@@ -6519,7 +6385,8 @@
     ],
     "name": "Marshall Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MI",
@@ -6530,7 +6397,8 @@
     "languages": [],
     "name": "Midway Islands",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MK",
@@ -6545,9 +6413,10 @@
     "languages": [
       "mkd"
     ],
-    "name": "Macedonia, The Former Yugoslav Republic Of",
+    "name": "Macedonia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ML",
@@ -6564,7 +6433,8 @@
     ],
     "name": "Mali",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MM",
@@ -6581,7 +6451,8 @@
     ],
     "name": "Myanmar",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MN",
@@ -6598,7 +6469,8 @@
     ],
     "name": "Mongolia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MO",
@@ -6616,7 +6488,8 @@
     ],
     "name": "Macao",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MP",
@@ -6633,7 +6506,8 @@
     ],
     "name": "Northern Mariana Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MQ",
@@ -6648,7 +6522,8 @@
     "languages": [],
     "name": "Martinique",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MR",
@@ -6666,7 +6541,8 @@
     ],
     "name": "Mauritania",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MS",
@@ -6681,7 +6557,8 @@
     "languages": [],
     "name": "Montserrat",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MT",
@@ -6699,7 +6576,8 @@
     ],
     "name": "Malta",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MU",
@@ -6717,7 +6595,8 @@
     ],
     "name": "Mauritius",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MV",
@@ -6734,7 +6613,8 @@
     ],
     "name": "Maldives",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MW",
@@ -6752,7 +6632,8 @@
     ],
     "name": "Malawi",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MX",
@@ -6891,7 +6772,8 @@
         "short": "MI",
         "alias": [
           "Mich",
-          "MIC"
+          "MIC",
+          "Michoacan"
         ]
       },
       {
@@ -6914,7 +6796,8 @@
         "name": "Nuevo León",
         "short": "NL",
         "alias": [
-          "NLE"
+          "NLE",
+          "Nuevo Leon"
         ]
       },
       {
@@ -6938,7 +6821,8 @@
         "short": "QE",
         "alias": [
           "Qro",
-          "QUE"
+          "QUE",
+          "Queretaro"
         ]
       },
       {
@@ -6953,7 +6837,8 @@
         "name": "San Luis Potosí",
         "short": "SL",
         "alias": [
-          "SLP"
+          "SLP",
+          "San Luis Potosi"
         ]
       },
       {
@@ -7004,7 +6889,8 @@
         "name": "Yucatán",
         "short": "YU",
         "alias": [
-          "YUC"
+          "YUC",
+          "Yucatan"
         ]
       },
       {
@@ -7014,7 +6900,8 @@
           "ZAC"
         ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "MY",
@@ -7032,7 +6919,8 @@
     ],
     "name": "Malaysia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "MZ",
@@ -7049,7 +6937,8 @@
     ],
     "name": "Mozambique",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NA",
@@ -7067,7 +6956,8 @@
     ],
     "name": "Namibia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NC",
@@ -7084,7 +6974,8 @@
     ],
     "name": "New Caledonia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NE",
@@ -7101,7 +6992,8 @@
     ],
     "name": "Niger",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NF",
@@ -7118,7 +7010,8 @@
     ],
     "name": "Norfolk Island",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NG",
@@ -7184,7 +7077,8 @@
         "name": "Ebonyi",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "NH",
@@ -7195,7 +7089,8 @@
     "languages": [],
     "name": "New Hebrides",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NI",
@@ -7212,7 +7107,8 @@
     ],
     "name": "Nicaragua",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NL",
@@ -7263,12 +7159,16 @@
       {
         "short": "NB",
         "name": "Noord-Brabant",
-        "alias": null
+        "alias": [
+          "Noord Brabant"
+        ]
       },
       {
         "short": "NH",
         "name": "Noord-Holland",
-        "alias": null
+        "alias": [
+          "Noord Holland"
+        ]
       },
       {
         "short": "OV",
@@ -7283,7 +7183,9 @@
       {
         "short": "ZH",
         "name": "Zuid-Holland",
-        "alias": null
+        "alias": [
+          "Zuid Holland"
+        ]
       },
       {
         "short": "ZL",
@@ -7320,7 +7222,8 @@
         "name": "Sint Maarten",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "NO",
@@ -7337,7 +7240,8 @@
     ],
     "name": "Norway",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NP",
@@ -7354,7 +7258,8 @@
     ],
     "name": "Nepal",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NQ",
@@ -7365,7 +7270,8 @@
     "languages": [],
     "name": "Dronning Maud Land",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NR",
@@ -7383,7 +7289,8 @@
     ],
     "name": "Nauru",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NT",
@@ -7394,7 +7301,8 @@
     "languages": [],
     "name": "Neutral Zone",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NU",
@@ -7411,7 +7319,8 @@
     ],
     "name": "Niue",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "NZ",
@@ -7428,7 +7337,8 @@
     ],
     "name": "New Zealand",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "OM",
@@ -7445,7 +7355,8 @@
     ],
     "name": "Oman",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PA",
@@ -7463,7 +7374,8 @@
     ],
     "name": "Panama",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PC",
@@ -7472,9 +7384,10 @@
     "currencies": [],
     "ioc": "",
     "languages": [],
-    "name": "Pacific Islands, Trust Territory of the",
+    "name": "Trust Territory of the Pacific Islands",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PE",
@@ -7507,7 +7420,9 @@
       {
         "name": "Bongará",
         "region": "Amazonas",
-        "alias": null
+        "alias": [
+          "Bongara"
+        ]
       },
       {
         "name": "Condorcanqui",
@@ -7522,7 +7437,9 @@
       {
         "name": "Rodríguez de Mendoza",
         "region": "Amazonas",
-        "alias": null
+        "alias": [
+          "Rodriguez de Mendoza"
+        ]
       },
       {
         "name": "Utcubamba",
@@ -7547,7 +7464,9 @@
       {
         "name": "Asunción",
         "region": "Ancash",
-        "alias": null
+        "alias": [
+          "Asuncion"
+        ]
       },
       {
         "name": "Bolognesi",
@@ -7562,7 +7481,9 @@
       {
         "name": "Carlos Fermín Fitzcarrald",
         "region": "Ancash",
-        "alias": null
+        "alias": [
+          "Carlos Fermin Fitzcarrald"
+        ]
       },
       {
         "name": "Casma",
@@ -7672,12 +7593,16 @@
       {
         "name": "Camaná",
         "region": "Arequipa",
-        "alias": null
+        "alias": [
+          "Camana"
+        ]
       },
       {
         "name": "Caravelí",
         "region": "Arequipa",
-        "alias": null
+        "alias": [
+          "Caraveli"
+        ]
       },
       {
         "name": "Castilla",
@@ -7702,7 +7627,9 @@
       {
         "name": "La Unión",
         "region": "Arequipa",
-        "alias": null
+        "alias": [
+          "La Union"
+        ]
       },
       {
         "name": "Huamanga",
@@ -7742,7 +7669,9 @@
       {
         "name": "Páucar del Sara Sara",
         "region": "Ayacucho",
-        "alias": null
+        "alias": [
+          "Paucar del Sara Sara"
+        ]
       },
       {
         "name": "Sucre",
@@ -7752,12 +7681,16 @@
       {
         "name": "Víctor Fajardo",
         "region": "Ayacucho",
-        "alias": null
+        "alias": [
+          "Victor Fajardo"
+        ]
       },
       {
         "name": "Vilcas Huamán",
         "region": "Ayacucho",
-        "alias": null
+        "alias": [
+          "Vilcas Huaman"
+        ]
       },
       {
         "name": "Cajamarca",
@@ -7772,7 +7705,9 @@
       {
         "name": "Celendín",
         "region": "Cajamarca",
-        "alias": null
+        "alias": [
+          "Celendin"
+        ]
       },
       {
         "name": "Chota",
@@ -7782,7 +7717,9 @@
       {
         "name": "Contumazá",
         "region": "Cajamarca",
-        "alias": null
+        "alias": [
+          "Contumaza"
+        ]
       },
       {
         "name": "Cutervo",
@@ -7797,7 +7734,9 @@
       {
         "name": "Jaén",
         "region": "Cajamarca",
-        "alias": null
+        "alias": [
+          "Jaen"
+        ]
       },
       {
         "name": "San Ignacio",
@@ -7872,7 +7811,9 @@
       {
         "name": "La Convención",
         "region": "Cusco",
-        "alias": null
+        "alias": [
+          "La Convencion"
+        ]
       },
       {
         "name": "Paruro",
@@ -7922,7 +7863,9 @@
       {
         "name": "Huaytará",
         "region": "Huancavelica",
-        "alias": null
+        "alias": [
+          "Huaytara"
+        ]
       },
       {
         "name": "Tayacaja",
@@ -7932,7 +7875,9 @@
       {
         "name": "Huánuco",
         "region": "Huánuco",
-        "alias": null
+        "alias": [
+          "Huanuco"
+        ]
       },
       {
         "name": "Ambo",
@@ -7952,7 +7897,9 @@
       {
         "name": "Huamalíes",
         "region": "Huánuco",
-        "alias": null
+        "alias": [
+          "Huamalies"
+        ]
       },
       {
         "name": "Leoncio Prado",
@@ -7962,7 +7909,9 @@
       {
         "name": "Marañón",
         "region": "Huánuco",
-        "alias": null
+        "alias": [
+          "Maranon"
+        ]
       },
       {
         "name": "Pachitea",
@@ -8017,7 +7966,9 @@
       {
         "name": "Concepción",
         "region": "Junín",
-        "alias": null
+        "alias": [
+          "Concepcion"
+        ]
       },
       {
         "name": "Chanchamayo",
@@ -8032,7 +7983,9 @@
       {
         "name": "Junín",
         "region": "Junín",
-        "alias": null
+        "alias": [
+          "Junin"
+        ]
       },
       {
         "name": "Satipo",
@@ -8067,17 +8020,23 @@
       {
         "name": "Bolívar",
         "region": "La Libertad",
-        "alias": null
+        "alias": [
+          "Bolivar"
+        ]
       },
       {
         "name": "Chepén",
         "region": "La Libertad",
-        "alias": null
+        "alias": [
+          "Chepen"
+        ]
       },
       {
         "name": "Julcán",
         "region": "La Libertad",
-        "alias": null
+        "alias": [
+          "Julcan"
+        ]
       },
       {
         "name": "Otuzco",
@@ -8097,7 +8056,9 @@
       {
         "name": "Sánchez Carrión",
         "region": "La Libertad",
-        "alias": null
+        "alias": [
+          "Sanchez Carrion"
+        ]
       },
       {
         "name": "Santiago de Chuco",
@@ -8107,12 +8068,16 @@
       {
         "name": "Gran Chimú",
         "region": "La Libertad",
-        "alias": null
+        "alias": [
+          "Gran Chimu"
+        ]
       },
       {
         "name": "Virú",
         "region": "La Libertad",
-        "alias": null
+        "alias": [
+          "Viru"
+        ]
       },
       {
         "name": "Chiclayo",
@@ -8122,7 +8087,9 @@
       {
         "name": "Ferreñafe",
         "region": "Lambayeque",
-        "alias": null
+        "alias": [
+          "Ferrenafe"
+        ]
       },
       {
         "name": "Lambayeque",
@@ -8157,7 +8124,9 @@
       {
         "name": "Cañete",
         "region": "Lima",
-        "alias": null
+        "alias": [
+          "Canete"
+        ]
       },
       {
         "name": "Huaral",
@@ -8172,7 +8141,9 @@
       {
         "name": "Oyón",
         "region": "Lima",
-        "alias": null
+        "alias": [
+          "Oyon"
+        ]
       },
       {
         "name": "Yauyos",
@@ -8185,7 +8156,7 @@
         "alias": null
       },
       {
-        "name": "aliaso Amazonas",
+        "name": "Aliaso Amazonas",
         "region": "Loreto",
         "alias": null
       },
@@ -8197,7 +8168,9 @@
       {
         "name": "Mariscal Ramón Castilla",
         "region": "Loreto",
-        "alias": null
+        "alias": [
+          "Mariscal Ramon Castilla"
+        ]
       },
       {
         "name": "Putumayo",
@@ -8217,7 +8190,9 @@
       {
         "name": "Datem del Marañón",
         "region": "Loreto",
-        "alias": null
+        "alias": [
+          "Datem del Maranon"
+        ]
       },
       {
         "name": "Tambopata",
@@ -8227,7 +8202,9 @@
       {
         "name": "Manú",
         "region": "Madre de Dios",
-        "alias": null
+        "alias": [
+          "Manu"
+        ]
       },
       {
         "name": "Tahuamanu",
@@ -8242,7 +8219,9 @@
       {
         "name": "General Sánchez Cerro",
         "region": "Moquegua",
-        "alias": null
+        "alias": [
+          "General Sanchez Cerro"
+        ]
       },
       {
         "name": "Ilo",
@@ -8257,7 +8236,9 @@
       {
         "name": "Daniel Alcídes Carrión",
         "region": "Pasco",
-        "alias": null
+        "alias": [
+          "Daniel Alcides Carrion"
+        ]
       },
       {
         "name": "Oxapampa",
@@ -8282,7 +8263,9 @@
       {
         "name": "Morropón",
         "region": "Piura",
-        "alias": null
+        "alias": [
+          "Morropon"
+        ]
       },
       {
         "name": "Paita",
@@ -8312,7 +8295,9 @@
       {
         "name": "Azángaro",
         "region": "Puno",
-        "alias": null
+        "alias": [
+          "Azangaro"
+        ]
       },
       {
         "name": "Carabaya",
@@ -8332,7 +8317,9 @@
       {
         "name": "Huancané",
         "region": "Puno",
-        "alias": null
+        "alias": [
+          "Huancane"
+        ]
       },
       {
         "name": "Lampa",
@@ -8357,7 +8344,9 @@
       {
         "name": "San Román",
         "region": "Puno",
-        "alias": null
+        "alias": [
+          "San Roman"
+        ]
       },
       {
         "name": "Sandia",
@@ -8397,7 +8386,9 @@
       {
         "name": "Mariscal Cáceres",
         "region": "San Martín",
-        "alias": null
+        "alias": [
+          "Mariscal Caceres"
+        ]
       },
       {
         "name": "Picota",
@@ -8412,7 +8403,9 @@
       {
         "name": "San Martín",
         "region": "San Martín",
-        "alias": null
+        "alias": [
+          "San Martin"
+        ]
       },
       {
         "name": "Tocache",
@@ -8472,9 +8465,12 @@
       {
         "name": "Purús",
         "region": "Ucayali",
-        "alias": null
+        "alias": [
+          "Purus"
+        ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "PF",
@@ -8491,7 +8487,8 @@
     ],
     "name": "French Polynesia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PG",
@@ -8508,7 +8505,8 @@
     ],
     "name": "Papua New Guinea",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PH",
@@ -8832,7 +8830,9 @@
       },
       {
         "name": "Tawi-Tawi",
-        "alias": null
+        "alias": [
+          "Tawi Tawi"
+        ]
       },
       {
         "name": "Zambales",
@@ -8854,7 +8854,8 @@
         "name": "Metro Manila",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "PK",
@@ -8898,8 +8899,11 @@
         "alias": null
       },
       {
-        "name": "F.A.T.A.",
-        "alias": null
+        "name": "Federally Administered Tribal Areas",
+        "alias": [
+          "FATA",
+          "F.A.T.A."
+        ]
       },
       {
         "name": "Gujranwala",
@@ -8997,7 +9001,8 @@
         "name": "Zhob",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "PL",
@@ -9014,7 +9019,8 @@
     ],
     "name": "Poland",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PM",
@@ -9031,7 +9037,8 @@
     ],
     "name": "Saint Pierre And Miquelon",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PN",
@@ -9048,7 +9055,8 @@
     ],
     "name": "Pitcairn",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PR",
@@ -9067,7 +9075,8 @@
     ],
     "name": "Puerto Rico",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PS",
@@ -9086,7 +9095,8 @@
     ],
     "name": "Palestinian Territory, Occupied",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PT",
@@ -9103,7 +9113,8 @@
     ],
     "name": "Portugal",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PU",
@@ -9114,7 +9125,8 @@
     "languages": [],
     "name": "U.S. Miscellaneous Pacific Islands",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PW",
@@ -9131,7 +9143,8 @@
     ],
     "name": "Palau",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PY",
@@ -9148,7 +9161,8 @@
     ],
     "name": "Paraguay",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "PZ",
@@ -9159,7 +9173,8 @@
     "languages": [],
     "name": "Panama Canal Zone",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "QA",
@@ -9176,7 +9191,8 @@
     ],
     "name": "Qatar",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "RE",
@@ -9193,7 +9209,8 @@
     ],
     "name": "Reunion",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "RH",
@@ -9204,7 +9221,8 @@
     "languages": [],
     "name": "Southern Rhodesia",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "RO",
@@ -9221,7 +9239,8 @@
     ],
     "name": "Romania",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "RS",
@@ -9238,7 +9257,8 @@
     ],
     "name": "Serbia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "RU",
@@ -9256,9 +9276,10 @@
     "languages": [
       "rus"
     ],
-    "name": "Russian Federation",
+    "name": "Russia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "RW",
@@ -9277,7 +9298,8 @@
     ],
     "name": "Rwanda",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SA",
@@ -9294,7 +9316,8 @@
     ],
     "name": "Saudi Arabia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SB",
@@ -9311,7 +9334,8 @@
     ],
     "name": "Solomon Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SC",
@@ -9329,7 +9353,8 @@
     ],
     "name": "Seychelles",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SD",
@@ -9347,7 +9372,8 @@
     ],
     "name": "Sudan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SE",
@@ -9364,7 +9390,8 @@
     ],
     "name": "Sweden",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SG",
@@ -9384,7 +9411,8 @@
     ],
     "name": "Singapore",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SH",
@@ -9401,7 +9429,8 @@
     ],
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SI",
@@ -9418,7 +9447,8 @@
     ],
     "name": "Slovenia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SJ",
@@ -9433,7 +9463,8 @@
     "languages": [],
     "name": "Svalbard And Jan Mayen",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SK",
@@ -9450,7 +9481,8 @@
     ],
     "name": "Slovakia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SK",
@@ -9461,7 +9493,8 @@
     "languages": [],
     "name": "Sikkim",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SL",
@@ -9478,7 +9511,8 @@
     ],
     "name": "Sierra Leone",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SM",
@@ -9495,7 +9529,8 @@
     ],
     "name": "San Marino",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SN",
@@ -9512,7 +9547,8 @@
     ],
     "name": "Senegal",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SO",
@@ -9529,7 +9565,8 @@
     ],
     "name": "Somalia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SR",
@@ -9546,7 +9583,8 @@
     ],
     "name": "Suriname",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SS",
@@ -9563,7 +9601,8 @@
     ],
     "name": "South Sudan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ST",
@@ -9580,7 +9619,8 @@
     ],
     "name": "Sao Tome and Principe",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SU",
@@ -9595,7 +9635,8 @@
     ],
     "name": "USSR",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SV",
@@ -9612,7 +9653,8 @@
     ],
     "name": "El Salvador",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SX",
@@ -9629,7 +9671,8 @@
     ],
     "name": "Sint Maarten",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SY",
@@ -9644,9 +9687,10 @@
     "languages": [
       "ara"
     ],
-    "name": "Syrian Arab Republic",
+    "name": "Syria",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "SZ",
@@ -9664,7 +9708,8 @@
     ],
     "name": "Swaziland",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TA",
@@ -9679,7 +9724,8 @@
     "languages": [],
     "name": "Tristan de Cunha",
     "status": "reserved",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TC",
@@ -9696,7 +9742,8 @@
     ],
     "name": "Turks And Caicos Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TD",
@@ -9714,7 +9761,8 @@
     ],
     "name": "Chad",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TF",
@@ -9729,7 +9777,8 @@
     ],
     "name": "French Southern Territories",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TG",
@@ -9746,7 +9795,8 @@
     ],
     "name": "Togo",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TH",
@@ -9763,7 +9813,8 @@
     ],
     "name": "Thailand",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TJ",
@@ -9781,7 +9832,8 @@
     ],
     "name": "Tajikistan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TK",
@@ -9798,7 +9850,8 @@
     ],
     "name": "Tokelau",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TL",
@@ -9813,9 +9866,13 @@
     "languages": [
       "por"
     ],
-    "name": "Timor-Leste, Democratic Republic of",
+    "name": "East Timor",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": [
+      "Timor-Leste",
+      "Timor Leste"
+    ]
   },
   {
     "alpha2": "TM",
@@ -9833,7 +9890,8 @@
     ],
     "name": "Turkmenistan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TN",
@@ -9850,7 +9908,8 @@
     ],
     "name": "Tunisia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TO",
@@ -9867,18 +9926,8 @@
     ],
     "name": "Tonga",
     "status": "assigned",
-    "provinces": null
-  },
-  {
-    "alpha2": "TP",
-    "alpha3": "TMP",
-    "countryCallingCodes": [],
-    "currencies": [],
-    "ioc": "",
-    "languages": [],
-    "name": "East Timor",
-    "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TR",
@@ -9902,7 +9951,9 @@
       },
       {
         "name": "Adıyaman",
-        "alias": null
+        "alias": [
+          "Adiyaman"
+        ]
       },
       {
         "name": "Afyonkarahisar",
@@ -9910,7 +9961,9 @@
       },
       {
         "name": "Ağrı",
-        "alias": null
+        "alias": [
+          "Agri"
+        ]
       },
       {
         "name": "Amasya",
@@ -9930,11 +9983,15 @@
       },
       {
         "name": "Aydın",
-        "alias": null
+        "alias": [
+          "Aydin"
+        ]
       },
       {
         "name": "Balıkesir",
-        "alias": null
+        "alias": [
+          "Balikesir"
+        ]
       },
       {
         "name": "Bilecik",
@@ -9942,7 +9999,9 @@
       },
       {
         "name": "Bingöl",
-        "alias": null
+        "alias": [
+          "Bingol"
+        ]
       },
       {
         "name": "Bitlis",
@@ -9962,15 +10021,21 @@
       },
       {
         "name": "Çanakkale",
-        "alias": null
+        "alias": [
+          "Canakkale"
+        ]
       },
       {
         "name": "Çankırı",
-        "alias": null
+        "alias": [
+          "Cankiri"
+        ]
       },
       {
         "name": "Çorum",
-        "alias": null
+        "alias": [
+          "Corum"
+        ]
       },
       {
         "name": "Denizli",
@@ -9978,7 +10043,9 @@
       },
       {
         "name": "Diyarbakır",
-        "alias": null
+        "alias": [
+          "Diyarbakir"
+        ]
       },
       {
         "name": "Edirne",
@@ -9986,7 +10053,9 @@
       },
       {
         "name": "Elazığ",
-        "alias": null
+        "alias": [
+          "Elazig"
+        ]
       },
       {
         "name": "Erzincan",
@@ -9998,7 +10067,9 @@
       },
       {
         "name": "Eskişehir",
-        "alias": null
+        "alias": [
+          "Eskisehir"
+        ]
       },
       {
         "name": "Gaziantep",
@@ -10010,11 +10081,15 @@
       },
       {
         "name": "Gümüşhane",
-        "alias": null
+        "alias": [
+          "Gumushane"
+        ]
       },
       {
         "name": "Hakkâri",
-        "alias": null
+        "alias": [
+          "Hakkari"
+        ]
       },
       {
         "name": "Hatay",
@@ -10034,7 +10109,9 @@
       },
       {
         "name": "İzmir",
-        "alias": null
+        "alias": [
+          "Izmir"
+        ]
       },
       {
         "name": "Kars",
@@ -10054,7 +10131,9 @@
       },
       {
         "name": "Kırşehir",
-        "alias": null
+        "alias": [
+          "Kırsehir"
+        ]
       },
       {
         "name": "Kocaeli",
@@ -10066,7 +10145,9 @@
       },
       {
         "name": "Kütahya",
-        "alias": null
+        "alias": [
+          "Kutahya"
+        ]
       },
       {
         "name": "Malatya",
@@ -10078,7 +10159,9 @@
       },
       {
         "name": "Kahramanmaraş",
-        "alias": null
+        "alias": [
+          "Kahramanmaras"
+        ]
       },
       {
         "name": "Mardin",
@@ -10086,19 +10169,25 @@
       },
       {
         "name": "Muğla",
-        "alias": null
+        "alias": "Mugla"
       },
       {
         "name": "Muş",
-        "alias": null
+        "alias": [
+          "Mus"
+        ]
       },
       {
         "name": "Nevşehir",
-        "alias": null
+        "alias": [
+          "Nevsehir"
+        ]
       },
       {
         "name": "Niğde",
-        "alias": null
+        "alias": [
+          "Nigde"
+        ]
       },
       {
         "name": "Ordu",
@@ -10130,7 +10219,9 @@
       },
       {
         "name": "Tekirdağ",
-        "alias": null
+        "alias": [
+          "Tekirdag"
+        ]
       },
       {
         "name": "Tokat",
@@ -10146,11 +10237,15 @@
       },
       {
         "name": "Şanlıurfa",
-        "alias": null
+        "alias": [
+          "Sanliurfa"
+        ]
       },
       {
         "name": "Uşak",
-        "alias": null
+        "alias": [
+          "Usak"
+        ]
       },
       {
         "name": "Van",
@@ -10178,7 +10273,9 @@
       },
       {
         "name": "Kırıkkale",
-        "alias": null
+        "alias": [
+          "Kirikkale"
+        ]
       },
       {
         "name": "Batman",
@@ -10186,11 +10283,15 @@
       },
       {
         "name": "Şırnak",
-        "alias": null
+        "alias": [
+          "Sirnak"
+        ]
       },
       {
         "name": "Bartın",
-        "alias": null
+        "alias": [
+          "Bartin"
+        ]
       },
       {
         "name": "Ardahan",
@@ -10198,7 +10299,9 @@
       },
       {
         "name": "Iğdır",
-        "alias": null
+        "alias": [
+          "Igdir"
+        ]
       },
       {
         "name": "Yalova",
@@ -10206,7 +10309,9 @@
       },
       {
         "name": "Karabük",
-        "alias": null
+        "alias": [
+          "Karabuk"
+        ]
       },
       {
         "name": "Kilis",
@@ -10218,9 +10323,12 @@
       },
       {
         "name": "Düzce",
-        "alias": null
+        "alias": [
+          "Duzce"
+        ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "TT",
@@ -10237,7 +10345,8 @@
     ],
     "name": "Trinidad And Tobago",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TV",
@@ -10254,7 +10363,8 @@
     ],
     "name": "Tuvalu",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TW",
@@ -10271,7 +10381,8 @@
     ],
     "name": "Taiwan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "TZ",
@@ -10287,9 +10398,10 @@
       "swa",
       "eng"
     ],
-    "name": "Tanzania, United Republic Of",
+    "name": "Tanzania",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "UA",
@@ -10307,7 +10419,8 @@
     ],
     "name": "Ukraine",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "UG",
@@ -10325,7 +10438,8 @@
     ],
     "name": "Uganda",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "GB",
@@ -10430,7 +10544,9 @@
       {
         "name": "East Riding of Yorkshire",
         "region": "England",
-        "alias": null
+        "alias": [
+          "East Yorkshire"
+        ]
       },
       {
         "name": "East Sussex",
@@ -10905,7 +11021,9 @@
       {
         "name": "The Vale of Glamorgan",
         "region": "Wales",
-        "alias": null
+        "alias": [
+          "The Vale"
+        ]
       },
       {
         "name": "Torfaen",
@@ -10917,7 +11035,8 @@
         "region": "Wales",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "UM",
@@ -10934,7 +11053,8 @@
     ],
     "name": "United States Minor Outlying Islands",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "US",
@@ -11237,7 +11357,8 @@
         "name": "Virgin Islands",
         "alias": null
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "UY",
@@ -11255,7 +11376,8 @@
     ],
     "name": "Uruguay",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "UZ",
@@ -11273,7 +11395,8 @@
     ],
     "name": "Uzbekistan",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "VA",
@@ -11291,7 +11414,8 @@
     ],
     "name": "Vatican City State",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "VC",
@@ -11308,7 +11432,8 @@
     ],
     "name": "Saint Vincent And The Grenadines",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "VD",
@@ -11317,9 +11442,10 @@
     "currencies": [],
     "ioc": "",
     "languages": [],
-    "name": "Viet-Nam, Democratic Republic of",
+    "name": "Democratic Republic of Vietnam",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "VE",
@@ -11334,9 +11460,10 @@
     "languages": [
       "spa"
     ],
-    "name": "Venezuela, Bolivarian Republic Of",
+    "name": "Venezuela",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "VG",
@@ -11353,7 +11480,8 @@
     ],
     "name": "Virgin Islands (British)",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "VI",
@@ -11370,7 +11498,8 @@
     ],
     "name": "Virgin Islands (US)",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "VN",
@@ -11390,159 +11519,238 @@
     "provinces": [
       {
         "name": "Hà Nội",
-        "alias": null
+        "alias": [
+          "Ha Noi"
+        ]
       },
       {
         "name": "Hà Giang",
-        "alias": null
+        "alias": [
+          "Ha Giang"
+        ]
       },
       {
         "name": "Cao Bằng",
-        "alias": null
+        "alias": [
+          "Cao Bang"
+        ]
       },
       {
         "name": "Bắc Kạn",
-        "alias": null
+        "alias": [
+          "Bac Kan"
+        ]
       },
       {
         "name": "Tuyên Quang",
-        "alias": null
+        "alias": [
+          "Tuyen Quang"
+        ]
       },
       {
         "name": "Lào Cai",
-        "alias": null
+        "alias": [
+          "Lao Cai"
+        ]
       },
       {
         "name": "Điện Biên",
-        "alias": null
+        "alias": [
+          "Dien Bien"
+        ]
       },
       {
         "name": "Lai Châu",
-        "alias": null
+        "alias": [
+          "Lai Chau"
+        ]
       },
       {
         "name": "Sơn La",
-        "alias": null
+        "alias": [
+          "Son La"
+        ]
       },
       {
         "name": "Yên Bái",
-        "alias": null
+        "alias": [
+          "Yen Bai"
+        ]
       },
       {
         "name": "Hòa Bình",
-        "alias": null
+        "alias": [
+          "Hoa Binh"
+        ]
       },
       {
         "name": "Thái Nguyên",
-        "alias": null
+        "alias": [
+          "Thai Nguyen"
+        ]
       },
       {
         "name": "Lạng Sơn",
-        "alias": null
+        "alias": [
+          "Lang Son"
+        ]
       },
       {
         "name": "Quảng Ninh",
-        "alias": null
+        "alias": [
+          "Quang Ninh"
+        ]
       },
       {
         "name": "Bắc Giang",
-        "alias": null
+        "alias": [
+          "Bac Giang"
+        ]
       },
       {
         "name": "Phú Thọ",
-        "alias": null
+        "alias": [
+          "Phu Tho"
+        ]
       },
       {
         "name": "Vĩnh Phúc",
-        "alias": null
+        "alias": [
+          "Vinh Phuc"
+        ]
       },
       {
         "name": "Bắc Ninh",
-        "alias": null
+        "alias": [
+          "Bac Ninh"
+        ]
       },
       {
         "name": "Hải Dương",
-        "alias": null
+        "alias": [
+          "Hai Duong"
+        ]
       },
       {
         "name": "Hải Phòng",
-        "alias": null
+        "alias": [
+          "Hai Phong"
+        ]
       },
       {
         "name": "Hưng Yên",
-        "alias": null
+        "alias": [
+          "Hung Yen"
+        ]
       },
       {
         "name": "Thái Bình",
-        "alias": null
+        "alias": [
+          "Thai Binh"
+        ]
       },
       {
         "name": "Hà Nam",
-        "alias": null
+        "alias": [
+          "Ha Nam"
+        ]
       },
       {
         "name": "Nam Định",
-        "alias": null
+        "alias": [
+          "Nam Dinh"
+        ]
       },
       {
         "name": "Ninh Bình",
-        "alias": null
+        "alias": [
+          "Ninh Binh"
+        ]
       },
       {
         "name": "Thanh Hóa",
-        "alias": null
+        "alias": [
+          "Thanh Hoa"
+        ]
       },
       {
         "name": "Nghệ An",
-        "alias": null
+        "alias": [
+          "Nghe An"
+        ]
       },
       {
         "name": "Hà Tĩnh",
-        "alias": null
+        "alias": [
+          "Ha Tinh"
+        ]
       },
       {
         "name": "Quảng Bình",
-        "alias": null
+        "alias": [
+          "Quang Binh"
+        ]
       },
       {
         "name": "Quảng Trị",
-        "alias": null
+        "alias": [
+          "Quang Tri"
+        ]
       },
       {
         "name": "Thừa Thiên–Huế",
-        "alias": null
+        "alias": [
+          "Thua Thien–Hue",
+          "Thua Thien Hue"
+        ]
       },
       {
         "name": "Đà Nẵng",
-        "alias": null
+        "alias": [
+          "Da Nang"
+        ]
       },
       {
         "name": "Quảng Nam",
-        "alias": null
+        "alias": [
+          "Quang Nam"
+        ]
       },
       {
         "name": "Quảng Ngãi",
-        "alias": null
+        "alias": [
+          "Quang Ngai"
+        ]
       },
       {
         "name": "Bình Định",
-        "alias": null
+        "alias": [
+          "Binh Dinh"
+        ]
       },
       {
         "name": "Phú Yên",
-        "alias": null
+        "alias": [
+          "Phu Yen"
+        ]
       },
       {
         "name": "Khánh Hòa",
-        "alias": null
+        "alias": [
+          "Khanh Hoa"
+        ]
       },
       {
         "name": "Ninh Thuận",
-        "alias": null
+        "alias": [
+          "Ninh Thuan"
+        ]
       },
       {
         "name": "Bình Thuận",
-        "alias": null
+        "alias": [
+          "Binh Thuan"
+        ]
       },
       {
         "name": "Kon Tum",
@@ -11554,39 +11762,56 @@
       },
       {
         "name": "Đắk Lắk",
-        "alias": null
+        "alias": [
+          "Dak Lak"
+        ]
       },
       {
         "name": "Đắk Nông",
-        "alias": null
+        "alias": [
+          "Dak Nong"
+        ]
       },
       {
         "name": "Lâm Đồng",
-        "alias": null
+        "alias": [
+          "Lam Dong"
+        ]
       },
       {
         "name": "Bình Phước",
-        "alias": null
+        "alias": "Binh Phuoc"
       },
       {
         "name": "Tây Ninh",
-        "alias": null
+        "alias": [
+          "Tay Ninh"
+        ]
       },
       {
         "name": "Bình Dương",
-        "alias": null
+        "alias": [
+          "Binh Duong"
+        ]
       },
       {
         "name": "Đồng Nai",
-        "alias": null
+        "alias": [
+          "Dong Nai"
+        ]
       },
       {
         "name": "Bà Rịa–Vũng Tàu",
-        "alias": null
+        "alias": [
+          "Ba Ria–Vung Tau",
+          "Ba Ria Vung Tau"
+        ]
       },
       {
         "name": "Thành phố Hồ Chí Minh",
-        "alias": null
+        "alias": [
+          "Thanh pho Ho Chi Minh"
+        ]
       },
       {
         "name": "Long An",
@@ -11594,23 +11819,33 @@
       },
       {
         "name": "Tiền Giang",
-        "alias": null
+        "alias": [
+          "Tien Giang"
+        ]
       },
       {
         "name": "Bến Tre",
-        "alias": null
+        "alias": [
+          "Ben Tre"
+        ]
       },
       {
         "name": "Trà Vinh",
-        "alias": null
+        "alias": [
+          "Tra Vinh"
+        ]
       },
       {
         "name": "Vĩnh Long",
-        "alias": null
+        "alias": [
+          "Vinh Long"
+        ]
       },
       {
         "name": "Đồng Tháp",
-        "alias": null
+        "alias": [
+          "Dong Thap"
+        ]
       },
       {
         "name": "An Giang",
@@ -11618,29 +11853,42 @@
       },
       {
         "name": "Kiên Giang",
-        "alias": null
+        "alias": [
+          "Kien Giang"
+        ]
       },
       {
         "name": "Cần Thơ",
-        "alias": null
+        "alias": [
+          "Can Thơ"
+        ]
       },
       {
         "name": "Hậu Giang",
-        "alias": null
+        "alias": [
+          "Hau Giang"
+        ]
       },
       {
         "name": "Sóc Trăng",
-        "alias": null
+        "alias": [
+          "Soc Trang"
+        ]
       },
       {
         "name": "Bạc Liêu",
-        "alias": null
+        "alias": [
+          "Bac Lieu"
+        ]
       },
       {
         "name": "Cà Mau",
-        "alias": null
+        "alias": [
+          "Ca Mau"
+        ]
       }
-    ]
+    ],
+    "alias": null
   },
   {
     "alpha2": "VU",
@@ -11659,7 +11907,8 @@
     ],
     "name": "Vanuatu",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "WF",
@@ -11676,7 +11925,8 @@
     ],
     "name": "Wallis And Futuna",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "WK",
@@ -11687,7 +11937,8 @@
     "languages": [],
     "name": "Wake Island",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "WS",
@@ -11705,7 +11956,8 @@
     ],
     "name": "Samoa",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "XK",
@@ -11726,7 +11978,8 @@
     ],
     "name": "Kosovo",
     "status": "user assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "YD",
@@ -11737,7 +11990,8 @@
     "languages": [],
     "name": "Yemen, Democratic",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "YE",
@@ -11754,7 +12008,8 @@
     ],
     "name": "Yemen",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "YT",
@@ -11771,7 +12026,8 @@
     ],
     "name": "Mayotte",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "YU",
@@ -11782,7 +12038,8 @@
     "languages": [],
     "name": "Yugoslavia",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ZA",
@@ -11806,7 +12063,8 @@
     ],
     "name": "South Africa",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ZM",
@@ -11823,7 +12081,8 @@
     ],
     "name": "Zambia",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ZR",
@@ -11834,7 +12093,8 @@
     "languages": [],
     "name": "Zaire",
     "status": "deleted",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   },
   {
     "alpha2": "ZW",
@@ -11857,6 +12117,7 @@
     ],
     "name": "Zimbabwe",
     "status": "assigned",
-    "provinces": null
+    "provinces": null,
+    "alias": null
   }
 ]
