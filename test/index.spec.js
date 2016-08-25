@@ -19,15 +19,29 @@ const Andorra = {
   alias: null,
 };
 
+const NewfoundlandAndLabrador = {
+  short: 'NL',
+  name: 'Newfoundland and Labrador',
+  alias: ['Newfoundland', 'Labrador'],
+};
+
 const California = {
   short: 'CA',
   name: 'California',
-  alias: null,
-};
+  'alias': null,
+}
 
-const Nagasaki = {
-  name: '長崎県',
-  alias: ['Nagasaki'],
+const GuineaBissau = {
+  alpha2: 'GW',
+  alpha3: 'GNB',
+  countryCallingCodes: ['+245'],
+  currencies: ['XOF'],
+  ioc: 'GBS',
+  languages: ['por'],
+  name: 'Guinea-Bissau',
+  status: 'assigned',
+  provinces: null,
+  alias: ['Guinea Bissau'],
 };
 
 describe('Unit Testing ->', () => {
@@ -56,7 +70,7 @@ describe('Unit Testing ->', () => {
     it('should return an object', () => {
       expect(countries[Andorra.alpha2]).to.be.an('object');
     });
-    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status` `provinces`, `alias`, getProvinceByName`, `findProvinceByName`, `getProvinceByNameAndAlias` and `findProvinceByNameAndAlias` as object keys', () => {
+    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status` `provinces`, `alias`, getProvinceByName` and `findProvinceByName` as object keys', () => {
       _.forEach(countries, (country, key) => {
         if (_.isString(key) && key.length === 2) {
           expect(countries[key]).to.have.all.keys([
@@ -72,8 +86,6 @@ describe('Unit Testing ->', () => {
             'alias',
             'getProvinceByName',
             'findProvinceByName',
-            'getProvinceByNameAndAlias',
-            'findProvinceByNameAndAlias',
           ]);
         }
       });
@@ -89,19 +101,25 @@ describe('Unit Testing ->', () => {
           expect(countries.getCountryByName()).to.eql(undefined);
         });
         it('should return country object when find it', () => {
-          expect(countries.getCountryByName('Andorra')).to.eql(Andorra);
+          expect(countries.getCountryByName('Guinea-Bissau')).to.eql(GuineaBissau);
         });
-        it('should return country object with insensitive case with default value', () => {
-          expect(countries.getCountryByName('anDorrA')).to.eql(Andorra);
+        it('should return country object by ignoring case', () => {
+          expect(countries.getCountryByName('GuiNea-BisSau')).to.eql(GuineaBissau);
         });
-        it('should return country object with insensitive case', () => {
-          expect(countries.getCountryByName('anDorrA', false)).to.eql(Andorra);
+        it('should return `undefined` when searching alias with no useAlias parameter', () => {
+          expect(countries.getCountryByName('Guinea Bissau')).to.eql(undefined);
         });
-        it('should return `undefined` with sensitive case', () => {
-          expect(countries.getCountryByName('anDorrA', true)).to.eql(undefined);
+        it('should return `undefined` when searching alias with useAlias parameter `false`', () => {
+          expect(countries.getCountryByName('Guinea Bissau', false)).to.eql(undefined);
         });
-        it('should return `undefined` when can\'t find it', () => {
-          expect(countries.getCountryByName('YUYUYU')).to.eql(undefined);
+        it('should return `undefined` when searching alias with useAlias parameter `true`', () => {
+          expect(countries.getCountryByName('Guinea Bissau', true)).to.eql(GuineaBissau);
+        });
+        it('should return `undefined` by ignoring case when searching alias with useAlias parameter `true`', () => {
+          expect(countries.getCountryByName('GuiNea BisSau', true)).to.eql(GuineaBissau);
+        });
+        it('should return `undefined` when searching alias with useAlias parameter `true` and country has no province', () => {
+          expect(countries.getCountryByName('Andorra', true)).to.eql(Andorra);
         });
       });
       describe('findCountryByName()', () => {
@@ -112,19 +130,25 @@ describe('Unit Testing ->', () => {
           expect(countries.findCountryByName()).to.eql(undefined);
         });
         it('should return country object when find it', () => {
-          expect(countries.findCountryByName('Andorra')).to.eql(Andorra);
+          expect(countries.findCountryByName('Guinea-Bissau')).to.eql(GuineaBissau);
         });
-        it('should return country object with insensitive case with default value', () => {
-          expect(countries.findCountryByName('anDorrA')).to.eql(Andorra);
+        it('should return country object when find it by ignoring case', () => {
+          expect(countries.findCountryByName('GuiNea-BisSau')).to.eql(GuineaBissau);
         });
-        it('should return country object with insensitive case', () => {
-          expect(countries.findCountryByName('anDorrA', false)).to.eql(Andorra);
+        it('should return `undefined` when searching alias with no useAlias parameter', () => {
+          expect(countries.findCountryByName('Guinea Bissau')).to.eql(undefined);
         });
-        it('should return `undefined` with sensitive case', () => {
-          expect(countries.findCountryByName('anDorrA', true)).to.eql(undefined);
+        it('should return `undefined` when searching alias with useAlias parameter `false`', () => {
+          expect(countries.findCountryByName('Guinea Bissau', false)).to.eql(undefined);
         });
-        it('should return `undefined` when can\'t find it', () => {
-          expect(countries.findCountryByName('YUYUYU')).to.eql(undefined);
+        it('should return country object when searching alias with useAlias parameter `true`', () => {
+          expect(countries.findCountryByName('Guinea Bissau', true)).to.eql(GuineaBissau);
+        });
+        it('should return country object by ignoring case when searching alias with useAlias parameter `true`', () => {
+          expect(countries.findCountryByName('GuiNea BisSau', true)).to.eql(GuineaBissau);
+        });
+        it('should return country object when searching alias with useAlias parameter `true` and country has no alias', () => {
+          expect(countries.findCountryByName('Andorra', true)).to.eql(Andorra);
         });
       });
     });
@@ -137,22 +161,28 @@ describe('Unit Testing ->', () => {
           expect(countries[Andorra.alpha2].getProvinceByName()).to.eql(undefined);
         });
         it('should return `undefined` when no argument', () => {
-          expect(countries.US.getProvinceByName()).to.eql(undefined);
+          expect(countries.CA.getProvinceByName()).to.eql(undefined);
         });
         it('should return province object when find it', () => {
-          expect(countries.US.getProvinceByName('California')).to.eql(California);
+          expect(countries.CA.getProvinceByName('Newfoundland and Labrador')).to.eql(NewfoundlandAndLabrador);
         });
-        it('should return province object with insensitive case with default value', () => {
-          expect(countries.US.getProvinceByName('caLifoRnia')).to.eql(California);
+        it('should return province object when find it by ignoring case', () => {
+          expect(countries.CA.getProvinceByName('NewfoUndland and LabrAdor')).to.eql(NewfoundlandAndLabrador);
         });
-        it('should return province object with insensitive case', () => {
-          expect(countries.US.getProvinceByName('caLifoRnia', false)).to.eql(California);
+        it('should return `undefined` when searching alias with no useAlias parameter', () => {
+          expect(countries.CA.getProvinceByName('NewfoUndland')).to.eql(undefined);
         });
-        it('should return province object with sensitive case', () => {
-          expect(countries.US.getProvinceByName('caLifoRnia', true)).to.eql(undefined);
+        it('should return `undefined` when searching alias with useAlias parameter `false`', () => {
+          expect(countries.CA.getProvinceByName('NewfoUndland', false)).to.eql(undefined);
         });
-        it('should return province object when can\'t find it', () => {
-          expect(countries.US.getProvinceByName('Unknow')).to.eql(undefined);
+        it('should return province object when searching alias with useAlias parameter `true`', () => {
+          expect(countries.CA.getProvinceByName('NewfoUndland', true)).to.eql(NewfoundlandAndLabrador);
+        });
+        it('should return province by ignoring case when searching alias with useAlias parameter `true`', () => {
+          expect(countries.CA.getProvinceByName('LabrAdor', true)).to.eql(NewfoundlandAndLabrador);
+        });
+        it('should return province object when searching alias with useAlias parameter `true` and province has no alias', () => {
+          expect(countries.US.getProvinceByName('caLifoRnia', true)).to.eql(California);
         });
       });
       describe('findProvinceByName()', () => {
@@ -163,80 +193,28 @@ describe('Unit Testing ->', () => {
           expect(countries[Andorra.alpha2].findProvinceByName()).to.eql(undefined);
         });
         it('should return `undefined` when no argument', () => {
-          expect(countries.US.findProvinceByName()).to.eql(undefined);
+          expect(countries.CA.findProvinceByName()).to.eql(undefined);
         });
         it('should return province object when find it', () => {
-          expect(countries.US.findProvinceByName('California')).to.eql(California);
+          expect(countries.CA.findProvinceByName('Newfoundland and Labrador')).to.eql(NewfoundlandAndLabrador);
         });
-        it('should return province object with insensitive case with default value', () => {
-          expect(countries.US.findProvinceByName('caLifoRnia')).to.eql(California);
+        it('should return province object when find it by ignoring case', () => {
+          expect(countries.CA.findProvinceByName('NewfoUndland and LabrAdor')).to.eql(NewfoundlandAndLabrador);
         });
-        it('should return province object with insensitive case', () => {
-          expect(countries.US.findProvinceByName('caLifoRnia', false)).to.eql(California);
+        it('should return `undefined` when searching alias with no useAlias parameter', () => {
+          expect(countries.CA.findProvinceByName('NewfoUndland')).to.eql(undefined);
         });
-        it('should return province object with sensitive case', () => {
-          expect(countries.US.findProvinceByName('caLifoRnia', true)).to.eql(undefined);
+        it('should return `undefined` when searching alias with useAlias parameter `false`', () => {
+          expect(countries.CA.findProvinceByName('NewfoUndland', false)).to.eql(undefined);
         });
-        it('should return province object when can\'t find it', () => {
-          expect(countries.US.findProvinceByName('Unknow')).to.eql(undefined);
+        it('should return province object when searching alias with useAlias parameter `true`', () => {
+          expect(countries.CA.findProvinceByName('NewfoUndland', true)).to.eql(NewfoundlandAndLabrador);
         });
-      });
-      describe('getProvinceByNameAndAlias()', () => {
-        it('should be a function', () => {
-          expect(countries[Andorra.alpha2].getProvinceByNameAndAlias).to.be.a('function');
+        it('should return province by ignoring case when searching alias with useAlias parameter `true`', () => {
+          expect(countries.CA.findProvinceByName('LabrAdor', true)).to.eql(NewfoundlandAndLabrador);
         });
-        it('should return `undefined` when no provinces', () => {
-          expect(countries[Andorra.alpha2].getProvinceByNameAndAlias()).to.eql(undefined);
-        });
-        it('should return `undefined` when no argument', () => {
-          expect(countries.JP.getProvinceByNameAndAlias()).to.eql(undefined);
-        });
-        it('should return province object when find it not using english name', () => {
-          expect(countries.JP.getProvinceByNameAndAlias('長崎県')).to.eql(Nagasaki);
-        });
-        it('should return province object when find it using english name', () => {
-          expect(countries.JP.getProvinceByNameAndAlias('Nagasaki')).to.eql(Nagasaki);
-        });
-        it('should return province object with insensitive case with default value using english name', () => {
-          expect(countries.JP.getProvinceByNameAndAlias('nAgasAki')).to.eql(Nagasaki);
-        });
-        it('should return province object with insensitive case using english name', () => {
-          expect(countries.JP.getProvinceByNameAndAlias('nAgasAki', false)).to.eql(Nagasaki);
-        });
-        it('should return province object with sensitive case using english name', () => {
-          expect(countries.JP.getProvinceByNameAndAlias('nAgasAki', true)).to.eql(undefined);
-        });
-        it('should return province object when can\'t find it', () => {
-          expect(countries.JP.getProvinceByNameAndAlias('Unknow')).to.eql(undefined);
-        });
-      });
-      describe('findProvinceByNameAndAlias()', () => {
-        it('should be a function', () => {
-          expect(countries[Andorra.alpha2].findProvinceByNameAndAlias).to.be.a('function');
-        });
-        it('should return `undefined` when no provinces', () => {
-          expect(countries[Andorra.alpha2].findProvinceByNameAndAlias()).to.eql(undefined);
-        });
-        it('should return `undefined` when no argument', () => {
-          expect(countries.JP.findProvinceByNameAndAlias()).to.eql(undefined);
-        });
-        it('should return province object when find it not using english name', () => {
-          expect(countries.JP.findProvinceByNameAndAlias('長崎県')).to.eql(Nagasaki);
-        });
-        it('should return province object when find it using english name', () => {
-          expect(countries.JP.findProvinceByNameAndAlias('Nagasaki')).to.eql(Nagasaki);
-        });
-        it('should return province object with insensitive case with default value using english name', () => {
-          expect(countries.JP.findProvinceByNameAndAlias('nAgasAki')).to.eql(Nagasaki);
-        });
-        it('should return province object with insensitive case using english name', () => {
-          expect(countries.JP.findProvinceByNameAndAlias('nAgasAki', false)).to.eql(Nagasaki);
-        });
-        it('should return province object with sensitive case using english name', () => {
-          expect(countries.JP.findProvinceByNameAndAlias('nAgasAki', true)).to.eql(undefined);
-        });
-        it('should return province object when can\'t find it', () => {
-          expect(countries.JP.findProvinceByNameAndAlias('Unknow')).to.eql(undefined);
+        it('should return province object when searching alias with useAlias parameter `true` and province has no alias', () => {
+          expect(countries.US.findProvinceByName('caLifoRnia', true)).to.eql(California);
         });
       });
     });

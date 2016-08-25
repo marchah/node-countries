@@ -13,15 +13,16 @@ const toExport = {
  * Find the country object of the given country name
  *
  * @param {String}  name              country name
- * @param {Boolean} [isCaseSensitive] case sensitive flag, default `false`
+ * @param {Boolean} [useAlias]        use alias flag, default `false`
  * @return {Object} country           country object
  */
-function getCountryByName(name, isCaseSensitive) {
+function getCountryByName(name, useAlias) {
   if (!_.isString(name)) return undefined;
 
   return _.find(countries, (country) => {
-    if (isCaseSensitive) {
-      return country.name === name;
+    if (useAlias) {
+      return country.name.toUpperCase() === name.toUpperCase()
+        ||  _.find(country.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
     }
     return country.name.toUpperCase() === name.toUpperCase();
   });
@@ -31,41 +32,22 @@ toExport.getCountryByName = getCountryByName;
 toExport.findCountryByName = getCountryByName;
 
 
-
 /**
  * Find the province object of the given province name
  *
- * @param {String}  name              province name
- * @param {Boolean} [isCaseSensitive] case sensitive flag, default `false`
- * @return {Object} province           province object
+ * @param {String}  name              english province name
+ * @param {Boolean} [useAlias]        use alias flag, default `false`
+ * @return {Object} province          province object
  */
-function getProvinceByName(name, isCaseSensitive) {
+function getProvinceByName(name, useAlias) {
   if (!_.isString(name) || !_.isArray(this.provinces)) return undefined;
 
   return _.find(this.provinces, (province) => {
-    if (isCaseSensitive) {
-      return province.name === name;
+    if (useAlias) {
+      return province.name.toUpperCase() === name.toUpperCase()
+        ||  _.find(province.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
     }
     return province.name.toUpperCase() === name.toUpperCase();
-  });
-}
-
-/**
- * Find the province object of the given province name or alias
- *
- * @param {String}  name              english province name
- * @param {Boolean} [isCaseSensitive] case sensitive flag, default `false`
- * @return {Object} province           province object
- */
-function getProvinceByNameAndAlias(name, isCaseSensitive) {
-  if (!_.isString(name) || !_.isArray(this.provinces)) return undefined;
-
-  return _.find(this.provinces, (province) => {
-    if (isCaseSensitive) {
-      return province.name === name || _.find(province.alias, name);
-    }
-    return province.name.toUpperCase() === name.toUpperCase()
-      ||  _.find(province.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
   });
 }
 
@@ -77,8 +59,6 @@ const listCountries = _.keyBy(_.cloneDeep(countries), 'alpha2');
 _.forEach(listCountries, (country, key) => {
   country.getProvinceByName = _.bind(getProvinceByName, country);
   country.findProvinceByName = _.bind(getProvinceByName, country);
-  country.getProvinceByNameAndAlias = _.bind(getProvinceByNameAndAlias, country);
-  country.findProvinceByNameAndAlias = _.bind(getProvinceByNameAndAlias, country);
   toExport[key] = country;
 });
 

@@ -121,18 +121,14 @@ console.log(countries.AC);
 ```
 Also you have the possibility to find province information by name
 
-##### getProvinceByName(name, [isCaseSensitive])
+##### getProvinceByName(name, [useAlias])
 
 Return the matched province object, else undefined (alias: `findProvinceByName`)
-
-##### getProvinceByNameAndAlias(englishName, [isCaseSensitive])
-
-Return the matched province object, else undefined (alias: `findProvinceByNameAndAlias`)
 
 
 ## Methods
 
-### getCountryByName(name, [isCaseSensitive])
+### getCountryByName(name, [useAlias])
 
 Return the matched country object, else undefined (alias: `findCountryByName`)
 
@@ -160,6 +156,27 @@ console.log(countries.getCountryByName('Andorra'));
     "status": "assigned",
     "provinces": null,
     "alias": null
+  }
+*/
+````
+
+````javascript
+const countries = require('countries');
+
+console.log(countries.CA.getProvinceByName('Labrador', false));
+/*
+  undefined
+*/
+
+console.log(countries.CA.getProvinceByName('Labrador', true));
+/*
+  {
+    "short": "NL",
+    "name": "Newfoundland and Labrador",
+    "alias": [
+      "Newfoundland",
+      "Labrador"
+    ]
   }
 */
 ````
