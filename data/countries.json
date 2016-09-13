@@ -2872,244 +2872,244 @@
     "status": "assigned",
     "provinces": [
       {
-        "name": "重庆",
+        "name": "Chongqing",
         "short": "渝",
         "alias": [
-          "Chongqing"
+          "重庆"
         ]
       },
       {
-        "name": "黑龙江",
+        "name": "Heilongjiang",
         "short": "黑",
         "alias": [
-          "Heilongjiang"
+          "黑龙江"
         ]
       },
       {
-        "name": "吉林",
+        "name": "Jilin",
         "short": "吉",
         "alias": [
-          "Jilin"
+          "吉林"
         ]
       },
       {
-        "name": "海南",
+        "name": "Hainan",
         "short": "琼",
         "alias": [
-          "Hainan"
+          "海南"
         ]
       },
       {
-        "name": "北京",
+        "name": "Beijing",
         "short": "京",
         "alias": [
-          "Beijing"
+          "北京"
         ]
       },
       {
-        "name": "辽宁",
+        "name": "Liaoning",
         "short": "辽",
         "alias": [
-          "Liaoning"
+          "辽宁"
         ]
       },
       {
-        "name": "内蒙古",
+        "name": "Inner Mongolia",
         "short": "蒙",
         "alias": [
-          "Inner Mongolia"
+          "内蒙古"
         ]
       },
       {
-        "name": "西藏",
+        "name": "Tibet",
         "short": "藏",
         "alias": [
-          "Tibet",
-          "Xizang"
+          "Xizang",
+          "西藏"
         ]
       },
       {
-        "name": "青海",
+        "name": "Qinghai",
         "short": "青",
         "alias": [
-          "Qinghai"
+          "青海"
         ]
       },
       {
-        "name": "宁夏",
+        "name": "Ningxia",
         "short": "宁",
         "alias": [
-          "Ningxia"
+          "宁夏"
         ]
       },
       {
-        "name": "新疆",
+        "name": "Xinjiang",
         "short": "新",
         "alias": [
-          "Xinjiang"
+          "新疆"
         ]
       },
       {
-        "name": "甘肃",
+        "name": "Gansu",
         "short": "甘",
         "alias": [
-          "Gansu"
+          "甘肃"
         ]
       },
       {
-        "name": "河北",
+        "name": "Hebei",
         "short": "冀",
         "alias": [
-          "Hebei"
+          "河北"
         ]
       },
       {
-        "name": "河南",
+        "name": "Henan",
         "short": "豫",
         "alias": [
-          "Henan"
+          "河南"
         ]
       },
       {
-        "name": "湖北",
+        "name": "Hubei",
         "short": "鄂",
         "alias": [
-          "Hubei"
+          "湖北"
         ]
       },
       {
-        "name": "湖南",
+        "name": "Hunan",
         "short": "湘",
         "alias": [
-          "Hunan"
+          "湖南"
         ]
       },
       {
-        "name": "山东",
+        "name": "Shandong",
         "short": "鲁",
         "alias": [
-          "Shandong"
+          "山东"
         ]
       },
       {
-        "name": "江苏",
+        "name": "Jiangsu",
         "short": "苏",
         "alias": [
-          "Jiangsu"
+          "江苏"
         ]
       },
       {
-        "name": "安徽",
+        "name": "Anhui",
         "short": "皖",
         "alias": [
-          "Anhui"
+          "安徽"
         ]
       },
       {
-        "name": "山西",
+        "name": "Shanxi",
         "short": "晋",
         "alias": [
-          "Shanxi"
+          "山西"
         ]
       },
       {
-        "name": "陕西",
+        "name": "Shaanxi",
         "short": "陕",
         "alias": [
-          "Shaanxi"
+          "陕西"
         ]
       },
       {
-        "name": "四川",
+        "name": "Sichuan",
         "short": "川",
         "alias": [
-          "Sichuan"
+          "四川"
         ]
       },
       {
-        "name": "云南",
+        "name": "Yunnan",
         "short": "滇",
         "alias": [
-          "Yunnan"
+          "云南"
         ]
       },
       {
-        "name": "贵州",
+        "name": "Guizhou",
         "short": "黔",
         "alias": [
-          "Guizhou"
+          "贵州"
         ]
       },
       {
-        "name": "浙江",
+        "name": "Zhejiang",
         "short": "浙",
         "alias": [
-          "Zhejiang"
+          "浙江"
         ]
       },
       {
-        "name": "福建",
+        "name": "Fujian",
         "short": "闽",
         "alias": [
-          "Fujian"
+          "福建"
         ]
       },
       {
-        "name": "广西",
+        "name": "Guangxi",
         "short": "桂",
         "alias": [
-          "Guangxi"
+          "广西"
         ]
       },
       {
-        "name": "上海",
+        "name": "Shanghai",
         "short": "沪",
         "alias": [
-          "Shanghai"
+          "上海"
         ]
       },
       {
-        "name": "天津",
+        "name": "Tianjin",
         "short": "津",
         "alias": [
-          "Tianjin"
+          "天津"
         ]
       },
       {
-        "name": "香港",
+        "name": "Hong Kong",
         "short": "港",
         "alias": [
-          "Hong Kong",
-          "Xianggang"
+          "Xianggang",
+          "香港"
         ]
       },
       {
-        "name": "澳门",
+        "name": "Macau",
         "short": "澳",
         "alias": [
-          "Macau",
-          "Aomen"
+          "Aomen",
+          "澳门"
         ]
       },
       {
-        "name": "台湾",
+        "name": "Taiwan",
         "short": "台",
         "alias": [
-          "Taiwan"
+          "台湾"
         ]
       },
       {
-        "name": "江西",
+        "name": "Jiangxi",
         "short": "赣",
         "alias": [
-          "Jiangxi"
+          "江西"
         ]
       },
       {
-        "name": "广东",
+        "name": "Guangdong",
         "short": "粤",
         "alias": [
-          "Guangdong"
+          "广东"
         ]
       }
     ],
@@ -11885,7 +11885,9 @@
         ]
       }
     ],
-    "alias": ["Vietnam"]
+    "alias": [
+      "Vietnam"
+    ]
   },
   {
     "alpha2": "VU",
