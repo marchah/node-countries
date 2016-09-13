@@ -118,7 +118,7 @@ describe('Unit Testing ->', () => {
         it('should return `undefined` by ignoring case when searching alias with useAlias parameter `true`', () => {
           expect(countries.getCountryByName('GuiNea BisSau', true)).to.eql(GuineaBissau);
         });
-        it('should return `undefined` when searching alias with useAlias parameter `true` and country has no province', () => {
+        it('should return country object when searching alias with useAlias parameter `true` and country has no province', () => {
           expect(countries.getCountryByName('Andorra', true)).to.eql(Andorra);
         });
       });
