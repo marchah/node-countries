@@ -125,12 +125,20 @@ Also you have the possibility to find province information by name
 
 Return the matched province object, else undefined (alias: `findProvinceByName`)
 
+##### getProvinceByNameOrShortName(name or short name, [useAlias])
+
+Return the matched province object, else undefined (alias: `findProvinceByNameOrShortName`)
+
 
 ## Methods
 
 ### getCountryByName(name, [useAlias])
 
 Return the matched country object, else undefined (alias: `findCountryByName`)
+
+### getCountryByNameOrShortName(name or short name (alpha2), [useAlias])
+
+Return the matched country object, else undefined (alias: `findCountryByNameOrShortName`)
 
 ## Examples
 
