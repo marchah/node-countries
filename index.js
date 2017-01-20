@@ -86,10 +86,10 @@ function getProvinceByNameOrShortName(name, useAlias) {
   return _.find(this.provinces, (province) => {
     if (useAlias) {
       return province.name.toUpperCase() === name.toUpperCase()
-        || province.short.toUpperCase() === name.toUpperCase()
+        || (province.short && province.short.toUpperCase() === name.toUpperCase())
         ||  _.find(province.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
     }
-    return province.name.toUpperCase() === name.toUpperCase() || province.short.toUpperCase() === name.toUpperCase();
+    return province.name.toUpperCase() === name.toUpperCase() || (province.short && province.short.toUpperCase() === name.toUpperCase());
   });
 }
 
