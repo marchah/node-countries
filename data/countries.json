@@ -11423,7 +11423,14 @@
         "alias": null
       }
     ],
-    "alias": null
+    "alias": [
+      "US",
+      "U.S",
+      "U.S.",
+      "USA",
+      "U.S.A",
+      "U.S.A."
+    ]
   },
   {
     "alpha2": "UY",
