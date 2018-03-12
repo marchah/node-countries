@@ -12003,10 +12003,13 @@
     "languages": [
       "fra"
     ],
-    "name": "Wallis And Futuna",
+    "name": "Territory of the Wallis and Futuna Islands",
     "status": "assigned",
     "provinces": null,
-    "alias": null
+    "alias": [
+      "Wallis And Futuna",
+      "Wallis and Futuna Islands"
+    ]
   },
   {
     "alpha2": "WK",
