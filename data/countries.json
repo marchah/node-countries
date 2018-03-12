@@ -9341,10 +9341,12 @@
     "languages": [
       "rus"
     ],
-    "name": "Russia",
+    "name": "Russian Federation",
     "status": "assigned",
     "provinces": null,
-    "alias": null
+    "alias": [
+      "Russia"
+    ]
   },
   {
     "alpha2": "RW",
