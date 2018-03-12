@@ -4260,10 +4260,12 @@
     "languages": [
       "eng"
     ],
-    "name": "Micronesia",
+    "name": "Federated States of Micronesia",
     "status": "assigned",
     "provinces": null,
-    "alias": null
+    "alias": [
+      "Micronesia"
+    ]
   },
   {
     "alpha2": "FO",
