@@ -6136,10 +6136,12 @@
     "languages": [
       "lao"
     ],
-    "name": "Laos",
+    "name": "Lao People's Democratic Republic",
     "status": "assigned",
     "provinces": null,
-    "alias": null
+    "alias": [
+      "Laos"
+    ]
   },
   {
     "alpha2": "LB",
