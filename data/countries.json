@@ -1306,10 +1306,14 @@
       "msa",
       "eng"
     ],
-    "name": "Brunei Darussalam",
+    "name": "Nation of Brunei, the Abode of Peace",
     "status": "assigned",
     "provinces": null,
-    "alias": null
+    "alias": [
+      "Negara Brunei Darussalam",
+      "Brunei Darussalam",
+      "Brunei"
+    ]
   },
   {
     "alpha2": "BO",
@@ -9511,7 +9515,9 @@
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
     "status": "assigned",
     "provinces": null,
-    "alias": null
+    "alias": [
+      "Saint Helena"
+    ]
   },
   {
     "alpha2": "SI",
