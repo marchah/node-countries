@@ -3383,10 +3383,12 @@
     "languages": [
       "por"
     ],
-    "name": "Cabo Verde",
+    "name": "Cape Verde",
     "status": "assigned",
     "provinces": null,
-    "alias": null
+    "alias": [
+      "Cabo Verde"
+    ]
   },
   {
     "alpha2": "CW",
