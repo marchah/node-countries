@@ -11211,6 +11211,11 @@
         "alias": null
       },
       {
+        "short": "FM",
+        "name": "Micronesia",
+        "alias": null
+      },
+      {
         "short": "GA",
         "name": "Georgia",
         "alias": null
@@ -11278,6 +11283,11 @@
       {
         "short": "MN",
         "name": "Minnesota",
+        "alias": null
+      },
+      {
+        "short": "MH",
+        "name": "Marshall Islands",
         "alias": null
       },
       {
@@ -11353,6 +11363,11 @@
       {
         "short": "PA",
         "name": "Pennsylvania",
+        "alias": null
+      },
+      {
+        "short": "PW",
+        "name": "Palau",
         "alias": null
       },
       {
