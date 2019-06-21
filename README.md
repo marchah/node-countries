@@ -1,4 +1,5 @@
 # node-countries
+
 Countries JSON data
 
 ## Installation
@@ -13,42 +14,43 @@ $ npm install node-countries
 
 This module currently has states and provinces for:
 
-* United States (US)
-* United Kingdom (GB)
-* Canada (CA)
-* Mexico (MX)
-* Australia (AU)
-* China (CN)
-* Germany (DE)
-* Belgium (BE)
-* Netherlands (NL)
-* Denmark (DK)
-* Turkey (TR)
-* Indonesia (ID)
-* Jordan (JO)
-* India (IN)
-* Cambodia (KH)
-* Ethiopia (ET)
-* Peru (PE)
-* Cuba (CU)
-* Argentina (AR)
-* Chile (CL)
-* Bolivia (BO)
-* Spain (ES)
-* Bangladesh (BD)
-* Pakistan (PK)
-* Nigeria (NG)
-* Japan (JP)
-* Austria (AT)
-* Brazil (BR)
-* Philippines (PH)
-* Vietnam (VN)
+- United States (US)
+- United Kingdom (GB)
+- Canada (CA)
+- Mexico (MX)
+- Australia (AU)
+- China (CN)
+- Germany (DE)
+- Belgium (BE)
+- Netherlands (NL)
+- Denmark (DK)
+- Turkey (TR)
+- Indonesia (ID)
+- Jordan (JO)
+- India (IN)
+- Cambodia (KH)
+- Ethiopia (ET)
+- Peru (PE)
+- Cuba (CU)
+- Argentina (AR)
+- Chile (CL)
+- Bolivia (BO)
+- Spain (ES)
+- Bangladesh (BD)
+- Pakistan (PK)
+- Nigeria (NG)
+- Japan (JP)
+- Austria (AT)
+- Brazil (BR)
+- Philippines (PH)
+- Vietnam (VN)
 
 ### Data
 
 #### `JSON`
 
 Return a JSON array with all the countries
+
 ```javascript
 [
   {
@@ -94,8 +96,9 @@ Return a JSON array with all the countries
 #### Short cut
 
 All the contry are accessible directly through their [ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) (two letter code)
+
 ```javascript
-const countries = require('countries');
+const countries = require("node-countries");
 
 console.log(countries.AC);
 /*
@@ -119,6 +122,7 @@ console.log(countries.AC);
   }
 */
 ```
+
 Also you have the possibility to find province information by name
 
 ##### getProvinceByName(name, [useAlias])
@@ -128,7 +132,6 @@ Return the matched province object, else undefined (alias: `findProvinceByName`)
 ##### getProvinceByNameOrShortName(name or short name, [useAlias])
 
 Return the matched province object, else undefined (alias: `findProvinceByNameOrShortName`)
-
 
 ## Methods
 
@@ -142,10 +145,10 @@ Return the matched country object, else undefined (alias: `findCountryByNameOrSh
 
 ## Examples
 
-````javascript
-const countries = require('countries');
+```javascript
+const countries = require("node-countries");
 
-console.log(countries.getCountryByName('Andorra'));
+console.log(countries.getCountryByName("Andorra"));
 /*
   {
     "alpha2": "AD",
@@ -166,17 +169,17 @@ console.log(countries.getCountryByName('Andorra'));
     "alias": null
   }
 */
-````
+```
 
-````javascript
-const countries = require('countries');
+```javascript
+const countries = require("node-countries");
 
-console.log(countries.CA.getProvinceByName('Labrador', false));
+console.log(countries.CA.getProvinceByName("Labrador", false));
 /*
   undefined
 */
 
-console.log(countries.CA.getProvinceByName('Labrador', true));
+console.log(countries.CA.getProvinceByName("Labrador", true));
 /*
   {
     "short": "NL",
@@ -187,7 +190,7 @@ console.log(countries.CA.getProvinceByName('Labrador', true));
     ]
   }
 */
-````
+```
 
 ## Note
 
