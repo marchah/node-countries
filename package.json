@@ -20,8 +20,8 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "eslint": "^5.15.0",
-    "mocha": "^6.0.2",
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.4",
     "rewire": "^4.0.1"
   },
   "repository": {
