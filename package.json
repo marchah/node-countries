@@ -1,6 +1,6 @@
 {
   "name": "node-countries",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "main": "./index.js",
   "description": "Countries and Provinces JSON Data",
   "scripts": {
