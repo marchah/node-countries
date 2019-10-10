@@ -16,12 +16,12 @@
   ],
   "author": "marchah <marchah.dev@gmail.com>",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "eslint": "^5.16.0",
-    "mocha": "^6.1.4",
+    "eslint": "^6.5.1",
+    "mocha": "^6.2.1",
     "rewire": "^4.0.1"
   },
   "repository": {
