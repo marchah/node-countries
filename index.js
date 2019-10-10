@@ -19,10 +19,10 @@ const toExport = {
 function getCountryByName(name, useAlias) {
   if (!_.isString(name)) return undefined;
 
-  return _.find(countries, (country) => {
+  return _.find(countries, function (country) {
     if (useAlias) {
       return country.name.toUpperCase() === name.toUpperCase()
-        ||  _.find(country.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
+        ||  _.find(country.alias, function (alias) (alias.toUpperCase() === name.toUpperCase()));
     }
     return country.name.toUpperCase() === name.toUpperCase();
   });
@@ -38,11 +38,11 @@ function getCountryByName(name, useAlias) {
 function getCountryByNameOrShortName(name, useAlias) {
   if (!_.isString(name)) return undefined;
 
-  return _.find(countries, (country) => {
+  return _.find(countries, function (country) {
     if (useAlias) {
       return country.name.toUpperCase() === name.toUpperCase()
         || country.alpha2.toUpperCase() === name.toUpperCase()
-        ||  _.find(country.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
+        ||  _.find(country.alias, function (alias) (alias.toUpperCase() === name.toUpperCase()));
     }
     return country.name.toUpperCase() === name.toUpperCase() || country.alpha2.toUpperCase() === name.toUpperCase();
   });
@@ -64,10 +64,10 @@ toExport.findCountryByNameOrShortName = getCountryByNameOrShortName;
 function getProvinceByName(name, useAlias) {
   if (!_.isString(name) || !_.isArray(this.provinces)) return undefined;
 
-  return _.find(this.provinces, (province) => {
+  return _.find(this.provinces, function (province) {
     if (useAlias) {
       return province.name.toUpperCase() === name.toUpperCase()
-        ||  _.find(province.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
+        ||  _.find(province.alias, function (alias) (alias.toUpperCase() === name.toUpperCase()));
     }
     return province.name.toUpperCase() === name.toUpperCase();
   });
@@ -83,11 +83,11 @@ function getProvinceByName(name, useAlias) {
 function getProvinceByNameOrShortName(name, useAlias) {
   if (!_.isString(name) || !_.isArray(this.provinces)) return undefined;
 
-  return _.find(this.provinces, (province) => {
+  return _.find(this.provinces, function (province) {
     if (useAlias) {
       return province.name.toUpperCase() === name.toUpperCase()
         || (province.short && province.short.toUpperCase() === name.toUpperCase())
-        ||  _.find(province.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
+        ||  _.find(province.alias, function (alias) (alias.toUpperCase() === name.toUpperCase()));
     }
     return province.name.toUpperCase() === name.toUpperCase() || (province.short && province.short.toUpperCase() === name.toUpperCase());
   });
@@ -98,7 +98,7 @@ function getProvinceByNameOrShortName(name, useAlias) {
  * Add search function to each country and map each country by alpha2
  */
 const listCountries = _.keyBy(_.cloneDeep(countries), 'alpha2');
-_.forEach(listCountries, (country, key) => {
+_.forEach(listCountries, function (country, key) {
   country.getProvinceByName = _.bind(getProvinceByName, country);
   country.findProvinceByName = _.bind(getProvinceByName, country);
   country.getProvinceByNameOrShortName = _.bind(getProvinceByNameOrShortName, country);
