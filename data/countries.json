@@ -50,7 +50,43 @@
     ],
     "name": "United Arab Emirates",
     "status": "assigned",
-    "provinces": null,
+    "provinces": [
+      {
+        "short": "AUH",
+        "name": "Abu Dhabi",
+        "alias": null
+      },
+      {
+        "short": "AJM",
+        "name": "Ajman",
+        "alias": null
+      },
+      {
+        "short": "DXB",
+        "name": "Dubai",
+        "alias": null
+      },
+      {
+        "short": "FJR",
+        "name": "Fujairah",
+        "alias": null
+      },
+      {
+        "short": "RAK",
+        "name": "Ras Al Khaimah",
+        "alias": null
+      },
+      {
+        "short": "SHJ",
+        "name": "Sharjah",
+        "alias": null
+      },
+      {
+        "short": "UAQ",
+        "name": "Umm Al Quwain",
+        "alias": null
+      }
+    ],
     "alias": null
   },
   {
