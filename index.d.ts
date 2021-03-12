@@ -4,7 +4,7 @@ declare namespace nodeCountries {
     name: string;
     alias?: string | undefined;
   };
-  type Country = {
+  interface CountryRaw {
     alpha2: string;
     alpha3: string;
     countryCallingCodes: string[];
@@ -15,6 +15,8 @@ declare namespace nodeCountries {
     status: string;
     provinces?: Array<Province>;
     alias?: string | undefined;
+  }
+  interface Country extends CountryRaw {
     getProvinceByName(name: string, useAlias?: boolean): Province | undefined;
     findProvinceByName(name: string, useAlias?: boolean): Province | undefined;
     getProvinceByNameOrShortName(
@@ -25,7 +27,7 @@ declare namespace nodeCountries {
       nameOrShortName: string,
       useAlias?: boolean
     ): Province | undefined;
-  };
+  }
 
   interface NodeCountries {
     getCountryByName(name: string, useAlias?: boolean): Country | undefined;
@@ -38,7 +40,8 @@ declare namespace nodeCountries {
       nameOrShortName: string,
       useAlias?: boolean
     ): Country | undefined;
-    JSON: { [countryCode in string]: Country };
+    JSON: { [countryCode in string]: CountryRaw };
+    [countryCode in string]: Country;
   }
 }
 
