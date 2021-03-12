@@ -5,8 +5,12 @@ const _ = require("lodash");
 const countries = require("./data/countries.json");
 
 const toExport = {
-  JSON: countries
+  JSON: countries,
 };
+
+function isString(value) {
+  return typeof value === "string" || value instanceof String;
+}
 
 /**
  * Find the country object of the given country name
@@ -16,13 +20,13 @@ const toExport = {
  * @return {Object} country           country object
  */
 function getCountryByName(name, useAlias) {
-  if (!_.isString(name)) return undefined;
+  if (!isString(name)) return undefined;
 
-  return _.find(countries, function(country) {
+  return (countries || []).find(function (country) {
     if (useAlias) {
       return (
         country.name.toUpperCase() === name.toUpperCase() ||
-        _.find(country.alias, function(alias) {
+        (country.alias || []).find(function (alias) {
           return alias.toUpperCase() === name.toUpperCase();
         })
       );
@@ -39,14 +43,14 @@ function getCountryByName(name, useAlias) {
  * @return {Object} country           country object
  */
 function getCountryByNameOrShortName(name, useAlias) {
-  if (!_.isString(name)) return undefined;
+  if (!isString(name)) return undefined;
 
-  return _.find(countries, function(country) {
+  return (countries || []).find(function (country) {
     if (useAlias) {
       return (
         country.name.toUpperCase() === name.toUpperCase() ||
         country.alpha2.toUpperCase() === name.toUpperCase() ||
-        _.find(country.alias, function(alias) {
+        (country.alias || []).find(function (alias) {
           return alias.toUpperCase() === name.toUpperCase();
         })
       );
@@ -71,13 +75,13 @@ toExport.findCountryByNameOrShortName = getCountryByNameOrShortName;
  * @return {Object} province          province object
  */
 function getProvinceByName(name, useAlias) {
-  if (!_.isString(name) || !_.isArray(this.provinces)) return undefined;
+  if (!isString(name) || !Array.isArray(this.provinces)) return undefined;
 
-  return _.find(this.provinces, function(province) {
+  return (this.provinces || []).find(function (province) {
     if (useAlias) {
       return (
         province.name.toUpperCase() === name.toUpperCase() ||
-        _.find(province.alias, function(alias) {
+        (province.alias || []).find(function (alias) {
           return alias.toUpperCase() === name.toUpperCase();
         })
       );
@@ -94,15 +98,15 @@ function getProvinceByName(name, useAlias) {
  * @return {Object} province          province object
  */
 function getProvinceByNameOrShortName(name, useAlias) {
-  if (!_.isString(name) || !_.isArray(this.provinces)) return undefined;
+  if (!isString(name) || !Array.isArray(this.provinces)) return undefined;
 
-  return _.find(this.provinces, function(province) {
+  return (this.provinces || []).find(function (province) {
     if (useAlias) {
       return (
         province.name.toUpperCase() === name.toUpperCase() ||
         (province.short &&
           province.short.toUpperCase() === name.toUpperCase()) ||
-        _.find(province.alias, function(alias) {
+        (province.alias || []).find(function (alias) {
           return alias.toUpperCase() === name.toUpperCase();
         })
       );
@@ -119,17 +123,12 @@ function getProvinceByNameOrShortName(name, useAlias) {
  * Add search function to each country and map each country by alpha2
  */
 const listCountries = _.keyBy(_.cloneDeep(countries), "alpha2");
-_.forEach(listCountries, function(country, key) {
-  country.getProvinceByName = _.bind(getProvinceByName, country);
-  country.findProvinceByName = _.bind(getProvinceByName, country);
-  country.getProvinceByNameOrShortName = _.bind(
-    getProvinceByNameOrShortName,
-    country
-  );
-  country.findProvinceByNameOrShortName = _.bind(
-    getProvinceByNameOrShortName,
-    country
-  );
+Object.keys(listCountries).forEach(function (key) {
+  const country = listCountries[key];
+  country.getProvinceByName = getProvinceByName.bind(country);
+  country.findProvinceByName = getProvinceByName.bind(country);
+  country.getProvinceByNameOrShortName = getProvinceByNameOrShortName.bind(country);
+  country.findProvinceByNameOrShortName = getProvinceByNameOrShortName.bind(country);
   toExport[key] = country;
 });
 
