@@ -17,27 +17,39 @@ declare namespace nodeCountries {
     alias?: string | undefined;
   }
   interface Country extends CountryRaw {
-    getProvinceByName(name: string, useAlias?: boolean): Province | undefined;
-    findProvinceByName(name: string, useAlias?: boolean): Province | undefined;
+    getProvinceByName(
+      name?: string | undefined,
+      useAlias?: boolean
+    ): Province | undefined;
+    findProvinceByName(
+      name?: string | undefined,
+      useAlias?: boolean
+    ): Province | undefined;
     getProvinceByNameOrShortName(
-      nameOrShortName: string,
+      nameOrShortName?: string | undefined,
       useAlias?: boolean
     ): Province | undefined;
     findProvinceByNameOrShortName(
-      nameOrShortName: string,
+      nameOrShortName?: string | undefined,
       useAlias?: boolean
     ): Province | undefined;
   }
 
   interface NodeCountries {
-    getCountryByName(name: string, useAlias?: boolean): Country | undefined;
-    findCountryByName(name: string, useAlias?: boolean): Country | undefined;
+    getCountryByName(
+      name?: string | undefined,
+      useAlias?: boolean
+    ): Country | undefined;
+    findCountryByName(
+      name?: string | undefined,
+      useAlias?: boolean
+    ): Country | undefined;
     getCountryByNameOrShortName(
-      nameOrShortName: string,
+      nameOrShortName?: string | undefined,
       useAlias?: boolean
     ): Country | undefined;
     findCountryByNameOrShortName(
-      nameOrShortName: string,
+      nameOrShortName?: string | undefined,
       useAlias?: boolean
     ): Country | undefined;
     JSON: { [countryCode in string]: CountryRaw };
