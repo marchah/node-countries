@@ -47,7 +47,11 @@ This module currently has states and provinces for:
 
 ### Data
 
-#### `JSON`
+#### `json`
+
+```javascript
+import { json } from 'node-countries'
+```
 
 Return a JSON array with all the countries
 
@@ -98,7 +102,7 @@ Return a JSON array with all the countries
 All the contry are accessible directly through their [ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) (two letter code)
 
 ```javascript
-const countries = require("node-countries");
+import countries from 'node-countries';
 
 console.log(countries.AC);
 /*
@@ -137,18 +141,26 @@ Return the matched province object, else undefined (alias: `findProvinceByNameOr
 
 ### getCountryByName(name, [useAlias])
 
+```javascript
+import { getCountryByName } from 'node-countries'
+```
+
 Return the matched country object, else undefined (alias: `findCountryByName`)
 
 ### getCountryByNameOrShortName(name or short name (alpha2), [useAlias])
+
+```javascript
+import { getCountryByNameOrShortName } from 'node-countries'
+```
 
 Return the matched country object, else undefined (alias: `findCountryByNameOrShortName`)
 
 ## Examples
 
 ```javascript
-const countries = require("node-countries");
+import { getCountryByName } from 'node-countries'
 
-console.log(countries.getCountryByName("Andorra"));
+console.log(getCountryByName("Andorra"));
 /*
   {
     "alpha2": "AD",
@@ -172,7 +184,7 @@ console.log(countries.getCountryByName("Andorra"));
 ```
 
 ```javascript
-const countries = require("node-countries");
+import countries from "node-countries";
 
 console.log(countries.CA.getProvinceByName("Labrador", false));
 /*

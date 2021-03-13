@@ -135,7 +135,7 @@ function getProvinceByNameOrShortName(
  * Add search function to each country and map each country by alpha2
  */
 const listCountries = keyBy(cloneDeep(countriesRaw), 'alpha2');
-export const countries: { [countryCode: string]: Country } = Object.keys(listCountries).reduce(
+const countries: { [countryCode: string]: Country } = Object.keys(listCountries).reduce(
   (acc, key) => ({
     ...acc,
     [key]: {
@@ -148,3 +148,5 @@ export const countries: { [countryCode: string]: Country } = Object.keys(listCou
   }),
   {},
 );
+
+export default countries;

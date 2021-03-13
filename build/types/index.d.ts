@@ -18,6 +18,7 @@ export declare function getCountryByName(name?: Maybe<string>, useAlias?: Maybe<
 export declare function getCountryByNameOrShortName(name?: Maybe<string>, useAlias?: Maybe<boolean>): Maybe<CountryRaw>;
 export declare const findCountryByName: typeof getCountryByName;
 export declare const findCountryByNameOrShortName: typeof getCountryByNameOrShortName;
-export declare const countries: {
+declare const countries: {
     [countryCode: string]: Country;
 };
+export default countries;

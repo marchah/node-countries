@@ -1,8 +1,7 @@
 import _ from 'lodash';
 import { expect } from 'chai';
 
-import {
-  countries,
+import countries, {
   json,
   getCountryByName,
   findCountryByName,

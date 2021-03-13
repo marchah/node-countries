@@ -3,7 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.countries = exports.findCountryByNameOrShortName = exports.findCountryByName = exports.getCountryByNameOrShortName = exports.getCountryByName = exports.json = void 0;
+exports.findCountryByNameOrShortName = exports.findCountryByName = exports.getCountryByNameOrShortName = exports.getCountryByName = exports.json = void 0;
 const lodash_1 = require("lodash");
 const countries_1 = __importDefault(require("./countries"));
 exports.json = Object.keys(countries_1.default).map((key) => countries_1.default[key]);
@@ -104,7 +104,7 @@ function getProvinceByNameOrShortName(name, useAlias) {
  * Add search function to each country and map each country by alpha2
  */
 const listCountries = lodash_1.keyBy(lodash_1.cloneDeep(countries_1.default), 'alpha2');
-exports.countries = Object.keys(listCountries).reduce((acc, key) => ({
+const countries = Object.keys(listCountries).reduce((acc, key) => ({
     ...acc,
     [key]: {
         ...listCountries[key],
@@ -114,3 +114,4 @@ exports.countries = Object.keys(listCountries).reduce((acc, key) => ({
         findProvinceByNameOrShortName: getProvinceByNameOrShortName.bind(listCountries[key]),
     },
 }), {});
+exports.default = countries;
