@@ -1,11 +1,12 @@
 {
   "name": "node-countries",
   "version": "1.6.0",
-  "main": "./index.ts",
+  "main": "build/index.js",
   "description": "Countries and Provinces JSON Data",
   "scripts": {
     "test": "jest --env=node --colors",
     "lint": "eslint --ext ts ./",
+    "build": "tsc",
     "typecheck": "tsc"
   },
   "keywords": [
