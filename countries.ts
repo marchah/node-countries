@@ -1,6 +1,6 @@
-import { CountryRaw } from './types';
+import { Country } from './types';
 
-const countries: { [countryCode: string]: CountryRaw } = {
+const countries: { [countryCode: string]: Country } = {
   AC: {
     alpha2: 'AC',
     alpha3: '',

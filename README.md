@@ -99,7 +99,7 @@ Return a JSON array with all the countries
 
 #### Short cut
 
-All the contry are accessible directly through their [ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) (two letter code)
+All the countries are accessible directly through their [ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) (two letter code)
 
 ```javascript
 import countries from 'node-countries';
@@ -127,16 +127,6 @@ console.log(countries.AC);
 */
 ```
 
-Also you have the possibility to find province information by name
-
-##### getProvinceByName(name, [useAlias])
-
-Return the matched province object, else undefined (alias: `findProvinceByName`)
-
-##### getProvinceByNameOrShortName(name or short name, [useAlias])
-
-Return the matched province object, else undefined (alias: `findProvinceByNameOrShortName`)
-
 ## Methods
 
 ### getCountryByName(name, [useAlias])
@@ -145,7 +135,7 @@ Return the matched province object, else undefined (alias: `findProvinceByNameOr
 import { getCountryByName } from 'node-countries'
 ```
 
-Return the matched country object, else undefined (alias: `findCountryByName`)
+Return the matched country object, else null (alias: `findCountryByName`)
 
 ### getCountryByNameOrShortName(name or short name (alpha2), [useAlias])
 
@@ -153,7 +143,15 @@ Return the matched country object, else undefined (alias: `findCountryByName`)
 import { getCountryByNameOrShortName } from 'node-countries'
 ```
 
-Return the matched country object, else undefined (alias: `findCountryByNameOrShortName`)
+Return the matched country object, else null (alias: `findCountryByNameOrShortName`)
+
+##### getProvinceByName(country, provinceName, [useAlias])
+
+Return the matched province object, else null (alias: `findProvinceByName`)
+
+##### getProvinceByNameOrShortName(country, provinceName or short name, [useAlias])
+
+Return the matched province object, else null (alias: `findProvinceByNameOrShortName`)
 
 ## Examples
 
@@ -186,12 +184,12 @@ console.log(getCountryByName("Andorra"));
 ```javascript
 import countries from "node-countries";
 
-console.log(countries.CA.getProvinceByName("Labrador", false));
+console.log(getProvinceByName(countries.CA, "Labrador", false));
 /*
-  undefined
+  null
 */
 
-console.log(countries.CA.getProvinceByName("Labrador", true));
+console.log(getProvinceByName(countries.CA, "Labrador", true));
 /*
   {
     "short": "NL",

@@ -7,6 +7,10 @@ import countries, {
   findCountryByName,
   getCountryByNameOrShortName,
   findCountryByNameOrShortName,
+  getProvinceByName,
+  findProvinceByName,
+  getProvinceByNameOrShortName,
+  findProvinceByNameOrShortName,
 } from '../index';
 
 const Andorra = {
@@ -76,7 +80,7 @@ describe('Unit Testing ->', () => {
       expect(countries[Andorra.alpha2]).to.be.an('object');
     });
 
-    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status` `provinces`, `alias`, getProvinceByName` and `findProvinceByName` as object keys', () => {
+    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status` `provinces`, `alias` as object keys', () => {
       Object.keys(countries).forEach((key) => {
         if (_.isString(key) && key.length === 2) {
           expect(countries[key]).to.have.all.keys([
@@ -90,10 +94,6 @@ describe('Unit Testing ->', () => {
             'status',
             'provinces',
             'alias',
-            'getProvinceByName',
-            'findProvinceByName',
-            'getProvinceByNameOrShortName',
-            'findProvinceByNameOrShortName',
           ]);
         }
       });
@@ -290,241 +290,245 @@ describe('Unit Testing ->', () => {
     describe('Province Search #', () => {
       describe('getProvinceByName()', () => {
         it('should be a function', () => {
-          expect(countries[Andorra.alpha2].getProvinceByName).to.be.a('function');
+          expect(getProvinceByName).to.be.a('function');
         });
 
         it('should return `null` when no provinces', () => {
-          expect(countries[Andorra.alpha2].getProvinceByName()).to.eql(null);
+          expect(getProvinceByName(countries[Andorra.alpha2])).to.eql(null);
         });
 
         it('should return `null` when no argument', () => {
-          expect(countries.CA.getProvinceByName()).to.eql(null);
+          expect(getProvinceByName(countries.CA)).to.eql(null);
         });
 
         it('should return province object when find it', () => {
-          expect(countries.CA.getProvinceByName('Newfoundland and Labrador')).to.eql(
+          expect(getProvinceByName(countries.CA, 'Newfoundland and Labrador')).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province object when find it by ignoring case', () => {
-          expect(countries.CA.getProvinceByName('NewfoUndland and LabrAdor')).to.eql(
+          expect(getProvinceByName(countries.CA, 'NewfoUndland and LabrAdor')).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return `null` when searching alias with no useAlias parameter', () => {
-          expect(countries.CA.getProvinceByName('NewfoUndland')).to.eql(null);
+          expect(getProvinceByName(countries.CA, 'NewfoUndland')).to.eql(null);
         });
 
         it('should return `null` when searching alias with useAlias parameter `false`', () => {
-          expect(countries.CA.getProvinceByName('NewfoUndland', false)).to.eql(null);
+          expect(getProvinceByName(countries.CA, 'NewfoUndland', false)).to.eql(null);
         });
 
         it('should return province object when searching alias with useAlias parameter `true`', () => {
-          expect(countries.CA.getProvinceByName('NewfoUndland', true)).to.eql(
+          expect(getProvinceByName(countries.CA, 'NewfoUndland', true)).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province by ignoring case when searching alias with useAlias parameter `true`', () => {
-          expect(countries.CA.getProvinceByName('LabrAdor', true)).to.eql(NewfoundlandAndLabrador);
+          expect(getProvinceByName(countries.CA, 'LabrAdor', true)).to.eql(NewfoundlandAndLabrador);
         });
 
         it('should return province object when searching alias with useAlias parameter `true` and province has no alias', () => {
-          expect(countries.US.getProvinceByName('caLifoRnia', true)).to.eql(California);
+          expect(getProvinceByName(countries.US, 'caLifoRnia', true)).to.eql(California);
         });
       });
 
       describe('findProvinceByName()', () => {
         it('should be a function', () => {
-          expect(countries[Andorra.alpha2].findProvinceByName).to.be.a('function');
+          expect(findProvinceByName).to.be.a('function');
         });
 
         it('should return `null` when no provinces', () => {
-          expect(countries[Andorra.alpha2].findProvinceByName()).to.eql(null);
+          expect(findProvinceByName(countries[Andorra.alpha2])).to.eql(null);
         });
 
         it('should return `null` when no argument', () => {
-          expect(countries.CA.findProvinceByName()).to.eql(null);
+          expect(findProvinceByName(countries.CA)).to.eql(null);
         });
 
         it('should return province object when find it', () => {
-          expect(countries.CA.findProvinceByName('Newfoundland and Labrador')).to.eql(
+          expect(findProvinceByName(countries.CA, 'Newfoundland and Labrador')).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province object when find it by ignoring case', () => {
-          expect(countries.CA.findProvinceByName('NewfoUndland and LabrAdor')).to.eql(
+          expect(findProvinceByName(countries.CA, 'NewfoUndland and LabrAdor')).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return `null` when searching alias with no useAlias parameter', () => {
-          expect(countries.CA.findProvinceByName('NewfoUndland')).to.eql(null);
+          expect(findProvinceByName(countries.CA, 'NewfoUndland')).to.eql(null);
         });
 
         it('should return `null` when searching alias with useAlias parameter `false`', () => {
-          expect(countries.CA.findProvinceByName('NewfoUndland', false)).to.eql(null);
+          expect(findProvinceByName(countries.CA, 'NewfoUndland', false)).to.eql(null);
         });
 
         it('should return province object when searching alias with useAlias parameter `true`', () => {
-          expect(countries.CA.findProvinceByName('NewfoUndland', true)).to.eql(
+          expect(findProvinceByName(countries.CA, 'NewfoUndland', true)).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province by ignoring case when searching alias with useAlias parameter `true`', () => {
-          expect(countries.CA.findProvinceByName('LabrAdor', true)).to.eql(NewfoundlandAndLabrador);
+          expect(findProvinceByName(countries.CA, 'LabrAdor', true)).to.eql(
+            NewfoundlandAndLabrador,
+          );
         });
 
         it('should return province object when searching alias with useAlias parameter `true` and province has no alias', () => {
-          expect(countries.US.findProvinceByName('caLifoRnia', true)).to.eql(California);
+          expect(findProvinceByName(countries.US, 'caLifoRnia', true)).to.eql(California);
         });
       });
 
       describe('getProvinceByNameOrShortName()', () => {
         it('should be a function', () => {
-          expect(countries[Andorra.alpha2].getProvinceByNameOrShortName).to.be.a('function');
+          expect(getProvinceByNameOrShortName).to.be.a('function');
         });
 
         it('should return `null` when no provinces', () => {
-          expect(countries[Andorra.alpha2].getProvinceByNameOrShortName()).to.eql(null);
+          expect(getProvinceByNameOrShortName(countries[Andorra.alpha2])).to.eql(null);
         });
 
         it('should return `null` when no argument', () => {
-          expect(countries.CA.getProvinceByNameOrShortName()).to.eql(null);
+          expect(getProvinceByNameOrShortName(countries.CA)).to.eql(null);
         });
 
         it('should return province object when find it', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('Newfoundland and Labrador')).to.eql(
+          expect(getProvinceByNameOrShortName(countries.CA, 'Newfoundland and Labrador')).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province object when find it using short name', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('NL')).to.eql(NewfoundlandAndLabrador);
+          expect(getProvinceByNameOrShortName(countries.CA, 'NL')).to.eql(NewfoundlandAndLabrador);
         });
 
         it('should return province object when find it by ignoring case', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('NewfoUndland and LabrAdor')).to.eql(
+          expect(getProvinceByNameOrShortName(countries.CA, 'NewfoUndland and LabrAdor')).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province object when find it by ignoring case using short name', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('Nl')).to.eql(NewfoundlandAndLabrador);
+          expect(getProvinceByNameOrShortName(countries.CA, 'Nl')).to.eql(NewfoundlandAndLabrador);
         });
 
         it('should return `null` when country has no short name province', () => {
-          expect(countries.BO.getProvinceByNameOrShortName('VA')).to.eql(null);
+          expect(getProvinceByNameOrShortName(countries.BO, 'VA')).to.eql(null);
         });
 
         it('should return `null` when searching alias with no useAlias parameter', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('NewfoUndland')).to.eql(null);
+          expect(getProvinceByNameOrShortName(countries.CA, 'NewfoUndland')).to.eql(null);
         });
 
         it('should return `null` when searching alias with useAlias parameter `false`', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('NewfoUndland', false)).to.eql(null);
+          expect(getProvinceByNameOrShortName(countries.CA, 'NewfoUndland', false)).to.eql(null);
         });
 
         it('should return province object when searching alias with useAlias parameter `true`', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('NewfoUndland', true)).to.eql(
+          expect(getProvinceByNameOrShortName(countries.CA, 'NewfoUndland', true)).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province object when searching alias with useAlias parameter `true` using short name', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('NL', true)).to.eql(
+          expect(getProvinceByNameOrShortName(countries.CA, 'NL', true)).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province by ignoring case when searching alias with useAlias parameter `true`', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('LabrAdor', true)).to.eql(
+          expect(getProvinceByNameOrShortName(countries.CA, 'LabrAdor', true)).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province by ignoring case when searching alias with useAlias parameter `true` using short name', () => {
-          expect(countries.CA.getProvinceByNameOrShortName('Nl', true)).to.eql(
+          expect(getProvinceByNameOrShortName(countries.CA, 'Nl', true)).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return `null` when country has no short name province with useAlias parameter `true`', () => {
-          expect(countries.BO.getProvinceByNameOrShortName('VA', true)).to.eql(null);
+          expect(getProvinceByNameOrShortName(countries.BO, 'VA', true)).to.eql(null);
         });
 
         it('should return province object when searching alias with useAlias parameter `true` and province has no alias', () => {
-          expect(countries.US.getProvinceByNameOrShortName('caLifoRnia', true)).to.eql(California);
+          expect(getProvinceByNameOrShortName(countries.US, 'caLifoRnia', true)).to.eql(California);
         });
       });
 
       describe('findProvinceByNameOrShortName()', () => {
         it('should be a function', () => {
-          expect(countries[Andorra.alpha2].findProvinceByNameOrShortName).to.be.a('function');
+          expect(findProvinceByNameOrShortName).to.be.a('function');
         });
 
         it('should return `null` when no provinces', () => {
-          expect(countries[Andorra.alpha2].findProvinceByNameOrShortName()).to.eql(null);
+          expect(findProvinceByNameOrShortName(countries[Andorra.alpha2])).to.eql(null);
         });
 
         it('should return `null` when no argument', () => {
-          expect(countries.CA.findProvinceByNameOrShortName()).to.eql(null);
+          expect(findProvinceByNameOrShortName(countries.CA)).to.eql(null);
         });
 
         it('should return province object when find it', () => {
-          expect(countries.CA.findProvinceByNameOrShortName('Newfoundland and Labrador')).to.eql(
+          expect(findProvinceByNameOrShortName(countries.CA, 'Newfoundland and Labrador')).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province object when find it using short name', () => {
-          expect(countries.CA.findProvinceByNameOrShortName('NL')).to.eql(NewfoundlandAndLabrador);
+          expect(findProvinceByNameOrShortName(countries.CA, 'NL')).to.eql(NewfoundlandAndLabrador);
         });
 
         it('should return province object when find it by ignoring case', () => {
-          expect(countries.CA.findProvinceByNameOrShortName('NewfoUndland and LabrAdor')).to.eql(
+          expect(findProvinceByNameOrShortName(countries.CA, 'NewfoUndland and LabrAdor')).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province object when find it by ignoring case using short name', () => {
-          expect(countries.CA.findProvinceByNameOrShortName('Nl')).to.eql(NewfoundlandAndLabrador);
+          expect(findProvinceByNameOrShortName(countries.CA, 'Nl')).to.eql(NewfoundlandAndLabrador);
         });
 
         it('should return `null` when country has no short name province', () => {
-          expect(countries.BO.findProvinceByNameOrShortName('VA')).to.eql(null);
+          expect(findProvinceByNameOrShortName(countries.BO, 'VA')).to.eql(null);
         });
 
         it('should return `null` when searching alias with no useAlias parameter', () => {
-          expect(countries.CA.findProvinceByNameOrShortName('NewfoUndland')).to.eql(null);
+          expect(findProvinceByNameOrShortName(countries.CA, 'NewfoUndland')).to.eql(null);
         });
 
         it('should return `null` when searching alias with useAlias parameter `false`', () => {
-          expect(countries.CA.findProvinceByNameOrShortName('NewfoUndland', false)).to.eql(null);
+          expect(findProvinceByNameOrShortName(countries.CA, 'NewfoUndland', false)).to.eql(null);
         });
 
         it('should return province object when searching alias with useAlias parameter `true`', () => {
-          expect(countries.CA.findProvinceByNameOrShortName('NewfoUndland', true)).to.eql(
+          expect(findProvinceByNameOrShortName(countries.CA, 'NewfoUndland', true)).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return province by ignoring case when searching alias with useAlias parameter `true`', () => {
-          expect(countries.CA.findProvinceByNameOrShortName('LabrAdor', true)).to.eql(
+          expect(findProvinceByNameOrShortName(countries.CA, 'LabrAdor', true)).to.eql(
             NewfoundlandAndLabrador,
           );
         });
 
         it('should return `null` when country has no short name province with useAlias parameter `true`', () => {
-          expect(countries.BO.findProvinceByNameOrShortName('VA', true)).to.eql(null);
+          expect(findProvinceByNameOrShortName(countries.BO, 'VA', true)).to.eql(null);
         });
 
         it('should return province object when searching alias with useAlias parameter `true` and province has no alias', () => {
-          expect(countries.US.findProvinceByNameOrShortName('caLifoRnia', true)).to.eql(California);
+          expect(findProvinceByNameOrShortName(countries.US, 'caLifoRnia', true)).to.eql(
+            California,
+          );
         });
       });
     });

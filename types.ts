@@ -7,7 +7,7 @@ export type Province = {
   region?: Maybe<string>;
 };
 
-export interface CountryRaw {
+export interface Country {
   alpha2: string;
   alpha3: string;
   countryCallingCodes: string[];
@@ -18,17 +18,4 @@ export interface CountryRaw {
   status: string;
   provinces?: Maybe<Array<Province>>;
   alias?: Maybe<string[]>;
-}
-
-export interface Country extends CountryRaw {
-  getProvinceByName(name?: Maybe<string>, useAlias?: boolean): Maybe<Province>;
-  findProvinceByName(name?: Maybe<string>, useAlias?: boolean): Maybe<Province>;
-  getProvinceByNameOrShortName(
-    nameOrShortName?: Maybe<string>,
-    useAlias?: boolean,
-  ): Maybe<Province>;
-  findProvinceByNameOrShortName(
-    nameOrShortName?: Maybe<string>,
-    useAlias?: boolean,
-  ): Maybe<Province>;
 }

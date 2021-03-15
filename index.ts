@@ -1,9 +1,9 @@
-import { cloneDeep, keyBy, isString } from 'lodash';
+import { isString, keyBy } from 'lodash';
 
 import countriesRaw from './countries';
-import { Country, CountryRaw, Maybe, Province } from './types';
+import { Country, Maybe, Province } from './types';
 
-export const json: CountryRaw[] = Object.keys(countriesRaw).map((key) => countriesRaw[key]);
+export const json: Country[] = Object.keys(countriesRaw).map((key) => countriesRaw[key]);
 
 /**
  * Find the country object of the given country name
@@ -12,14 +12,11 @@ export const json: CountryRaw[] = Object.keys(countriesRaw).map((key) => countri
  * @param {Boolean} [useAlias]        use alias flag, default `false`
  * @return {Object} country           country object
  */
-export function getCountryByName(
-  name?: Maybe<string>,
-  useAlias?: Maybe<boolean>,
-): Maybe<CountryRaw> {
+export function getCountryByName(name?: Maybe<string>, useAlias?: Maybe<boolean>): Maybe<Country> {
   if (!isString(name)) return null;
 
   return (
-    (json || []).find(function (country: CountryRaw) {
+    (json || []).find(function (country: Country) {
       if (useAlias) {
         return (
           country.name.toUpperCase() === name.toUpperCase() ||
@@ -43,11 +40,11 @@ export function getCountryByName(
 export function getCountryByNameOrShortName(
   name?: Maybe<string>,
   useAlias?: Maybe<boolean>,
-): Maybe<CountryRaw> {
+): Maybe<Country> {
   if (!isString(name)) return null;
 
   return (
-    (json || []).find(function (country: CountryRaw) {
+    (json || []).find(function (country: Country) {
       if (useAlias) {
         return (
           country.name.toUpperCase() === name.toUpperCase() ||
@@ -75,15 +72,15 @@ export const findCountryByNameOrShortName = getCountryByNameOrShortName;
  * @param {Boolean} [useAlias]        use alias flag, default `false`
  * @return {Object} province          province object
  */
-function getProvinceByName(
-  this: CountryRaw,
+export function getProvinceByName(
+  country: Country,
   name?: Maybe<string>,
   useAlias?: Maybe<boolean>,
 ): Maybe<Province> {
-  if (!isString(name) || !Array.isArray(this.provinces)) return null;
+  if (!isString(name) || !Array.isArray(country.provinces)) return null;
 
   return (
-    (this.provinces || []).find(function (province: Province) {
+    (country.provinces || []).find(function (province: Province) {
       if (useAlias) {
         return (
           province.name.toUpperCase() === name.toUpperCase() ||
@@ -104,15 +101,15 @@ function getProvinceByName(
  * @param {Boolean} [useAlias]        use alias flag, default `false`
  * @return {Object} province          province object
  */
-function getProvinceByNameOrShortName(
-  this: CountryRaw,
+export function getProvinceByNameOrShortName(
+  country: Country,
   name?: Maybe<string>,
   useAlias?: Maybe<boolean>,
 ): Maybe<Province> {
-  if (!isString(name) || !Array.isArray(this.provinces)) return null;
+  if (!isString(name) || !Array.isArray(country.provinces)) return null;
 
   return (
-    (this.provinces || []).find(function (province: Province) {
+    (country.provinces || []).find(function (province: Province) {
       if (useAlias) {
         return (
           province.name.toUpperCase() === name.toUpperCase() ||
@@ -130,23 +127,7 @@ function getProvinceByNameOrShortName(
   );
 }
 
-/**
- *
- * Add search function to each country and map each country by alpha2
- */
-const listCountries = keyBy(cloneDeep(countriesRaw), 'alpha2');
-const countries: { [countryCode: string]: Country } = Object.keys(listCountries).reduce(
-  (acc, key) => ({
-    ...acc,
-    [key]: {
-      ...listCountries[key],
-      getProvinceByName: getProvinceByName.bind(listCountries[key]),
-      findProvinceByName: getProvinceByName.bind(listCountries[key]),
-      getProvinceByNameOrShortName: getProvinceByNameOrShortName.bind(listCountries[key]),
-      findProvinceByNameOrShortName: getProvinceByNameOrShortName.bind(listCountries[key]),
-    },
-  }),
-  {},
-);
+export const findProvinceByName = getProvinceByName;
+export const findProvinceByNameOrShortName = getProvinceByNameOrShortName;
 
-export default countries;
+export default keyBy(countriesRaw, 'alpha2');
