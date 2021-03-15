@@ -1,6 +1,4 @@
-import { Country } from './types';
-
-const countries: { [countryCode: string]: Country } = {
+export default {
   AC: {
     alpha2: 'AC',
     alpha3: '',
@@ -9528,5 +9526,3 @@ const countries: { [countryCode: string]: Country } = {
     alias: null,
   },
 };
-
-export default countries;

@@ -3,7 +3,12 @@ import { isString, keyBy } from 'lodash';
 import countriesRaw from './countries';
 import { Country, Maybe, Province } from './types';
 
-export const json: Country[] = Object.keys(countriesRaw).map((key) => countriesRaw[key]);
+export const json: Country[] = (Object.keys(countriesRaw) as Array<
+  keyof typeof countriesRaw
+>).reduce((acc, current) => {
+  acc.push(countriesRaw[current]);
+  return acc;
+}, [] as typeof countriesRaw[keyof typeof countriesRaw][]);
 
 /**
  * Find the country object of the given country name
@@ -130,4 +135,4 @@ export function getProvinceByNameOrShortName(
 export const findProvinceByName = getProvinceByName;
 export const findProvinceByNameOrShortName = getProvinceByNameOrShortName;
 
-export default keyBy(countriesRaw, 'alpha2');
+export default countriesRaw;

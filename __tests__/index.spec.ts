@@ -77,12 +77,13 @@ describe('Unit Testing ->', () => {
 
   describe('alpha2 ->', () => {
     it('should return an object', () => {
-      expect(countries[Andorra.alpha2]).to.be.an('object');
+      expect(countries.AD).to.be.an('object');
     });
 
     it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status` `provinces`, `alias` as object keys', () => {
       Object.keys(countries).forEach((key) => {
         if (_.isString(key) && key.length === 2) {
+          // @ts-ignore
           expect(countries[key]).to.have.all.keys([
             'alpha2',
             'alpha3',
@@ -294,7 +295,7 @@ describe('Unit Testing ->', () => {
         });
 
         it('should return `null` when no provinces', () => {
-          expect(getProvinceByName(countries[Andorra.alpha2])).to.eql(null);
+          expect(getProvinceByName(countries.AD)).to.eql(null);
         });
 
         it('should return `null` when no argument', () => {
@@ -342,7 +343,7 @@ describe('Unit Testing ->', () => {
         });
 
         it('should return `null` when no provinces', () => {
-          expect(findProvinceByName(countries[Andorra.alpha2])).to.eql(null);
+          expect(findProvinceByName(countries.AD)).to.eql(null);
         });
 
         it('should return `null` when no argument', () => {
@@ -392,7 +393,7 @@ describe('Unit Testing ->', () => {
         });
 
         it('should return `null` when no provinces', () => {
-          expect(getProvinceByNameOrShortName(countries[Andorra.alpha2])).to.eql(null);
+          expect(getProvinceByNameOrShortName(countries.AD)).to.eql(null);
         });
 
         it('should return `null` when no argument', () => {
@@ -470,7 +471,7 @@ describe('Unit Testing ->', () => {
         });
 
         it('should return `null` when no provinces', () => {
-          expect(findProvinceByNameOrShortName(countries[Andorra.alpha2])).to.eql(null);
+          expect(findProvinceByNameOrShortName(countries.AD)).to.eql(null);
         });
 
         it('should return `null` when no argument', () => {
