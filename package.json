@@ -51,10 +51,7 @@
     "watchPlugins": [
       "jest-watch-typeahead/filename",
       "jest-watch-typeahead/testname"
-    ],
-    "transform": {
-      "^.+\\.ts$": "./__tests__/babel-wrapper.js"
-    }
+    ]
   },
   "repository": {
     "type": "git",
