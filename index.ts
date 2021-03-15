@@ -3,12 +3,11 @@ import { isString, keyBy } from 'lodash';
 import countriesRaw from './countries';
 import { Country, Maybe, Province } from './types';
 
-export const json: Country[] = (Object.keys(countriesRaw) as Array<
-  keyof typeof countriesRaw
->).reduce((acc, current) => {
-  acc.push(countriesRaw[current]);
-  return acc;
-}, [] as typeof countriesRaw[keyof typeof countriesRaw][]);
+export const getCountries = (): Country[] =>
+  (Object.keys(countriesRaw) as Array<keyof typeof countriesRaw>).reduce((acc, current) => {
+    acc.push(countriesRaw[current]);
+    return acc;
+  }, [] as typeof countriesRaw[keyof typeof countriesRaw][]);
 
 /**
  * Find the country object of the given country name
@@ -21,7 +20,7 @@ export function getCountryByName(name?: Maybe<string>, useAlias?: Maybe<boolean>
   if (!isString(name)) return null;
 
   return (
-    (json || []).find(function (country: Country) {
+    (getCountries() || []).find(function (country: Country) {
       if (useAlias) {
         return (
           country.name.toUpperCase() === name.toUpperCase() ||
@@ -49,7 +48,7 @@ export function getCountryByNameOrShortName(
   if (!isString(name)) return null;
 
   return (
-    (json || []).find(function (country: Country) {
+    (getCountries() || []).find(function (country: Country) {
       if (useAlias) {
         return (
           country.name.toUpperCase() === name.toUpperCase() ||

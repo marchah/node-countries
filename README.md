@@ -47,10 +47,10 @@ This module currently has states and provinces for:
 
 ### Data
 
-#### `json`
+#### `getCountries()`
 
 ```javascript
-import { json } from 'node-countries'
+import { getCountries } from 'node-countries'
 ```
 
 Return a JSON array with all the countries

@@ -2,7 +2,7 @@ import _ from 'lodash';
 import { expect } from 'chai';
 
 import countries, {
-  json,
+  getCountries,
   getCountryByName,
   findCountryByName,
   getCountryByNameOrShortName,
@@ -52,13 +52,13 @@ const GuineaBissau = {
 };
 
 describe('Unit Testing ->', () => {
-  describe('JSON ->', () => {
+  describe('getCountries() ->', () => {
     it('should return an array', () => {
-      expect(json).to.be.an('array');
+      expect(getCountries()).to.be.an('array');
     });
 
     it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status`, `provinces` and `alias` as object keys', () => {
-      json.forEach((country) => {
+      getCountries().forEach((country) => {
         expect(country).to.have.all.keys([
           'alpha2',
           'alpha3',
