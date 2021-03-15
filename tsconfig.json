@@ -11,5 +11,5 @@
     "strict": true,
     "outDir": "./build",
   },
-  "exclude": ["node_modules", "debug"]
+  "exclude": ["node_modules", "debug", "build"]
 }
