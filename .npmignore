@@ -17,6 +17,10 @@ coverage
 # Test directory used by tools like mocha
 test
 
+# Test directory used by tools like jest
+__tests__
+build/__tests__
+
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -41,3 +45,6 @@ tmp.js
 .istanbul.yml
 .jshintignore
 .jshintrc
+.prettierrc.js
+babel.config.js
+tsconfig.json

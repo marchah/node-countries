@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2019",
+    "noEmit": false,
+    "declaration": true,
+    "declarationDir": "build/types",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "typeRoots": ["./types", "./node_modules/@types"],
+    "strict": true,
+    "outDir": "./build",
+  },
+  "exclude": ["node_modules", "debug", "build"]
+}

@@ -1,10 +1,13 @@
 {
   "name": "node-countries",
   "version": "1.6.0",
-  "main": "./index.js",
+  "main": "build/index.js",
   "description": "Countries and Provinces JSON Data",
   "scripts": {
-    "test": "NODE_ENV=test NODE_PATH=./test node ./node_modules/mocha/bin/mocha --exit --harmony "
+    "test": "jest --env=node --colors",
+    "lint": "eslint --ext ts ./",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
   },
   "keywords": [
     "country",
@@ -19,10 +22,36 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "@babel/preset-typescript": "^7.13.0",
+    "@types/chai": "^4.2.15",
+    "@types/jest": "^26.0.20",
+    "@types/lodash": "^4.14.168",
+    "@typescript-eslint/eslint-plugin": "^4.17.0",
+    "@typescript-eslint/parser": "^4.17.0",
+    "babel-jest": "^26.6.3",
     "chai": "^4.3.4",
     "eslint": "^7.21.0",
-    "mocha": "^8.3.2",
-    "rewire": "^5.0.0"
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.2.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "jest": "^26.6.3",
+    "jest-watch-typeahead": "^0.6.1",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.3"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": null,
+    "testRegex": "/__tests__/.*(test|spec)\\.(js|ts)$",
+    "watchPlugins": [
+      "jest-watch-typeahead/filename",
+      "jest-watch-typeahead/testname"
+    ]
   },
   "repository": {
     "type": "git",
