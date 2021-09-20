@@ -913,7 +913,143 @@ export default {
     languages: ['bul'],
     name: 'Bulgaria',
     status: 'assigned',
-    provinces: null,
+    provinces: [
+      {
+        short: 'E',
+        name: 'Blagoevgrad',
+        alias: ['Благоевград'],
+      },
+      {
+        short: 'A',
+        name: 'Burgas',
+        alias: ['Бургас'],
+      },
+      {
+        short: 'TX',
+        name: 'Dobrich',
+        alias: ['Добрич'],
+      },
+      {
+        short: 'EB',
+        name: 'Gabrovo',
+        alias: ['Габрово'],
+      },
+      {
+        short: 'X',
+        name: 'Haskovo',
+        alias: ['Хасково'],
+      },
+      {
+        short: 'K',
+        name: 'Kardzhali',
+        alias: ['Кърджали'],
+      },
+      {
+        short: 'KH',
+        name: 'Kyustendil',
+        alias: ['Кюстендил'],
+      },
+      {
+        short: 'OB',
+        name: 'Lovech',
+        alias: ['Ловеч'],
+      },
+      {
+        short: 'M',
+        name: 'Montana',
+        alias: ['Монтана'],
+      },
+      {
+        short: 'PA',
+        name: 'Pazardzhik',
+        alias: ['Пазарджик'],
+      },
+      {
+        short: 'PK',
+        name: 'Pernik',
+        alias: ['Перник'],
+      },
+      {
+        short: 'EH',
+        name: 'Pleven',
+        alias: ['Плевен'],
+      },
+      {
+        short: 'PB',
+        name: 'Plovdiv',
+        alias: ['Пловдив'],
+      },
+      {
+        short: 'PP',
+        name: 'Razgrad',
+        alias: ['Разград'],
+      },
+      {
+        short: 'P',
+        name: 'Ruse',
+        alias: ['Русе'],
+      },
+      {
+        short: 'H',
+        name: 'Shumen',
+        alias: ['Шумен'],
+      },
+      {
+        short: 'CC',
+        name: 'Silistra',
+        alias: ['Силистра'],
+      },
+      {
+        short: 'CH',
+        name: 'Sliven',
+        alias: ['Сливен'],
+      },
+      {
+        short: 'CM',
+        name: 'Smolyan',
+        alias: ['Смолян'],
+      },
+      {
+        short: 'C',
+        name: 'Sofia',
+        alias: ['София'],
+      },
+      {
+        short: 'CT',
+        name: 'Stara Zagora',
+        alias: ['Стара Загора','Ст. Загора'],
+      },
+      {
+        short: 'T',
+        name: 'Targovishte',
+        alias: ['Търговище'],
+      },
+      {
+        short: 'B',
+        name: 'Varna',
+        alias: ['Варна'],
+      },
+      {
+        short: 'BT',
+        name: 'Veliko Tarnovo',
+        alias: ['Велико Търново', 'В. Търново'],
+      },
+      {
+        short: 'BH',
+        name: 'Vidin',
+        alias: ['Видин'],
+      },
+      {
+        short: 'BP',
+        name: 'Vratsa',
+        alias: ['Враца'],
+      },
+      {
+        short: 'Y',
+        name: 'Yambol',
+        alias: ['Ямбол'],
+      },
+    ],
     alias: null,
   },
   BH: {
