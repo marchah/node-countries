@@ -44,6 +44,7 @@ This module currently has states and provinces for:
 - Brazil (BR)
 - Philippines (PH)
 - Vietnam (VN)
+- Bulgaria (BG)
 
 ### Data
 
