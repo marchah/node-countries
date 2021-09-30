@@ -1,4 +1,4 @@
-import { isString, keyBy } from 'lodash';
+import { isString } from 'lodash';
 
 import countriesRaw from './countries';
 import { Country, Maybe, Province } from './types';
