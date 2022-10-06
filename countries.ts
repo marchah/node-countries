@@ -9247,7 +9247,7 @@ export default {
     currencies: ['VND'],
     ioc: 'VIE',
     languages: ['vie'],
-    name: 'Viet Nam',
+    name: 'Việt Nam',
     status: 'assigned',
     provinces: [
       {
@@ -9503,7 +9503,7 @@ export default {
         alias: ['Ca Mau'],
       },
     ],
-    alias: ['Vietnam'],
+    alias: ['Vietnam', 'Viet Nam', 'Viêt Nam'],
   },
   VU: {
     alpha2: 'VU',
