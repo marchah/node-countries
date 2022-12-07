@@ -7501,7 +7501,7 @@ export default {
     name: 'Saint Helena, Ascension And Tristan Da Cunha',
     status: 'assigned',
     provinces: null,
-    alias: ['Saint Helena', 'St. Helena'],
+    alias: ['Saint Helena', 'St. Helena', 'Ascension', 'Tristan Da Cunha', ],
   },
   SI: {
     alpha2: 'SI',
