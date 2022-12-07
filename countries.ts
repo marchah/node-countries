@@ -7621,7 +7621,7 @@ export default {
     name: 'Sao Tome and Principe',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['São Tomé and Príncipe'],
   },
   SU: {
     alpha2: 'SU',
