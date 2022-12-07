@@ -2062,10 +2062,10 @@ export default {
     currencies: ['XAF'],
     ioc: 'CGO',
     languages: ['fra', 'lin'],
-    name: 'Republic Of Congo',
+    name: 'Republic of the Congo',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['Congo'],
   },
   CH: {
     alpha2: 'CH',
