@@ -1,4 +1,4 @@
-iexport default {
+export default {
   AC: {
     alpha2: 'AC',
     alpha3: '',
@@ -7525,7 +7525,7 @@ iexport default {
     name: 'Svalbard And Jan Mayen',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['Svalbard'],
   },
   SK: {
     alpha2: 'SK',
