@@ -458,7 +458,7 @@ export default {
     name: 'Åland Islands',
     status: 'assigned',
     provinces: null,
-    alias: ['Aland Islands'],
+    alias: ['Aland Islands', 'Aland'],
   },
   AZ: {
     alpha2: 'AZ',
