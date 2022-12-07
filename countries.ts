@@ -8829,7 +8829,7 @@ export default {
     name: 'United States Minor Outlying Islands',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['United States Minor Outlying Islands (Navassa Island, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Wake Atoll)'],
   },
   US: {
     alpha2: 'US',
@@ -9238,7 +9238,7 @@ export default {
     name: 'Virgin Islands (US)',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['United States Virgin Islands'],
   },
   VN: {
     alpha2: 'VN',
