@@ -1,4 +1,4 @@
-export default {
+iexport default {
   AC: {
     alpha2: 'AC',
     alpha3: '',
@@ -7678,10 +7678,10 @@ export default {
     currencies: ['SZL'],
     ioc: 'SWZ',
     languages: ['eng', 'ssw'],
-    name: 'Swaziland',
+    name: 'Eswatini',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['Eswatini', 'Swaziland'],
   },
   TA: {
     alpha2: 'TA',
