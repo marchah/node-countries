@@ -7249,7 +7249,7 @@ export default {
     name: 'Pitcairn',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['Pitcairn Islands', 'Ducie Island', 'Henderson Island', 'Oeno Island'],
   },
   PR: {
     alpha2: 'PR',
