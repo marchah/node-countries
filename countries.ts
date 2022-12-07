@@ -478,11 +478,11 @@ export default {
     countryCallingCodes: ['+387'],
     currencies: ['BAM'],
     ioc: 'BIH',
-    languages: ['bos', 'cre', 'srp'],
+    languages: ['bos', 'hrv', 'srp'],
     name: 'Bosnia and Herzegovina',
     status: 'assigned',
     provinces: null,
-    alias: ['Bosnia & Herzegovina', 'B&H'],
+    alias: ['Bosnia & Herzegovina', 'B&H', 'Bosnia'],
   },
   BB: {
     alpha2: 'BB',
