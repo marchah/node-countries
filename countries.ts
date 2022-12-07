@@ -458,7 +458,7 @@ export default {
     name: 'Åland Islands',
     status: 'assigned',
     provinces: null,
-    alias: ['Aland Islands', 'Aland'],
+    alias: ['Aland Islands', 'Aland', 'Åland'],
   },
   AZ: {
     alpha2: 'AZ',
@@ -4721,7 +4721,7 @@ export default {
     name: 'Saint Kitts And Nevis',
     status: 'assigned',
     provinces: null,
-    alias: ['St. Kitt and Nevis', 'Nevis'],
+    alias: ['St. Kitts and Nevis', 'Nevis'],
   },
   KP: {
     alpha2: 'KP',
@@ -9190,7 +9190,7 @@ export default {
     name: 'Saint Vincent and the Grenadines',
     status: 'assigned',
     provinces: null,
-    alias: ['St. Vincent and the Grenadine', 'Northern Grenadine Islands', 'Bequia', 'Saint Vincent Island'],
+    alias: ['St. Vincent and the Grenadines', 'Northern Grenadine Islands', 'Bequia', 'Saint Vincent Island'],
   },
   VD: {
     alpha2: 'VD',
