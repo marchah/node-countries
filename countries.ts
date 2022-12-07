@@ -9187,10 +9187,10 @@ export default {
     currencies: ['XCD'],
     ioc: 'VIN',
     languages: ['eng'],
-    name: 'Saint Vincent And The Grenadines',
+    name: 'Saint Vincent and the Grenadines',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['St. Vincent and the Grenadine', 'Northern Grenadine Islands', 'Bequia', 'Saint Vincent Island'],
   },
   VD: {
     alpha2: 'VD',
