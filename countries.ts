@@ -7270,10 +7270,10 @@ export default {
     currencies: ['JOD', 'EGP', 'ILS'],
     ioc: 'PLE',
     languages: ['ara'],
-    name: 'Palestinian Territory, Occupied',
+    name: 'Palestine, State of',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['Palestine'],
   },
   PT: {
     alpha2: 'PT',
