@@ -2038,10 +2038,10 @@ export default {
     currencies: ['CDF'],
     ioc: 'COD',
     languages: ['fra', 'lin', 'kon', 'swa'],
-    name: 'Democratic Republic Of Congo',
+    name: 'Democratic Republic of the Congo',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['Democratic Republic of Congo', 'Zaire'],
   },
   CF: {
     alpha2: 'CF',
