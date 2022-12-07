@@ -7354,10 +7354,10 @@ export default {
     currencies: ['EUR'],
     ioc: '',
     languages: ['fra'],
-    name: 'Reunion',
+    name: 'Réunion',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['Reunion'],
   },
   RH: {
     alpha2: 'RH',
