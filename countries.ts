@@ -4721,7 +4721,7 @@ export default {
     name: 'Saint Kitts And Nevis',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['St. Kitt and Nevis', 'Nevis'],
   },
   KP: {
     alpha2: 'KP',
