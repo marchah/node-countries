@@ -5018,10 +5018,10 @@ export default {
     currencies: ['MKD'],
     ioc: 'MKD',
     languages: ['mkd'],
-    name: 'Macedonia',
+    name: 'North Macedonia',
     status: 'assigned',
     provinces: null,
-    alias: null,
+    alias: ['Macedonia'],
   },
   ML: {
     alpha2: 'ML',
