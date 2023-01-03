@@ -1017,7 +1017,7 @@ export default {
       {
         short: 'CT',
         name: 'Stara Zagora',
-        alias: ['Стара Загора','Ст. Загора'],
+        alias: ['Стара Загора', 'Ст. Загора'],
       },
       {
         short: 'T',
@@ -1704,10 +1704,10 @@ export default {
     currencies: [],
     ioc: '',
     languages: ['eng', 'nld', 'pap'],
-    name: 'Bonaire, Sint Eustatius and Saba',
-    status: 'deleted',
+    name: 'Caribbean Netherlands',
+    status: 'assigned',
     provinces: null,
-    alias: ['Bonaire', 'Saba', 'Sint Eustatius', 'Caribbean Netherlands'],
+    alias: ['Bonaire, Sint Eustatius and Saba', 'Bonaire', 'Saba', 'Sint Eustatius', 'BES islands'],
   },
   BR: {
     alpha2: 'BR',
@@ -7501,7 +7501,7 @@ export default {
     name: 'Saint Helena, Ascension And Tristan Da Cunha',
     status: 'assigned',
     provinces: null,
-    alias: ['Saint Helena', 'St. Helena', 'Ascension', 'Tristan Da Cunha', ],
+    alias: ['Saint Helena', 'St. Helena', 'Ascension', 'Tristan Da Cunha'],
   },
   SI: {
     alpha2: 'SI',
@@ -7618,10 +7618,10 @@ export default {
     currencies: ['STD'],
     ioc: 'STP',
     languages: ['por'],
-    name: 'Sao Tome and Principe',
+    name: 'São Tomé and Príncipe',
     status: 'assigned',
     provinces: null,
-    alias: ['São Tomé and Príncipe'],
+    alias: ['Sao Tome and Principe'],
   },
   SU: {
     alpha2: 'SU',
@@ -8829,7 +8829,9 @@ export default {
     name: 'United States Minor Outlying Islands',
     status: 'assigned',
     provinces: null,
-    alias: ['United States Minor Outlying Islands (Navassa Island, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Wake Atoll)'],
+    alias: [
+      'United States Minor Outlying Islands (Navassa Island, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Wake Atoll)',
+    ],
   },
   US: {
     alpha2: 'US',
@@ -9190,7 +9192,12 @@ export default {
     name: 'Saint Vincent and the Grenadines',
     status: 'assigned',
     provinces: null,
-    alias: ['St. Vincent and the Grenadines', 'Northern Grenadine Islands', 'Bequia', 'Saint Vincent Island'],
+    alias: [
+      'St. Vincent and the Grenadines',
+      'Northern Grenadine Islands',
+      'Bequia',
+      'Saint Vincent Island',
+    ],
   },
   VD: {
     alpha2: 'VD',
