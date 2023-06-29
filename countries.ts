@@ -837,56 +837,101 @@ export default {
     ioc: 'BEL',
     languages: ['nld', 'fra', 'deu'],
     name: 'Belgium',
+    translation: {
+      nld: 'België',
+      fra: 'Belgique',
+      deu: 'Belgien',
+    },
     status: 'assigned',
     provinces: [
       {
         short: 'ANT',
         name: 'Antwerpen',
+        translation: {
+          nld: 'Antwerpen',
+          fra: 'Anvers',
+        },
         alias: null,
       },
       {
         short: 'HAI',
         name: 'Henegouwen',
+        translation: {
+          nld: 'Hennegau',
+          fra: 'Hainault',
+        },
         alias: ['Hainaut'],
       },
       {
         short: 'LIE',
         name: 'Luik',
+        translation: {
+          nld: 'Lüttich',
+          fra: 'Liège',
+        },
         alias: ['Liège', 'Liege'],
       },
       {
         short: 'LIM',
         name: 'Limburg',
+        translation: {
+          nld: 'Limburg',
+          fra: 'Limbourg',
+        },
         alias: null,
       },
       {
         short: 'LUX',
         name: 'Luxemburg',
+        translation: {
+          nld: 'Luxemburg',
+          fra: 'Luxembourg',
+        },
         alias: null,
       },
       {
         short: 'NAM',
         name: 'Namen',
+        translation: {
+          nld: 'Namür',
+          fra: 'Namur',
+        },
         alias: null,
       },
       {
         short: 'OVL',
         name: 'Oost-Vlaanderen',
+        translation: {
+          nld: 'Ostflandern',
+          fra: 'Flandre orientale',
+        },
         alias: ['Oost Vlaanderen'],
       },
       {
         short: 'VBR',
         name: 'Vlaams-Brabant',
+        translation: {
+          nld: 'Wallonisch-Brabant',
+          fra: 'Brabant wallon',
+        },
         alias: ['Vlaams Brabant'],
       },
       {
         short: 'WBR',
         name: 'Waals-Brabant',
+        translation: {
+          nld: 'Flämisch-Brabant',
+          fra: 'Brabant flamand',
+        },
         alias: ['Waals Brabant'],
       },
       {
         short: 'WVL',
         name: 'West-Vlaanderen',
+        translation: {
+          nld: 'Westflandern',
+          fra: 'Flandre occidentale',
+        },
         alias: ['West Vlaanderen'],
       },
     ],
@@ -1954,66 +1999,79 @@ export default {
       {
         short: 'AB',
         name: 'Alberta',
+        translation: { fra: 'Alberta' },
         alias: null,
       },
       {
         short: 'BC',
         name: 'British Columbia',
+        translation: { fra: 'Colombie-Britannique' },
         alias: null,
       },
       {
         short: 'MB',
         name: 'Manitoba',
+        translation: { fra: 'Manitoba' },
         alias: null,
       },
       {
         short: 'NB',
         name: 'New Brunswick',
+        translation: { fra: 'Nouveau-Brunswick' },
         alias: null,
       },
       {
         short: 'NL',
         name: 'Newfoundland and Labrador',
+        translation: { fra: 'Terre-Neuve-et-Labrador' },
         alias: ['Newfoundland', 'Labrador'],
       },
       {
         short: 'NS',
         name: 'Nova Scotia',
+        translation: { fra: 'Nouvelle-Écosse' },
         alias: null,
       },
       {
         short: 'NU',
         name: 'Nunavut',
+        translation: { fra: 'Nunavut' },
         alias: null,
       },
       {
         short: 'NT',
         name: 'Northwest Territories',
+        translation: { fra: 'Territoires du Nord-Ouest' },
         alias: null,
       },
       {
         short: 'ON',
         name: 'Ontario',
+        translation: { fra: 'Ontario' },
         alias: null,
       },
       {
         short: 'PE',
         name: 'Prince Edward Island',
+        translation: { fra: 'Île-du-Prince-Édouard' },
         alias: null,
       },
       {
         short: 'QC',
         name: 'Quebec',
+        translation: { fra: 'Québec' },
         alias: null,
       },
       {
         short: 'SK',
         name: 'Saskatchewan',
+        translation: { fra: 'Saskatchewan' },
         alias: null,
       },
       {
         short: 'YT',
         name: 'Yukon',
+        translation: { fra: 'Yukon' },
         alias: null,
       },
     ],

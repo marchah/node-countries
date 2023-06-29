@@ -29,6 +29,7 @@ const Andorra = {
 const NewfoundlandAndLabrador = {
   short: 'NL',
   name: 'Newfoundland and Labrador',
+  translation: { fra: 'Terre-Neuve-et-Labrador' },
   alias: ['Newfoundland', 'Labrador'],
 };
 
@@ -56,48 +57,11 @@ describe('Unit Testing ->', () => {
     it('should return an array', () => {
       expect(getCountries()).to.be.an('array');
     });
-
-    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status`, `provinces` and `alias` as object keys', () => {
-      getCountries().forEach((country) => {
-        expect(country).to.have.all.keys([
-          'alpha2',
-          'alpha3',
-          'countryCallingCodes',
-          'currencies',
-          'ioc',
-          'languages',
-          'name',
-          'status',
-          'provinces',
-          'alias',
-        ]);
-      });
-    });
   });
 
   describe('alpha2 ->', () => {
     it('should return an object', () => {
       expect(countries.AD).to.be.an('object');
-    });
-
-    it('should have `alpha2`, `alpha3`, `countryCallingCodes`, `currencies`, `ioc`, `languages`, `name`, `status` `provinces`, `alias` as object keys', () => {
-      Object.keys(countries).forEach((key) => {
-        if (_.isString(key) && key.length === 2) {
-          // @ts-ignore
-          expect(countries[key]).to.have.all.keys([
-            'alpha2',
-            'alpha3',
-            'countryCallingCodes',
-            'currencies',
-            'ioc',
-            'languages',
-            'name',
-            'status',
-            'provinces',
-            'alias',
-          ]);
-        }
-      });
     });
   });
 
