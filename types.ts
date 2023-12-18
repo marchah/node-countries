@@ -5,6 +5,7 @@ export type Province = {
   name: string;
   alias?: Maybe<string[]>;
   region?: Maybe<string>;
+  translation?: Maybe<{ [language: string]: string }>;
 };
 
 export interface Country {
@@ -14,6 +15,7 @@ export interface Country {
   currencies: string[];
   ioc: string;
   languages: string[];
+  translation?: Maybe<{ [language: string]: string }>;
   name: string;
   status: string;
   provinces?: Maybe<Array<Province>>;
