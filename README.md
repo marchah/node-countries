@@ -138,7 +138,7 @@ import { getCountryByName } from 'node-countries'
 
 Return the matched country object, else null (alias: `findCountryByName`)
 
-### getCountryByNameOrShortName(name or short name (alpha2), [useAlias])
+### getCountryByNameOrShortName(name or short name (alpha2, alpha3), [useAlias])
 
 ```javascript
 import { getCountryByNameOrShortName } from 'node-countries'

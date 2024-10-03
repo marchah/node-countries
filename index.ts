@@ -37,7 +37,7 @@ export function getCountryByName(name?: Maybe<string>, useAlias?: Maybe<boolean>
 /**
  * Find the country object of the given country name or short name
  *
- * @param {String}  name              country name or short name (alpha2)
+ * @param {String}  name              country name or short name (alpha2, alpha3)
  * @param {Boolean} [useAlias]        use alias flag, default `false`
  * @return {Object} country           country object
  */
@@ -53,6 +53,7 @@ export function getCountryByNameOrShortName(
         return (
           country.name.toUpperCase() === name.toUpperCase() ||
           country.alpha2.toUpperCase() === name.toUpperCase() ||
+          country.alpha3.toUpperCase() === name.toUpperCase() ||
           (country.alias || []).find(function (alias) {
             return alias.toUpperCase() === name.toUpperCase();
           })
@@ -60,7 +61,8 @@ export function getCountryByNameOrShortName(
       }
       return (
         country.name.toUpperCase() === name.toUpperCase() ||
-        country.alpha2.toUpperCase() === name.toUpperCase()
+        country.alpha2.toUpperCase() === name.toUpperCase() ||
+        country.alpha3.toUpperCase() === name.toUpperCase()
       );
     }) ?? null
   );
