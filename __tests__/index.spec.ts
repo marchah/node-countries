@@ -156,16 +156,24 @@ describe('Unit Testing ->', () => {
           expect(getCountryByNameOrShortName('Guinea-Bissau')).to.eql(GuineaBissau);
         });
 
-        it('should return country object when find it using short name', () => {
+        it('should return country object when find it using alpha2', () => {
           expect(getCountryByNameOrShortName('GW')).to.eql(GuineaBissau);
+        });
+
+        it('should return country object when find it using alpha3', () => {
+          expect(getCountryByNameOrShortName('GNB')).to.eql(GuineaBissau);
         });
 
         it('should return country object by ignoring case', () => {
           expect(getCountryByNameOrShortName('GuiNea-BisSau')).to.eql(GuineaBissau);
         });
 
-        it('should return country object by ignoring case using short name', () => {
+        it('should return country object by ignoring case using alpha2', () => {
           expect(getCountryByNameOrShortName('Gw')).to.eql(GuineaBissau);
+        });
+
+        it('should return country object by ignoring case using alpha3', () => {
+          expect(getCountryByNameOrShortName('GnB')).to.eql(GuineaBissau);
         });
 
         it('should return `null` when searching alias with no useAlias parameter', () => {
@@ -180,16 +188,24 @@ describe('Unit Testing ->', () => {
           expect(getCountryByNameOrShortName('Guinea Bissau', true)).to.eql(GuineaBissau);
         });
 
-        it('should return `null` when searching alias with useAlias parameter `true` using short name', () => {
+        it('should return `null` when searching alias with useAlias parameter `true` using alpha2', () => {
           expect(getCountryByNameOrShortName('GW', true)).to.eql(GuineaBissau);
+        });
+
+        it('should return `null` when searching alias with useAlias parameter `true` using alpha3', () => {
+          expect(getCountryByNameOrShortName('GNB', true)).to.eql(GuineaBissau);
         });
 
         it('should return `null` by ignoring case when searching alias with useAlias parameter `true`', () => {
           expect(getCountryByNameOrShortName('GuiNea BisSau', true)).to.eql(GuineaBissau);
         });
 
-        it('should return `null` by ignoring case when searching alias with useAlias parameter `true` using short name', () => {
+        it('should return `null` by ignoring case when searching alias with useAlias parameter `true` using alpha2', () => {
           expect(getCountryByNameOrShortName('Gw', true)).to.eql(GuineaBissau);
+        });
+
+        it('should return `null` by ignoring case when searching alias with useAlias parameter `true` using alpha3', () => {
+          expect(getCountryByNameOrShortName('GnB', true)).to.eql(GuineaBissau);
         });
 
         it('should return country object when searching alias with useAlias parameter `true` and country has no province', () => {
@@ -210,16 +226,24 @@ describe('Unit Testing ->', () => {
           expect(findCountryByNameOrShortName('Guinea-Bissau')).to.eql(GuineaBissau);
         });
 
-        it('should return country object when find it using short name', () => {
+        it('should return country object when find it using alpha2', () => {
           expect(findCountryByNameOrShortName('GW')).to.eql(GuineaBissau);
+        });
+
+        it('should return country object when find it using alpha3', () => {
+          expect(findCountryByNameOrShortName('GNB')).to.eql(GuineaBissau);
         });
 
         it('should return country object when find it by ignoring case', () => {
           expect(findCountryByNameOrShortName('GuiNea-BisSau')).to.eql(GuineaBissau);
         });
 
-        it('should return country object when find it by ignoring case using short name', () => {
+        it('should return country object when find it by ignoring case using alpha2', () => {
           expect(findCountryByNameOrShortName('Gw')).to.eql(GuineaBissau);
+        });
+
+        it('should return country object when find it by ignoring case using alpha3', () => {
+          expect(findCountryByNameOrShortName('GnB')).to.eql(GuineaBissau);
         });
 
         it('should return `null` when searching alias with no useAlias parameter', () => {
@@ -234,16 +258,24 @@ describe('Unit Testing ->', () => {
           expect(findCountryByNameOrShortName('Guinea Bissau', true)).to.eql(GuineaBissau);
         });
 
-        it('should return `null` when searching alias with useAlias parameter `true` using short name', () => {
+        it('should return `null` when searching alias with useAlias parameter `true` using alpha2', () => {
           expect(findCountryByNameOrShortName('GW', true)).to.eql(GuineaBissau);
+        });
+
+        it('should return `null` when searching alias with useAlias parameter `true` using alpha3', () => {
+          expect(findCountryByNameOrShortName('GNB', true)).to.eql(GuineaBissau);
         });
 
         it('should return `null` by ignoring case when searching alias with useAlias parameter `true`', () => {
           expect(findCountryByNameOrShortName('GuiNea BisSau', true)).to.eql(GuineaBissau);
         });
 
-        it('should return `null` by ignoring case when searching alias with useAlias parameter `true` using short name', () => {
+        it('should return `null` by ignoring case when searching alias with useAlias parameter `true` using alpha2', () => {
           expect(findCountryByNameOrShortName('Gw', true)).to.eql(GuineaBissau);
+        });
+
+        it('should return `null` by ignoring case when searching alias with useAlias parameter `true` using alpha3', () => {
+          expect(findCountryByNameOrShortName('GnB', true)).to.eql(GuineaBissau);
         });
 
         it('should return country object when searching alias with useAlias parameter `true` and country has no alias', () => {
