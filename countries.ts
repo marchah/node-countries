@@ -9202,7 +9202,7 @@ export default {
         alias: null,
       },
     ],
-    alias: ['US', 'U.S', 'U.S.', 'USA', 'U.S.A', 'U.S.A.'],
+    alias: ['US', 'U.S', 'U.S.', 'USA', 'U.S.A', 'U.S.A.', 'United States of America'],
   },
   UY: {
     alpha2: 'UY',
